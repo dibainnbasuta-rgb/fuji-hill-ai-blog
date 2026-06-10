@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Local screenshots and temporary files
+*_preview.png
+*_verify.png
+*.tmp
+
+# Secrets should never be committed
+*.env
+*.key
+*.pem
+credentials*
+token*
