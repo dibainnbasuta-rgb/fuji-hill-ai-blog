@@ -3,21 +3,19 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>目標と現状メニュー｜AIと喧嘩しながら富士ヒルゴールドを目指すブログ</title>
+<title>目標と現状メニュー｜AIと喧嘩しながら富士ヒルゴールドを狙うブログ</title>
 <meta name="description" content="富士ヒルゴールドに向けた今月の目標、ローラーメニュー、食事補給方針、AI相談ルールを整理したページ。" />
-<link rel="stylesheet" href="assets/styles.css?v=20260610b" />
+<link rel="icon" type="image/png" href="assets/images/avatar-a.png" />
+<link rel="stylesheet" href="assets/styles.css?v=20260613a" />
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="index.html" aria-label="トップページへ">
-    <img src="assets/images/brand-mark-v1.png" alt="" aria-hidden="true" />
-    <span class="brand-text">
-      <span class="brand-main">AIと喧嘩しながら</span>
-      <span class="brand-sub">富士ヒルゴールドを狙うブログ</span>
-    </span>
+  <a class="brand" href="index.html" aria-label="トップページへ戻る">
+    <img class="brand-lockup" src="assets/images/logo-lockup.png" alt="AIと喧嘩しながら富士ヒルゴールドを狙うブログ" />
   </a>
   <nav class="global-nav" aria-label="グローバルナビ">
     <a href="blog.html">記事</a>
+    <a href="logs.html">日誌</a>
     <a href="experiments.html">実験</a>
     <a href="old-blog.html">旧ブログ発掘</a>
     <a href="plan.html">目標とメニュー</a>
@@ -26,10 +24,13 @@
 </header>
 
 <main class="subpage">
-  <section class="page-hero">
-    <span class="kicker">PLAN</span>
-    <h1>目標と現状メニュー</h1>
-    <p>トップに置くと重い情報なので、見たい人だけ来られる別ページにまとめます。ゴールドは狙う。でも楽しく続けることを優先します。</p>
+  <section class="page-hero page-hero-photo">
+    <div>
+      <span class="kicker">PLAN</span>
+      <h1>目標と現状メニュー</h1>
+      <p>トップに置くと重い情報なので、見たい人だけ来られる別ページにまとめます。ゴールドは狙う。でも楽しく続けることを優先します。あと飽き性なので萎えたら疾走するかも。</p>
+    </div>
+    <img src="assets/images/photo-rnc7-view.jpg" alt="太平山の見晴らしとRNC7" />
   </section>
 
   <section class="section">
@@ -37,22 +38,58 @@
       <span class="kicker">GOAL</span>
       <h2>大方針</h2>
     </div>
+    <img class="goal-banner" src="assets/images/fuji-gold-banner.png" alt="富士山とゴールドリングと実験体A" />
     <ul class="stack-list">
       <li><b>富士ヒルゴールドは一応狙う</b><span>ただし、1年あるので気楽に進める。途中でモチベーションが落ちたら出ない選択も普通にあり。</span></li>
       <li><b>楽しく走れる状態を優先</b><span>過度に追い込み続けるより、ライドが嫌にならない状態を守る。</span></li>
-      <li><b>登りで踏み続ける力を伸ばす</b><span>FTPだけでなく、太平や20分走で実走に近い持続力を見る。</span></li>
+      <li><b>登りで踏み続ける力を伸ばす</b><span>富士ヒル特化で60分ローラーで4倍だせればゴールド取れるのでは？と思ったので出来るのか試したい。絵に描いた餅なのか？</span></li>
     </ul>
   </section>
 
   <section class="section">
     <div class="section-heading">
+      <span class="kicker">CURRENT NUMBERS</span>
+      <h2>現在の数値</h2>
+      <p>体重とFTPを入れると、パワーウェイトレシオ（PWR）が自動で計算されます。入力した値はこの端末に保存されます。</p>
+    </div>
+    <form class="numbers-card" id="numbersForm" autocomplete="off">
+      <div class="num-field">
+        <label for="numDate">測定日</label>
+        <input type="date" id="numDate" value="2026-06-12" />
+      </div>
+      <div class="num-field">
+        <label for="numWeight">体重<span class="unit">kg</span></label>
+        <input type="number" id="numWeight" inputmode="decimal" step="0.1" min="30" max="120" value="75" />
+      </div>
+      <div class="num-field">
+        <label for="numFtp">FTP<span class="unit">W</span></label>
+        <input type="number" id="numFtp" inputmode="numeric" step="1" min="50" max="500" value="275" />
+      </div>
+      <div class="num-field">
+        <label for="num20min">20分走パワー<span class="unit">W</span></label>
+        <input type="number" id="num20min" inputmode="numeric" step="1" min="50" max="600" value="" placeholder="未入力" />
+      </div>
+      <div class="num-field num-result">
+        <label>パワーウェイトレシオ<span class="unit">W/kg</span></label>
+        <output id="numPwr">3.66</output>
+      </div>
+      <div class="num-actions">
+        <button type="submit" class="button button-primary">保存する</button>
+        <span class="num-saved" id="numSaved" hidden>保存しました</span>
+      </div>
+    </form>
+    <p class="num-note">※ パワーウェイトレシオ＝FTP ÷ 体重。20分走パワーの約95%がFTPの目安です。富士ヒルゴールドはおおむね 4.0〜4.2 W/kg 前後が目安と言われます。</p>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
       <span class="kicker">ROLLER</span>
-      <h2>雨の日ローラーの中心メニュー</h2>
-      <p>ローラーは基本4本ローラー＋RNC7。片側パワーなので、Aethos2の両側パワーとは完全一致しない前提で見ます。</p>
+      <h2>ローラーメニュー</h2>
+      <p>使用ローラーはGT-ROLLER Q1.1。最終目標は60分FTPで踏める足。今は無理。</p>
     </div>
     <div class="split">
       <div class="panel">
-        <h3>最低ライン: Sweet Spot風 35分</h3>
+        <h3>更新日6/13　 Sweet Spot風 35分</h3>
         <ul class="stack-list">
           <li><b>0-8分</b><span>アップ 100-160W</span></li>
           <li><b>8-18分</b><span>ON 250-275W</span></li>
@@ -78,9 +115,9 @@
       <h2>食事と補給の方針</h2>
     </div>
     <ul class="stack-list">
-      <li><b>ライド日はご飯250-300gを試す</b><span>脚に力が入らない感覚を、炭水化物不足に近いものとして扱う。</span></li>
-      <li><b>ローラー後はプロテイン</b><span>エクスプロージョン 30gで117kcal、たんぱく質21.3gとして記録。</span></li>
-      <li><b>食事まで空く日は糖質を足す</b><span>バナナ、レーズンパン、マスカルポーネなどを状況に応じて使う。</span></li>
+      <li><b>ライド日はご飯250-300gを試す</b><span>精米機を買ったので玄米30kg買って5部づきで食べてます。そっちの方が栄養取れて効率いい気がするから。</span></li>
+      <li><b>朝起きて1杯、練習後にもプロテイン</b><span>今はエクスプロージョンのプロテイン飲んでます。元マイプロユーザーですが、セールの時狙うのが疲れました。</span></li>
+      <li><b>食事まで空く日は糖質を足す</b><span>朝はプロテインとパン200kcal、コーヒー、プロテインで固定してます。もう朝食考えるのめんどくさい！</span></li>
     </ul>
   </section>
 
@@ -103,8 +140,74 @@
 </main>
 
 <footer class="site-footer">
-  <small>AIと喧嘩しながら富士ヒルゴールドを目指すブログ</small>
+  <nav class="footer-nav" aria-label="フッターナビ">
+    <a href="index.html">トップ</a>
+    <a href="blog.html">記事一覧</a>
+    <a href="logs.html">日誌</a>
+    <a href="experiments.html">6つの実験</a>
+    <a href="old-blog.html">旧ブログ発掘</a>
+    <a href="plan.html">目標とメニュー</a>
+    <a href="profile.html">プロフィール</a>
+  </nav>
+  <small>© 2026 AIと喧嘩しながら富士ヒルゴールドを狙うブログ</small>
 </footer>
+<script>
+(function () {
+  var KEY = 'fuji_numbers_v1';
+  var dateEl = document.getElementById('numDate');
+  var wEl = document.getElementById('numWeight');
+  var fEl = document.getElementById('numFtp');
+  var f20El = document.getElementById('num20min');
+  var pwrEl = document.getElementById('numPwr');
+  var form = document.getElementById('numbersForm');
+  var saved = document.getElementById('numSaved');
+  if (!form) return;
+
+  function calcPwr() {
+    var w = parseFloat(wEl.value);
+    var f = parseFloat(fEl.value);
+    if (w > 0 && f > 0) {
+      pwrEl.textContent = (Math.floor((f / w) * 100) / 100).toFixed(2);
+    } else {
+      pwrEl.textContent = '—';
+    }
+  }
+
+  function load() {
+    try {
+      var raw = localStorage.getItem(KEY);
+      if (!raw) return;
+      var d = JSON.parse(raw);
+      if (d.date) dateEl.value = d.date;
+      if (d.weight) wEl.value = d.weight;
+      if (d.ftp) fEl.value = d.ftp;
+      if (d.p20) f20El.value = d.p20;
+    } catch (e) {}
+  }
+
+  load();
+  calcPwr();
+
+  wEl.addEventListener('input', calcPwr);
+  fEl.addEventListener('input', calcPwr);
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    calcPwr();
+    try {
+      localStorage.setItem(KEY, JSON.stringify({
+        date: dateEl.value,
+        weight: wEl.value,
+        ftp: fEl.value,
+        p20: f20El.value
+      }));
+    } catch (e2) {}
+    saved.hidden = false;
+    clearTimeout(form._t);
+    form._t = setTimeout(function () { saved.hidden = true; }, 2200);
+  });
+})();
+</script>
 </body>
 </html>
 

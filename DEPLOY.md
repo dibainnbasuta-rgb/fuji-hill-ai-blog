@@ -17,6 +17,13 @@ GitHub に push し、Cloudflare Pages から GitHub リポジトリを連携し
 ローカルでは自由に作業します。
 公開タイミングだけを分けることで、細かい修正のたびに公開作業が発生しないようにします。
 
+## 現在の公開状態
+
+- GitHub: `https://github.com/dibainnbasuta-rgb/fuji-hill-ai-blog`
+- Cloudflare Pages: `https://fuji-hill-ai-blog.pages.dev/`
+- Production branch: `main`
+- 注意: Cloudflare Pages は GitHub の `main` ブランチへの push を検知すると自動デプロイします。公開版を更新したくない間は、ローカル編集だけに留めて `git push` しません。
+
 ## 公開前チェック
 
 - `index.html` が表示できる

@@ -3,21 +3,19 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>旧ブログ発掘室｜AIと喧嘩しながら富士ヒルゴールドを目指すブログ</title>
+<title>旧ブログ発掘室｜AIと喧嘩しながら富士ヒルゴールドを狙うブログ</title>
 <meta name="description" content="旧ブログ「ロードバイク時々マウンテン」をWayback Machineから発掘し、今の富士ヒル挑戦ブログへリメイクするページ。" />
-<link rel="stylesheet" href="assets/styles.css?v=20260610b" />
+<link rel="icon" type="image/png" href="assets/images/avatar-a.png" />
+<link rel="stylesheet" href="assets/styles.css?v=20260613a" />
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="index.html" aria-label="トップページへ">
-    <img src="assets/images/brand-mark-v1.png" alt="" aria-hidden="true" />
-    <span class="brand-text">
-      <span class="brand-main">AIと喧嘩しながら</span>
-      <span class="brand-sub">富士ヒルゴールドを狙うブログ</span>
-    </span>
+  <a class="brand" href="index.html" aria-label="トップページへ戻る">
+    <img class="brand-lockup" src="assets/images/logo-lockup.png" alt="AIと喧嘩しながら富士ヒルゴールドを狙うブログ" />
   </a>
   <nav class="global-nav" aria-label="グローバルナビ">
     <a href="blog.html">記事</a>
+    <a href="logs.html">日誌</a>
     <a href="experiments.html">実験</a>
     <a href="old-blog.html">旧ブログ発掘</a>
     <a href="plan.html">目標とメニュー</a>
@@ -26,13 +24,16 @@
 </header>
 
 <main class="subpage">
-  <section class="page-hero">
-    <span class="kicker">OLD BLOG LAB</span>
-    <h1>ロードバイク時々マウンテンを発掘する</h1>
-    <p>
-      昔のブログをただ懐かしむのではなく、今の富士ヒル挑戦に使える実験データとして読み直します。
-      昔の自分、今の自分、AIの三者レビューにすると、普通の再掲よりずっと面白くできます。
-    </p>
+  <section class="page-hero page-hero-photo page-hero-illust">
+    <div>
+      <span class="kicker">OLD BLOG LAB</span>
+      <h1>ロードバイク時々マウンテンを発掘する</h1>
+      <p>
+        昔のブログをただ懐かしむのではなく、今の富士ヒル挑戦に使える実験データとして読み直します。
+        昔の自分、今の自分、AIの三者レビューにすると、普通の再掲よりずっと面白くできます。
+      </p>
+    </div>
+    <img src="assets/images/illust-a-archaeology.png" alt="考古学の本を読む実験体A" />
   </section>
 
   <section class="section">
@@ -75,7 +76,7 @@
     </div>
     <div class="archive-list">
       <a class="archive-row" href="articles/old-blog-recovery.html">
-        <time>発掘</time>
+        <span class="queue-tag">発掘</span>
         <div>
           <span class="rank-label">新着</span>
           <h2>旧ブログを掘り返したら、219本の記事と2178枚の画像が出てきた</h2>
@@ -83,7 +84,7 @@
         </div>
       </a>
       <a class="archive-row" href="articles/remake-fuji-oikomi.html">
-        <time>富士ヒル</time>
+        <span class="queue-tag">富士ヒル</span>
         <div>
           <span class="rank-label">最優先</span>
           <h2>富士ヒル追い込みの文章を見て思うこと</h2>
@@ -91,23 +92,23 @@
         </div>
       </a>
       <a class="archive-row" href="articles/remake-tarmac-sl6.html">
-        <time>機材</time>
+        <span class="queue-tag">機材</span>
         <div>
           <span class="rank-label">機材比較</span>
           <h2>久々のターマック。SL6は軽い、よく登る</h2>
           <p>2019年の富士ヒル実績と、現在のAethos2使用予定をつなぐ記事にできます。</p>
         </div>
       </a>
-      <a class="archive-row" href="logs.html">
-        <time>ローラー</time>
+      <a class="archive-row" href="blog.html">
+        <span class="queue-tag">ローラー</span>
         <div>
           <span class="rank-label">練習</span>
           <h2>1分走は時間効率いいけど、やりたくはない</h2>
           <p>今のVO2刺激メニューとつなげると、過去の自分の練習観を検証できます。</p>
         </div>
       </a>
-      <a class="archive-row" href="logs.html">
-        <time>失敗</time>
+      <a class="archive-row" href="blog.html">
+        <span class="queue-tag">失敗</span>
         <div>
           <span class="rank-label">読み物向き</span>
           <h2>ヤフオク、補給、パンク、CO2などの失敗シリーズ</h2>
@@ -145,7 +146,16 @@
 </main>
 
 <footer class="site-footer">
-  <small>AIと喧嘩しながら富士ヒルゴールドを目指すブログ</small>
+  <nav class="footer-nav" aria-label="フッターナビ">
+    <a href="index.html">トップ</a>
+    <a href="blog.html">記事一覧</a>
+    <a href="logs.html">日誌</a>
+    <a href="experiments.html">6つの実験</a>
+    <a href="old-blog.html">旧ブログ発掘</a>
+    <a href="plan.html">目標とメニュー</a>
+    <a href="profile.html">プロフィール</a>
+  </nav>
+  <small>© 2026 AIと喧嘩しながら富士ヒルゴールドを狙うブログ</small>
 </footer>
 </body>
 </html>
