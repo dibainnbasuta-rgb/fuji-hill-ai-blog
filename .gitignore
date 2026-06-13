@@ -15,3 +15,10 @@ desktop.ini
 *.pem
 credentials*
 token*
+
+# 内部ファイル（公開サイトに出さない＝Cloudflare Pagesで配信させない）
+/WORK_LOG.md
+/drafts/
+/tools/
+/画像置き場/
+/index-story-preview.html
