@@ -1139,6 +1139,15 @@ h1{
 .article-hero-photo img{
   max-height:620px;
 }
+.article-portrait-photo img{
+  width:auto;
+  max-width:100%;
+  max-height:720px;
+  object-fit:contain;
+  display:block;
+  margin:0 auto;
+  background:#f6f3ed;
+}
 .article-screenshot img{
   max-height:none;
   object-fit:contain;
