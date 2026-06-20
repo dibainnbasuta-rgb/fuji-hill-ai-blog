@@ -11,6 +11,11 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
+html,
+body{
+  max-width:100%;
+  overflow-x:hidden;
+}
 body{
   margin:0;
   background:var(--bg);
@@ -1087,6 +1092,7 @@ h1{
 .article-header h1{
   margin-top:10px;
   font-size:clamp(30px,4.2vw,46px);
+  overflow-wrap:anywhere;
 }
 .article-meta{
   display:flex;
@@ -1786,7 +1792,16 @@ h1{
   .page-hero{padding:34px 0 8px}
   .page-hero p{font-size:13px}
   .archive-row h2{font-size:18px}
-  .article-main{padding:18px 12px 52px}
+  .article-main{
+    width:100%;
+    max-width:100%;
+    padding:18px 12px 52px;
+  }
+  .article{
+    width:100%;
+    max-width:100%;
+    min-width:0;
+  }
   .article-header h1{font-size:30px}
   .photo-strip img,
   .feature-card.with-image img,
