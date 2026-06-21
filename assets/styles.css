@@ -1795,14 +1795,23 @@ h1{
   .article-main{
     width:100%;
     max-width:100%;
-    padding:18px 12px 52px;
+    padding:18px 8px 52px;
   }
   .article{
     width:100%;
     max-width:100%;
     min-width:0;
+    padding:26px 14px;
   }
-  .article-header h1{font-size:30px}
+  .article-summary,
+  .ai-dialogue{
+    padding-left:14px;
+    padding-right:14px;
+  }
+  .article-header h1{
+    font-size:28px;
+    line-height:1.22;
+  }
   .photo-strip img,
   .feature-card.with-image img,
   .article-card img,
