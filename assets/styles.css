@@ -1200,6 +1200,9 @@ h1{
   border:1px solid var(--line);
   border-radius:8px;
 }
+.article-data-list li > *{
+  min-width:0;
+}
 .article-data-list b{
   font-size:13px;
 }
@@ -1207,6 +1210,8 @@ h1{
   color:#4f5960;
   font-size:13px;
   font-weight:800;
+  overflow-wrap:anywhere;
+  text-align:right;
 }
 .article-data-list.compact{
   grid-template-columns:1fr;
@@ -1780,6 +1785,23 @@ h1{
   .data-grid,
   .article-data-list{
     grid-template-columns:1fr;
+  }
+  .article-data-list li{
+    flex-direction:column;
+    align-items:flex-start;
+    gap:4px;
+  }
+  .article-data-list span{
+    text-align:left;
+  }
+  .article p,
+  .article li,
+  .article figcaption{
+    overflow-wrap:anywhere;
+    word-break:break-word;
+  }
+  .article-summary ul{
+    padding-left:18px;
   }
   .compare-table{
     display:block;
