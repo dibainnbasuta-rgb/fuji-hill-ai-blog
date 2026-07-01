@@ -6,7 +6,7 @@
 <title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた｜実験体A</title>
 <meta name="description" content="iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。" />
 <link rel="icon" type="image/png" href="../assets/images/avatar-a.png" />
-<link rel="stylesheet" href="../assets/styles.css?v=20260622a" />
+<link rel="stylesheet" href="../assets/styles.css?v=20260702b" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -50,7 +50,7 @@
   </nav>
 </header>
 
-<main class="article-main">
+<main class="article-main with-sidebar">
   <article class="article">
     <header class="article-header">
       <p class="article-meta"><a class="rank-label" href="../experiments.html#gear">機材とアイテム</a><time datetime="2026-07-01">2026.07.01</time></p>
@@ -64,40 +64,46 @@
       <figcaption>Sensor BatteryでHR70とQuarqのバッテリー残量を表示。私の環境ではHR70が72%、Quarqが85%と出た。</figcaption>
     </figure>
 
-    <section class="article-summary">
-      <h2>まとめ</h2>
-      <ul>
-        <li>iGPSPORT HR70のバッテリー残量を、Garmin Edge 530上に表示できた。</li>
-        <li>使ったのはConnect IQのデータ項目「Sensor Battery」。</li>
-        <li>HR70を表示したい場合は、Sensor Battery設定で「Show Heart Rate」をオンにする。</li>
-        <li>SRAM RED AXSのシフターも、Show Shifter BatteryをオンにするとBattery枠に表示できた。</li>
-        <li>インストール待機中で止まったら、Garmin ConnectアプリでEdge 530を同期すると進むことがある。</li>
-        <li>一度Edge 530に入れてしまえば、普段のライド中はスマホなしでも表示された。</li>
-      </ul>
-    </section>
+    <nav id="toc" class="article-toc" aria-label="この記事の目次">
+      <h2>目次</h2>
+      <ol>
+        <li><a href="#battery-problem">HR70の残量をGarminに出したい</a></li>
+        <li><a href="#standard-items">標準項目では見つからなかった</a></li>
+        <li><a href="#sensor-battery">Sensor Batteryでできること</a></li>
+        <li><a href="#install-steps">インストール手順を見る</a></li>
+        <li><a href="#show-heart-rate">設定項目の意味を確認する</a></li>
+        <li><a href="#display-result">実際に表示できた結果</a></li>
+        <li><a href="#restart-delay">再起動直後に少し待つ理由</a></li>
+        <li><a href="#sram-shifter">SRAM RED AXSも表示できた</a></li>
+        <li><a href="#phone-not-needed">スマホなしで使えるか</a></li>
+        <li><a href="#edge-models">Edge 530以外で使える可能性</a></li>
+        <li><a href="#thoughts">今回やってみて思ったこと</a></li>
+        <li><a href="#memo">自分用メモ</a></li>
+      </ol>
+    </nav>
 
-    <section>
+    <section id="battery-problem">
       <h2>HR70の残量が見えない問題</h2>
       <p>HR70はバッテリー持ちが長い。仕様上は最大約65時間使えるようなので、毎回充電しなくても普通に使える。ただ、長く使えるからこそ、残量が見えないと充電タイミングが分からない。</p>
       <p>電池が少なくなると本体のランプや振動で知らせてくれるらしい。でもライド中に腕のランプを見る余裕はあまりない。長袖の下に隠れていることもあるし、路面の振動もある。練習中に心拍計のバッテリーが切れるのは地味に痛い。</p>
       <p>かといって毎回なんとなく充電するのも少し嫌だった。無駄に充電してバッテリーが劣化するかもしれないし、そもそも残量が分かればそこまで気にしなくて済む。せめて目安だけでも見たい。そこでHR70のバッテリー残量をGarmin Edge 530に表示できないか試した。</p>
     </section>
 
-    <section>
+    <section id="standard-items">
       <h2>標準項目では見つからなかった</h2>
       <p>最初はGarmin Edge 530の標準機能で表示できると思っていた。心拍計を接続しているのだから、どこかに「心拍計バッテリー」や「センサーバッテリー」のような項目があるはず。そう思ってデータ項目やセンサー情報画面を探した。</p>
       <p>でも見つからない。AIにも聞きながら探したが、途中で「その他の中にあるはず」みたいな話になり、実際にEdge 530を触ると出てこない。AIと喧嘩するブログとしては、かなりいつもの流れである。</p>
       <p>この時点で、少なくとも私の環境ではEdge 530の標準項目だけでHR70の残量を常時表示するのは難しそうだと分かった。そこで出てきたのが、Connect IQの「Sensor Battery」だった。</p>
     </section>
 
-    <section>
+    <section id="sensor-battery">
       <h2>Connect IQとSensor Battery</h2>
       <p>Connect IQは、Garminに後から機能を追加できるアプリストアのようなもの。スマホでいうApp StoreやGoogle Playに近いイメージで、Garmin本体にアプリ、ウィジェット、データ項目などを追加できる。</p>
       <p>今回使ったSensor Batteryは、Connect IQから追加するデータ項目。スマホアプリとして走行中に動くものではなく、Edge 530本体に入れてデータ画面で表示するタイプだった。ここを最初に勘違いしかけた。</p>
       <p>つまり、一度Edge 530にSensor Batteryを入れてしまえば、走行中はHR70とEdge 530が直接通信して残量を表示してくれる。スマホを家に忘れても表示される。これはかなり安心したポイントだった。</p>
     </section>
 
-    <section>
+    <section id="install-steps">
       <h2>インストール手順</h2>
       <p>私の環境では、おおまかな流れは次の通りだった。細かい画面名は機種やアプリのバージョンで変わる可能性があるので、ここは「だいたいこういう流れ」として見てほしい。</p>
       <ol>
@@ -114,7 +120,7 @@
       <p>私が少し詰まったのは「インストール待機中」のところだった。Connect IQ Storeでインストールを押しただけでは進まず、Garmin Connectアプリを開いてEdge 530を同期したら進んだ。同じところで止まったら、まずGarmin Connectで同期してみるのが良さそうだ。</p>
     </section>
 
-    <section>
+    <section id="show-heart-rate">
       <h2>Show Heart Rateをオンにする</h2>
       <p>Sensor Batteryの設定画面を見ると、いろいろなセンサーのバッテリー表示に対応しているようだった。今回重要なのは「Show Heart Rate」。これをオンにすると、心拍計のバッテリー残量が表示対象になる。</p>
       <figure class="article-photo">
@@ -133,21 +139,21 @@
       <p>ただし、すべてのセンサーで必ず残量が表示されるとは限らない。センサー側がバッテリー情報を送っていること、Garmin側で正しく接続できていること、Sensor Battery側が対応していること。このあたりが関係するはずなので、この記事はあくまで私の環境での記録である。</p>
     </section>
 
-    <section>
+    <section id="display-result">
       <h2>実際に表示できた</h2>
       <p>HR70をGarmin Edge 530に接続した状態で、Sensor Batteryをデータ画面に配置したところ、HR70のバッテリー残量が表示された。実際の表示では、HR70が72%。同じ画面にQuarqのパワーメーターも表示され、こちらは85%だった。</p>
       <p>これはかなり便利だった。練習前に画面を見れば「まだ72%あるから大丈夫」「そろそろ充電しておこう」と判断できる。心拍計の残量が分からず、なんとなく毎回充電する生活から少し解放された感じがある。</p>
       <p>地味だけど、こういう小さい不安が減ると心拍計を使うハードルも下がる。心拍計は、つけること自体も大事だけど、ちゃんと運用できることも大事だと思う。バッテリー残量が分かるだけで、かなり安心感が違う。</p>
     </section>
 
-    <section>
+    <section id="restart-delay">
       <h2>再起動直後は少し待つ</h2>
       <p>Garminを一度オフにして、再度オンにしても表示されるかも試した。結果として表示はされたが、HR70のバッテリー残量が出るまで少し時間がかかった。</p>
       <p>これは不具合というより、外部センサーのバッテリー情報が心拍数ほど高頻度では送られないことが大きそうだった。さらにEdge 530の起動直後は、GPS捕捉、センサー再接続、Connect IQデータ項目の読み込みが重なる。なので、最初は「--」のように見えて、少し待つと数字が出てくる。</p>
       <p>実用上は、家を出る前にGarminの電源を入れておけば問題なさそう。靴を履いたりボトルを用意したりしている間に、だいたい表示される。せっかちな私にだけ少し試練がある。</p>
     </section>
 
-    <section>
+    <section id="sram-shifter">
       <h2>SRAM REDのシフターも表示できた</h2>
       <p>追加で、現在使っているSRAM RED AXSのシフターも同期してみた。左右のシフターはCR2032のボタン電池を使っているので、これもGarmin側で見られるならかなりありがたい。</p>
       <figure class="article-photo">
@@ -158,27 +164,27 @@
       <p>一方で、上に置いていたGarmin標準の「ギアバッテリー」枠は、はてなマークのままだった。Sensor Battery側に情報がまとまっているなら、標準のギアバッテリー枠は速度やケイデンスなど別の項目に変えた方が画面はスッキリしそうだ。こういう細かい最適化、地味に楽しい。</p>
     </section>
 
-    <section>
+    <section id="phone-not-needed">
       <h2>スマホを忘れても表示される</h2>
       <p>最初に不安だったのが、スマホを忘れた場合。Connect IQやSensor Batteryという名前だけ聞くと、スマホアプリが常に動いていないと表示されないような気がする。でもこれは違った。</p>
       <p>スマホの役割は、Sensor BatteryをGarmin本体にインストールしたり、設定を変更したりすること。一度Edge 530にSensor Batteryを入れてしまえば、走行中はEdge 530本体のデータ項目として動く。HR70のバッテリー情報も、スマホを経由するのではなくHR70とEdge 530が直接通信して表示される。</p>
       <p>もちろん設定変更や再同期をしたい場合はスマホが必要になる。でも普段のライドで残量を見るだけなら、スマホなしでも問題なかった。ここはかなり勘違いしやすいと思う。私も最初は普通に勘違いしかけた。</p>
     </section>
 
-    <section>
+    <section id="edge-models">
       <h2>Edge 530以外でも使える可能性はありそう</h2>
       <p>今回、私が実際に確認したのはGarmin Edge 530。なので一次情報としてはEdge 530での確認になる。ただ、Sensor BatteryはConnect IQのデータ項目なので、Connect IQに対応しているEdgeシリーズなら近いことができる可能性はある。</p>
       <p>検索している人向けに書いておくと、Garmin Edge 540、Edge 830、Edge 840、Edge 1030、Edge 1040、Edge 1050あたりでも、Connect IQに対応していれば使えるかもしれない。ただし私はEdge 530でしか実機確認していない。機種、ファームウェア、センサー、接続方式によって表示可否は変わる可能性があるので、ここは参考程度に見てほしい。</p>
     </section>
 
-    <section>
+    <section id="thoughts">
       <h2>今回やってみて思ったこと</h2>
       <p>今回、HR70のバッテリー残量をGarmin Edge 530に表示できるようになって、かなりスッキリした。HR70は便利だが、残量がまったく見えないと少し不安になる。Sensor Batteryを使うことで、少なくとも私の環境ではその不安をかなり減らせた。</p>
       <p>AIに聞きながら何度か迷子になったが、最終的には解決できた。Edge 530標準機能で探しても見つからず、Connect IQに回り、インストール待機中で止まり、Garmin Connectで同期して突破する。こうして書くと小さな冒険である。だいぶ地味な冒険だけど。</p>
       <p>心拍計の電池切れ不安が減ると、心拍データを使う生活も少し楽になる。富士ヒルに向けた練習そのものではないが、練習を続けるための環境整備としてはかなり良かった。またひとつ、AIと喧嘩しながらサイコン環境が整ってしまった。</p>
     </section>
 
-    <section>
+    <section id="memo">
       <h2>自分用メモ</h2>
       <ul class="article-data-list compact">
         <li><b>確認機材</b><span>iGPSPORT HR70 / Garmin Edge 530</span></li>
@@ -191,6 +197,40 @@
       </ul>
     </section>
 
+    <!-- share:auto (blog.py) -->
+    <div class="share-box">
+      <p>この記事をシェアする</p>
+      <a class="share-x-btn" href="https://twitter.com/intent/tweet?text=HR70%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E6%AE%8B%E9%87%8F%E3%82%92Garmin%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%80%82Sensor%20Battery%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F&amp;url=https%3A%2F%2Ffuji-hill-ai-blog.pages.dev%2Farticles%2F2026-07-01-hr70-sensor-battery-garmin.html" target="_blank" rel="noopener">Xでポストする</a>
+    </div>
+    <!-- /share:auto -->
+
+    <section class="related-posts" aria-label="関連記事">
+      <h2>関連記事</h2>
+      <div class="related-posts-grid">
+        <a class="related-post-card" href="2026-06-17-igpsport-hr70-review.html">
+          <img src="../assets/images/articles/2026-06-17-igpsport-hr70-review/hr70-kit.jpg" alt="" loading="lazy" decoding="async">
+          <small class="related-post-card__reason">同じHR70</small>
+          <span>機材とアイテム / 2026.06.17</span>
+          <b>iGPSPORT HR70レビュー。胸ベルトが苦手でも心拍が取れた</b>
+          <p>胸ベルト式が苦手で10年以上心拍計から離れていた私が、腕バンド型のiGPSPORT HR70を初投入。苦しくない・装着が楽・Garminの評価も現実に近づいた初回レビューです。</p>
+        </a>
+        <a class="related-post-card" href="2026-06-16-taihei-heart-rate-tss120.html">
+          <img src="../assets/images/articles/2026-06-16-taihei-heart-rate-tss120/taihei-view.jpg" alt="" loading="lazy" decoding="async">
+          <small class="related-post-card__reason">心拍データの実走</small>
+          <span>外ライド・実走 / 2026.06.16</span>
+          <b>心拍計を付けて太平ライド。レスト明けでもTSS120</b>
+          <p>月曜レスト明けに太平でしっかり登ったライド。腕バンド型心拍計を10年ぶりに初投入。登る所は登り休む所は休む、でTSS120.3でした。</p>
+        </a>
+        <a class="related-post-card" href="2026-06-30-garmin-anaerobic-gorby-menu.html">
+          <img src="../assets/images/articles/2026-06-30-garmin-anaerobic-gorby-menu/garmin-load-balance-anaerobic.png" alt="" loading="lazy" decoding="async">
+          <small class="related-post-card__reason">Garmin活用</small>
+          <span>ローラー練習 / 2026.06.30</span>
+          <b>Garminに無酸素不足と言われたので、AIと明日のメニューを決めた</b>
+          <p>唐沢・琴平方面を走ったあと、Garminの負荷バランスで無酸素不足と表示。330W以上を意識して、翌日の無酸素寄せゴルビーを組んだ記録です。</p>
+        </a>
+      </div>
+    </section>
+
     <nav class="next-read" aria-label="次に読む記事">
       <h2>次に読む</h2>
       <div class="next-read-grid">
@@ -200,6 +240,48 @@
       <a class="text-link back-link" href="../blog.html">記事一覧へ戻る</a>
     </nav>
   </article>
+
+  <aside class="article-sidebar" aria-label="記事サイドバー">
+    <!-- sidebar:auto (blog.py) -->
+      <section class="sidebar-box">
+        <h2>このブログについて</h2>
+        <div class="about-row">
+          <img class="about-avatar" src="../assets/images/avatar-a.png" alt="実験体A" />
+          <p>ふと人生に目標が欲しくなりブログを始めた実験体A。過去最高は2019年に出走した1時間8分。</p>
+        </div>
+        <a href="../profile.html">実験体Aについて</a>
+      </section>
+      <section class="sidebar-box">
+        <h2>新着記事</h2>
+        <ul class="sidebar-recent">
+          <li><a href="2026-07-01-anaerobic-gorby-result.html">Garminに無酸素不足と言われたので、330W以上でゴルビーしてきた</a><time datetime="2026-07-01">2026.07.01</time></li>
+          <li><a href="2026-06-30-garmin-anaerobic-gorby-menu.html">Garminに無酸素不足と言われたので、AIと明日のメニューを決めた</a><time datetime="2026-06-30">2026.06.30</time></li>
+          <li><a href="2026-06-26-vo2-3min-mistaken-4min.html">3分のはずが4分。VO2ローラーを間違えて高難度にした日</a><time datetime="2026-06-26">2026.06.26</time></li>
+          <li><a href="2026-06-25-roller-sst-20min-x2.html">SST20分×2。ローラーで250W台を崩さず踏めた日</a><time datetime="2026-06-25">2026.06.25</time></li>
+          <li><a href="2026-06-23-taihei-return-straight-280w.html">太平山317Wより、<br>帰りのストレート280Wが収穫だった日</a><time datetime="2026-06-23">2026.06.23</time></li>
+        </ul>
+      </section>
+      <section class="sidebar-box">
+        <h2>カテゴリ</h2>
+        <ul>
+          <li><a href="../experiments.html#ride">外ライド・実走</a></li>
+          <li><a href="../experiments.html#roller">ローラー練習</a></li>
+          <li><a href="../experiments.html#food">食事と補給</a></li>
+          <li><a href="../experiments.html#gear">機材とアイテム</a></li>
+          <li><a href="../experiments.html#condition">体重とコンディション</a></li>
+          <li><a href="../old-blog.html">旧ブログ発掘</a></li>
+        </ul>
+      </section>
+      <section class="sidebar-box">
+        <h2>おすすめ</h2>
+        <ol>
+          <li><a href="2026-06-14-watarase-friend-ride.html">回復走のつもりでTSS83になった友人ライド</a></li>
+          <li><a href="2026-06-13-protein-myprotein-vs-explosion.html">プロテインを最安だけで選ばなかった話</a></li>
+          <li><a href="2026-06-13-15min-x2-roller.html">270W×2で尻が負けた話</a></li>
+        </ol>
+      </section>
+    <!-- /sidebar:auto -->
+  </aside>
 </main>
 
 <footer class="site-footer">
