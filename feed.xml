@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIと喧嘩しながら富士ヒルゴールドを狙うブログ</title>
+    <link>https://fuji-hill-ai-blog.pages.dev/</link>
+    <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
+    <language>ja</language>
+    <lastBuildDate>Thu, 02 Jul 2026 07:28:04 +0900</lastBuildDate>
+    <atom:link href="https://fuji-hill-ai-blog.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-hr70-sensor-battery-garmin.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-hr70-sensor-battery-garmin.html</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <description>iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。</description>
+    </item>
+    <item>
+      <title>Garminに無酸素不足と言われたので、330W以上でゴルビーしてきた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-anaerobic-gorby-result.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-anaerobic-gorby-result.html</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <description>Garminの無酸素運動不足を受けて、AIと相談して作った無酸素寄せゴルビーを外で実施。5分走を340W、341W、328W、318W、319Wでまとめ、前より辛くなかった体感も残った実走記録。</description>
+    </item>
+    <item>
+      <title>Garminに無酸素不足と言われたので、AIと明日のメニューを決めた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-30-garmin-anaerobic-gorby-menu.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-30-garmin-anaerobic-gorby-menu.html</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
+      <description>唐沢・琴平方面を走ったあと、Garminの負荷バランスで無酸素運動不足と表示。高強度有酸素は足りている一方で330W以上の刺激が少ないと見て、AIと翌日の無酸素寄せゴルビーを組んだ記録。</description>
+    </item>
+    <item>
+      <title>3分のはずが4分。VO2ローラーを間違えて高難度にした日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-26-vo2-3min-mistaken-4min.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-26-vo2-3min-mistaken-4min.html</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
+      <description>VO2ローラー3分メニューのつもりが、4分メニューと勘違いして実施。完遂できなかったと思ったが、実際は3分想定の強度を4分近く維持していた日の記録。</description>
+    </item>
+    <item>
+      <title>SST20分×2。ローラーで250W台を崩さず踏めた日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-25-roller-sst-20min-x2.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-25-roller-sst-20min-x2.html</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
+      <description>RNC7とGT-ROLLER Q1.1でSST20分×2。1本目255W、2本目253Wで出力差をほぼ作らず完遂できたローラー練習の記録。前回15分で終わった2本目からの進歩と、お尻の痛みがましだった理由も整理。</description>
+    </item>
+    <item>
+      <title>太平山317Wより、&lt;br&gt;帰りのストレート280Wが収穫だった日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-23-taihei-return-straight-280w.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-23-taihei-return-straight-280w.html</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <description>2026年6月23日の太平方面ライド。太平山は7分17秒317W、帰りのストレートは16分32秒280W。登りの数字以上に、力が逃げずに踏める感覚が収穫だった外ライド記録。</description>
+    </item>
+    <item>
+      <title>酒も菓子もやめたのに、&lt;br&gt;お腹だけ残る問題</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-23-belly-fat-stubborn.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-23-belly-fat-stubborn.html</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <description>体重75kg時点のお腹まわり記録。酒も菓子もかなり減らし、ロードバイク練習も積んでいるのに下腹が残る。富士ヒルに向けて、練習の質と回復を守りながら少しずつ絞る方針を整理した。</description>
+    </item>
+    <item>
+      <title>唐沢5分337W、琴平12分305W。&lt;br&gt;ローラー後でも外なら踏めた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-22-karasawa-kotohira-hard-ride.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-22-karasawa-kotohira-hard-ride.html</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
+      <description>SSTとVO2のローラー練習を2日続けたあと、唐沢山と琴平峠へ。唐沢5分05秒337W、琴平12分19秒305W、ラストストレート16分57秒265Wで、ローラー後でも外なら踏めた日の実走ログ。</description>
+    </item>
+    <item>
+      <title>VO2ローラーで4本目に撃沈。&lt;br&gt;でも9分テンポは踏めた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-21-vo2-roller-3minx4.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-21-vo2-roller-3minx4.html</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
+      <description>雨の日にRNC7とGT-ROLLER Q1.1でVO2刺激の3分×4本を実施。1〜3本目は狙い通り、4本目は317Wまで落ちたが、その後9分240Wのテンポ走は踏めた日のローラー練習ログ。</description>
+    </item>
+    <item>
+      <title>雨なのでローラー。SST2本目で心拍が持たなかった日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-19-rainy-roller-sst-heart-rate.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-19-rainy-roller-sst-heart-rate.html</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
+      <description>雨の日にRNC7とGT-ROLLER Q1.1でSST20分×2を狙ったローラー練習記録。1本目は20分248W、2本目は15分254W。脚ではなく心拍と呼吸が先に来た日の実験ログ。</description>
+    </item>
+    <item>
+      <title>自転車とは別枠で始めた毎日筋トレが、登りに効いている気がしてきた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-19-daily-strength-training-fuji-hill.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-19-daily-strength-training-fuji-hill.html</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
+      <description>2025年6月に立ち上げた筋トレチャンネル「ちょいタフ筋トレ部」。健康と収益化の実験として始めた毎日20分の全身筋トレが、ロードバイクのダンシングや登りの安定感にも効いている気がしてきた話。</description>
+    </item>
+    <item>
+      <title>唐沢ライドで尻が限界。パワーより痛みが勝った日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-karasawa-saddle-pain.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-karasawa-saddle-pain.html</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
+      <description>太平TSS120.3の翌日、唐沢ソロライドへ。距離28.65km・獲得472m・TSS83.8で登りは何本か入っているのに、サドル擦れの痛みで集中できず踏めなかった。左が痛く右に逃げたら右も痛い、帰宅後に皮むけ確認、ワセリン初購入まで。富士ヒルの前に、まず尻を守る話。2026/06/17。</description>
+    </item>
+    <item>
+      <title>尻が痛くて自転車休み。代わりにジョギングした日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-jog-instead-of-bike.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-jog-instead-of-bike.html</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
+      <description>前日の唐沢ライドでサドル擦れが悪化し、自転車は休み。サドルに触れなければ痛みが出ないので、リュックを背負って買い物しながら6.16kmジョギングした日。富士ヒル練習なのにランニングシューズで運動量を確保した実験です。</description>
+    </item>
+    <item>
+      <title>iGPSPORT HR70レビュー。胸ベルトが苦手でも心拍が取れた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-igpsport-hr70-review.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-igpsport-hr70-review.html</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
+      <description>胸ベルト式が苦手で10年以上心拍計から離れていたロードバイク乗りが、腕バンド型のiGPSPORT HR70（6,054円）を太平ライドで初投入。胸が苦しくない・装着が楽・Garminの評価が現実に近づいた・呼吸数まで見える。胸ベルト苦手な人向けの初回レビュー。2026/06/17。</description>
+    </item>
+    <item>
+      <title>Aethos2乗りが、富士ヒル目線でSL8と比べてみた</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-aethos2-vs-tarmac-sl8.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-17-aethos2-vs-tarmac-sl8.html</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
+      <description>普段のライド用に買ったAethos2を、富士ヒルゴールド目線でTarmac SL8と比べ直してみた。注ぐTarmac・寄り添うAethos、8%が分かれ目、快適性=出力減ではない話。ホイール(Alpinist vs Rapide)の迷いも。結論は「Aethos2で十分、買い替えない」。2026/06/17。</description>
+    </item>
+    <item>
+      <title>心拍計を付けて太平ライド。レスト明けでもTSS120</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-16-taihei-heart-rate-tss120.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-16-taihei-heart-rate-tss120.html</guid>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
+      <description>月曜レスト明けに太平方面でしっかり登った外ライド。腕バンド型の心拍計を10年ぶりに初投入。登る所は登り休む所は休む、でレスト明けでもTSS120.3。Lap7は310W、後半のLap13も306W。R×L装備の体感も軽く。2026/06/16。</description>
+    </item>
+    <item>
+      <title>Aethos2のステムキャップをWolfTooth MK0に交換。軽量化はなかったけどカッコいいからヨシ</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-16-stemcap-wolftooth-mk0.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-16-stemcap-wolftooth-mk0.html</guid>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
+      <description>Aethos2のステムキャップをWolfTooth MK0 ULTRALIGHT LOW PROFILE STEM CAPに交換。軽量化を狙ったら元の黒キャップも2.4gと軽く、MK0は2.5gでほぼ同重量。でも見た目は良い、という写真ありの短めカスタム日誌。</description>
+    </item>
+    <item>
+      <title>ロードバイクで強くなるために、休む日を作った</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-15-rest-day.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-15-rest-day.html</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0900</pubDate>
+      <description>2026年6月15日、富士ヒルへ向けた練習の中で意図的にフルレスト寄りの日を作った記録。乗りたい気持ちはあったが、次に踏むために休むことも実験として扱う。</description>
+    </item>
+    <item>
+      <title>友人と渡良瀬CRへ。回復走でもTSS83</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-14-watarase-friend-ride.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-14-watarase-friend-ride.html</guid>
+      <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
+      <description>2026年6月14日、友人Sと友人Dと渡良瀬サイクリングロードへ。回復走のつもりが、45.53km、NP194W、TSS83.6になった友人ライドの記録。</description>
+    </item>
+    <item>
+      <title>マイプロからエクスプロージョンに変えた理由。最安より「考えずに買えるか」だった</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-13-protein-myprotein-vs-explosion.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-13-protein-myprotein-vs-explosion.html</guid>
+      <pubDate>Sat, 13 Jun 2026 07:00:00 +0900</pubDate>
+      <description>マイプロの過去購入履歴とエクスプロージョンの現在価格を見ながら、最安より「考えずに買えるか」で選んだ理由を整理した話。Essentialは廉価モデルなので単純比較しすぎない前提で考える。2026/06/13時点。</description>
+    </item>
+  </channel>
+</rss>
