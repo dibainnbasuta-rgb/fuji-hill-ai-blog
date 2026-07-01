@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた｜実験体A</title>
+<meta name="description" content="iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。" />
+<link rel="icon" type="image/png" href="../assets/images/avatar-a.png" />
+<link rel="stylesheet" href="../assets/styles.css?v=20260622a" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた",
+  "description": "iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。",
+  "datePublished": "2026-07-01",
+  "dateModified": "2026-07-01",
+  "author": {
+    "@type": "Person",
+    "name": "実験体A"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AIと喧嘩しながら富士ヒルゴールドを目指すブログ",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://fuji-hill-ai-blog.pages.dev/assets/images/logo-lockup.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-hr70-sensor-battery-garmin.html"
+  },
+  "url": "https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-hr70-sensor-battery-garmin.html",
+  "image": "https://fuji-hill-ai-blog.pages.dev/assets/images/articles/2026-07-01-hr70-sensor-battery-garmin/hr70-sensor-battery-edge530.jpg"
+}
+</script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="../index.html" aria-label="トップページへ戻る">
+    <img class="brand-lockup" src="../assets/images/logo-lockup.png" alt="AIと喧嘩しながら富士ヒルゴールドを目指すブログ" />
+  </a>
+  <nav class="global-nav" aria-label="グローバルナビ">
+    <a href="../blog.html">記事</a>
+    <a href="../experiments.html">実験</a>
+    <a href="../old-blog.html">旧ブログ発掘</a>
+    <a href="../plan.html">目標とメニュー</a>
+    <a href="../profile.html">プロフィール</a>
+  </nav>
+</header>
+
+<main class="article-main">
+  <article class="article">
+    <header class="article-header">
+      <p class="article-meta"><a class="rank-label" href="../experiments.html#gear">機材とアイテム</a><time datetime="2026-07-01">2026.07.01</time></p>
+      <h1>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた</h1>
+      <p>iGPSPORTの腕バンド式心拍計、HR70を使い始めてから心拍データを見るのがかなり楽しくなった。胸ベルト式の心拍計が苦手だった私でも、腕に巻くだけなら続けられる。</p>
+      <p>ただ、ひとつ気になっていた。バッテリー残量である。HR70は電池持ちが長いからこそ、逆に「今どれくらい残っているのか」が分からないと少し不安になる。</p>
+    </header>
+
+    <figure class="article-photo article-hero-photo">
+      <img src="../assets/images/articles/2026-07-01-hr70-sensor-battery-garmin/hr70-sensor-battery-edge530.jpg" alt="Garmin Edge 530にSensor BatteryでHR70とQuarqのバッテリー残量を表示した画面" />
+      <figcaption>Sensor BatteryでHR70とQuarqのバッテリー残量を表示。私の環境ではHR70が72%、Quarqが85%と出た。</figcaption>
+    </figure>
+
+    <section class="article-summary">
+      <h2>まとめ</h2>
+      <ul>
+        <li>iGPSPORT HR70のバッテリー残量を、Garmin Edge 530上に表示できた。</li>
+        <li>使ったのはConnect IQのデータ項目「Sensor Battery」。</li>
+        <li>HR70を表示したい場合は、Sensor Battery設定で「Show Heart Rate」をオンにする。</li>
+        <li>SRAM RED AXSのシフターも、Show Shifter BatteryをオンにするとBattery枠に表示できた。</li>
+        <li>インストール待機中で止まったら、Garmin ConnectアプリでEdge 530を同期すると進むことがある。</li>
+        <li>一度Edge 530に入れてしまえば、普段のライド中はスマホなしでも表示された。</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>HR70の残量が見えない問題</h2>
+      <p>HR70はバッテリー持ちが長い。仕様上は最大約65時間使えるようなので、毎回充電しなくても普通に使える。ただ、長く使えるからこそ、残量が見えないと充電タイミングが分からない。</p>
+      <p>電池が少なくなると本体のランプや振動で知らせてくれるらしい。でもライド中に腕のランプを見る余裕はあまりない。長袖の下に隠れていることもあるし、路面の振動もある。練習中に心拍計のバッテリーが切れるのは地味に痛い。</p>
+      <p>かといって毎回なんとなく充電するのも少し嫌だった。無駄に充電してバッテリーが劣化するかもしれないし、そもそも残量が分かればそこまで気にしなくて済む。せめて目安だけでも見たい。そこでHR70のバッテリー残量をGarmin Edge 530に表示できないか試した。</p>
+    </section>
+
+    <section>
+      <h2>標準項目では見つからなかった</h2>
+      <p>最初はGarmin Edge 530の標準機能で表示できると思っていた。心拍計を接続しているのだから、どこかに「心拍計バッテリー」や「センサーバッテリー」のような項目があるはず。そう思ってデータ項目やセンサー情報画面を探した。</p>
+      <p>でも見つからない。AIにも聞きながら探したが、途中で「その他の中にあるはず」みたいな話になり、実際にEdge 530を触ると出てこない。AIと喧嘩するブログとしては、かなりいつもの流れである。</p>
+      <p>この時点で、少なくとも私の環境ではEdge 530の標準項目だけでHR70の残量を常時表示するのは難しそうだと分かった。そこで出てきたのが、Connect IQの「Sensor Battery」だった。</p>
+    </section>
+
+    <section>
+      <h2>Connect IQとSensor Battery</h2>
+      <p>Connect IQは、Garminに後から機能を追加できるアプリストアのようなもの。スマホでいうApp StoreやGoogle Playに近いイメージで、Garmin本体にアプリ、ウィジェット、データ項目などを追加できる。</p>
+      <p>今回使ったSensor Batteryは、Connect IQから追加するデータ項目。スマホアプリとして走行中に動くものではなく、Edge 530本体に入れてデータ画面で表示するタイプだった。ここを最初に勘違いしかけた。</p>
+      <p>つまり、一度Edge 530にSensor Batteryを入れてしまえば、走行中はHR70とEdge 530が直接通信して残量を表示してくれる。スマホを家に忘れても表示される。これはかなり安心したポイントだった。</p>
+    </section>
+
+    <section>
+      <h2>インストール手順</h2>
+      <p>私の環境では、おおまかな流れは次の通りだった。細かい画面名は機種やアプリのバージョンで変わる可能性があるので、ここは「だいたいこういう流れ」として見てほしい。</p>
+      <ol>
+        <li>スマホにConnect IQ Storeアプリを入れる。</li>
+        <li>Garminアカウントでログインする。</li>
+        <li>使用デバイスがEdge 530になっているか確認する。</li>
+        <li>検索で「Sensor Battery」を探す。</li>
+        <li>Sensor Batteryをインストールする。</li>
+        <li>Garmin ConnectアプリでEdge 530と同期する。</li>
+        <li>Edge 530側のデータ画面編集で、Connect IQ項目としてSensor Batteryを追加する。</li>
+        <li>Sensor Batteryの設定で「Show Heart Rate」をオンにする。</li>
+        <li>保存する。</li>
+      </ol>
+      <p>私が少し詰まったのは「インストール待機中」のところだった。Connect IQ Storeでインストールを押しただけでは進まず、Garmin Connectアプリを開いてEdge 530を同期したら進んだ。同じところで止まったら、まずGarmin Connectで同期してみるのが良さそうだ。</p>
+    </section>
+
+    <section>
+      <h2>Show Heart Rateをオンにする</h2>
+      <p>Sensor Batteryの設定画面を見ると、いろいろなセンサーのバッテリー表示に対応しているようだった。今回重要なのは「Show Heart Rate」。これをオンにすると、心拍計のバッテリー残量が表示対象になる。</p>
+      <figure class="article-photo">
+        <img src="../assets/images/articles/2026-07-01-hr70-sensor-battery-garmin/sensor-battery-settings.jpg" alt="Sensor Batteryの設定画面でShow Heart Rateをオンにしているスマホ画面" />
+        <figcaption>HR70を表示したいので、設定ではShow Heart Rateをオン。Garmin本体やパワーメーターも必要なら表示できる。</figcaption>
+      </figure>
+      <p>設定画面には、Heart Rate以外にもいくつかの表示スイッチがあった。ざっくり役割を書くと、こういう理解でよさそうだった。</p>
+      <ul>
+        <li><b>Show Heart Rate</b>：心拍計のバッテリー残量を表示する。今回のHR70はここ。</li>
+        <li><b>Show Power Meter</b>：パワーメーターのバッテリー残量を表示する。私の画面ではQuarqがここに出た。</li>
+        <li><b>Show Shifter Battery</b>：電動変速のシフターやディレイラーの電池状態を表示する。SRAM RED AXSを確認したい場合はここ。</li>
+        <li><b>Show Rear Light / Show Front Light</b>：対応するリアライト、フロントライトの電池状態を表示する。</li>
+        <li><b>Show Cadence Sensor / Show Speed Sensor</b>：ケイデンスセンサー、スピードセンサーの電池状態を表示する。</li>
+        <li><b>Show Device Battery</b>：Garmin本体のバッテリー残量を表示する。</li>
+      </ul>
+      <p>ただし、すべてのセンサーで必ず残量が表示されるとは限らない。センサー側がバッテリー情報を送っていること、Garmin側で正しく接続できていること、Sensor Battery側が対応していること。このあたりが関係するはずなので、この記事はあくまで私の環境での記録である。</p>
+    </section>
+
+    <section>
+      <h2>実際に表示できた</h2>
+      <p>HR70をGarmin Edge 530に接続した状態で、Sensor Batteryをデータ画面に配置したところ、HR70のバッテリー残量が表示された。実際の表示では、HR70が72%。同じ画面にQuarqのパワーメーターも表示され、こちらは85%だった。</p>
+      <p>これはかなり便利だった。練習前に画面を見れば「まだ72%あるから大丈夫」「そろそろ充電しておこう」と判断できる。心拍計の残量が分からず、なんとなく毎回充電する生活から少し解放された感じがある。</p>
+      <p>地味だけど、こういう小さい不安が減ると心拍計を使うハードルも下がる。心拍計は、つけること自体も大事だけど、ちゃんと運用できることも大事だと思う。バッテリー残量が分かるだけで、かなり安心感が違う。</p>
+    </section>
+
+    <section>
+      <h2>再起動直後は少し待つ</h2>
+      <p>Garminを一度オフにして、再度オンにしても表示されるかも試した。結果として表示はされたが、HR70のバッテリー残量が出るまで少し時間がかかった。</p>
+      <p>これは不具合というより、外部センサーのバッテリー情報が心拍数ほど高頻度では送られないことが大きそうだった。さらにEdge 530の起動直後は、GPS捕捉、センサー再接続、Connect IQデータ項目の読み込みが重なる。なので、最初は「--」のように見えて、少し待つと数字が出てくる。</p>
+      <p>実用上は、家を出る前にGarminの電源を入れておけば問題なさそう。靴を履いたりボトルを用意したりしている間に、だいたい表示される。せっかちな私にだけ少し試練がある。</p>
+    </section>
+
+    <section>
+      <h2>SRAM REDのシフターも表示できた</h2>
+      <p>追加で、現在使っているSRAM RED AXSのシフターも同期してみた。左右のシフターはCR2032のボタン電池を使っているので、これもGarmin側で見られるならかなりありがたい。</p>
+      <figure class="article-photo">
+        <img src="../assets/images/articles/2026-07-01-hr70-sensor-battery-garmin/sensor-battery-sram-red-shifter-clean.jpg" alt="Garmin Edge 530のSensor BatteryにSRAM RED AXSのシフターバッテリーが表示された画面" />
+        <figcaption>Show Shifter Batteryをオンにしたら、Battery枠にSRAM RED AXSのシフター情報も表示された。</figcaption>
+      </figure>
+      <p>私の環境では、Sensor BatteryのBattery枠に「Shift: FD100% / RD100% / L100% / R100%」のような表示が出た。フロント、リア、左シフター、右シフターをまとめて見られる形で、これは思ったより便利だった。</p>
+      <p>一方で、上に置いていたGarmin標準の「ギアバッテリー」枠は、はてなマークのままだった。Sensor Battery側に情報がまとまっているなら、標準のギアバッテリー枠は速度やケイデンスなど別の項目に変えた方が画面はスッキリしそうだ。こういう細かい最適化、地味に楽しい。</p>
+    </section>
+
+    <section>
+      <h2>スマホを忘れても表示される</h2>
+      <p>最初に不安だったのが、スマホを忘れた場合。Connect IQやSensor Batteryという名前だけ聞くと、スマホアプリが常に動いていないと表示されないような気がする。でもこれは違った。</p>
+      <p>スマホの役割は、Sensor BatteryをGarmin本体にインストールしたり、設定を変更したりすること。一度Edge 530にSensor Batteryを入れてしまえば、走行中はEdge 530本体のデータ項目として動く。HR70のバッテリー情報も、スマホを経由するのではなくHR70とEdge 530が直接通信して表示される。</p>
+      <p>もちろん設定変更や再同期をしたい場合はスマホが必要になる。でも普段のライドで残量を見るだけなら、スマホなしでも問題なかった。ここはかなり勘違いしやすいと思う。私も最初は普通に勘違いしかけた。</p>
+    </section>
+
+    <section>
+      <h2>Edge 530以外でも使える可能性はありそう</h2>
+      <p>今回、私が実際に確認したのはGarmin Edge 530。なので一次情報としてはEdge 530での確認になる。ただ、Sensor BatteryはConnect IQのデータ項目なので、Connect IQに対応しているEdgeシリーズなら近いことができる可能性はある。</p>
+      <p>検索している人向けに書いておくと、Garmin Edge 540、Edge 830、Edge 840、Edge 1030、Edge 1040、Edge 1050あたりでも、Connect IQに対応していれば使えるかもしれない。ただし私はEdge 530でしか実機確認していない。機種、ファームウェア、センサー、接続方式によって表示可否は変わる可能性があるので、ここは参考程度に見てほしい。</p>
+    </section>
+
+    <section>
+      <h2>今回やってみて思ったこと</h2>
+      <p>今回、HR70のバッテリー残量をGarmin Edge 530に表示できるようになって、かなりスッキリした。HR70は便利だが、残量がまったく見えないと少し不安になる。Sensor Batteryを使うことで、少なくとも私の環境ではその不安をかなり減らせた。</p>
+      <p>AIに聞きながら何度か迷子になったが、最終的には解決できた。Edge 530標準機能で探しても見つからず、Connect IQに回り、インストール待機中で止まり、Garmin Connectで同期して突破する。こうして書くと小さな冒険である。だいぶ地味な冒険だけど。</p>
+      <p>心拍計の電池切れ不安が減ると、心拍データを使う生活も少し楽になる。富士ヒルに向けた練習そのものではないが、練習を続けるための環境整備としてはかなり良かった。またひとつ、AIと喧嘩しながらサイコン環境が整ってしまった。</p>
+    </section>
+
+    <section>
+      <h2>自分用メモ</h2>
+      <ul class="article-data-list compact">
+        <li><b>確認機材</b><span>iGPSPORT HR70 / Garmin Edge 530</span></li>
+        <li><b>使用項目</b><span>Connect IQのSensor Battery</span></li>
+        <li><b>重要設定</b><span>Show Heart Rateをオン</span></li>
+        <li><b>追加確認</b><span>Show Shifter BatteryでSRAM RED AXSのシフター表示も確認</span></li>
+        <li><b>表示結果</b><span>HR70 72% / Quarq 85% / SRAM RED AXS 100%表示</span></li>
+        <li><b>詰まった点</b><span>インストール待機中はGarmin Connect同期で進んだ</span></li>
+        <li><b>注意</b><span>私のEdge 530＋HR70環境での確認。全機種・全センサーでの保証ではない。</span></li>
+      </ul>
+    </section>
+
+    <nav class="next-read" aria-label="次に読む記事">
+      <h2>次に読む</h2>
+      <div class="next-read-grid">
+        <a href="2026-06-17-igpsport-hr70-review.html"><span>機材とアイテム</span><b>iGPSPORT HR70レビュー。胸ベルトが苦手でも心拍が取れた</b></a>
+        <a href="2026-06-16-taihei-heart-rate-tss120.html"><span>外ライド・実走</span><b>心拍計を付けて太平ライド。レスト明けでもTSS120</b></a>
+      </div>
+      <a class="text-link back-link" href="../blog.html">記事一覧へ戻る</a>
+    </nav>
+  </article>
+</main>
+
+<footer class="site-footer">
+  <nav class="footer-nav" aria-label="フッターナビ">
+    <a href="../index.html">トップ</a>
+    <a href="../blog.html">記事一覧</a>
+    <a href="../experiments.html">6つの実験</a>
+    <a href="../old-blog.html">旧ブログ発掘</a>
+    <a href="../plan.html">目標とメニュー</a>
+    <a href="../profile.html">プロフィール</a>
+    <a href="../privacy.html">プライバシーポリシー</a>
+    <a href="../contact.html">お問い合わせ</a>
+  </nav>
+  <small>© 2026 AIと喧嘩しながら富士ヒルゴールドを目指すブログ</small>
+</footer>
+</body>
+</html>
