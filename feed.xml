@@ -5,7 +5,7 @@
     <link>https://fuji-hill-ai-blog.pages.dev/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:28:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:45:54 +0900</lastBuildDate>
     <atom:link href="https://fuji-hill-ai-blog.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた</title>
@@ -69,6 +69,13 @@
       <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-21-vo2-roller-3minx4.html</guid>
       <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
       <description>雨の日にRNC7とGT-ROLLER Q1.1でVO2刺激の3分×4本を実施。1〜3本目は狙い通り、4本目は317Wまで落ちたが、その後9分240Wのテンポ走は踏めた日のローラー練習ログ。</description>
+    </item>
+    <item>
+      <title>300Wでも足りない。&lt;br&gt;だから練習が面白くなった</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-21-300w-not-enough-fuji.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-21-300w-not-enough-fuji.html</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
+      <description>脳内サイクリング Rev.1で富士ヒルを300W、総重量82kgでシミュレーションしたら1:07:09。ゴールド目安の65分切りには届かなかったが、できないことが見えたから練習が面白くなった話。</description>
     </item>
     <item>
       <title>雨なのでローラー。SST2本目で心拍が持たなかった日</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-14-watarase-friend-ride.html</guid>
       <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
       <description>2026年6月14日、友人Sと友人Dと渡良瀬サイクリングロードへ。回復走のつもりが、45.53km、NP194W、TSS83.6になった友人ライドの記録。</description>
-    </item>
-    <item>
-      <title>マイプロからエクスプロージョンに変えた理由。最安より「考えずに買えるか」だった</title>
-      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-13-protein-myprotein-vs-explosion.html</link>
-      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-13-protein-myprotein-vs-explosion.html</guid>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 +0900</pubDate>
-      <description>マイプロの過去購入履歴とエクスプロージョンの現在価格を見ながら、最安より「考えずに買えるか」で選んだ理由を整理した話。Essentialは廉価モデルなので単純比較しすぎない前提で考える。2026/06/13時点。</description>
     </item>
   </channel>
 </rss>
