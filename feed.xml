@@ -5,8 +5,15 @@
     <link>https://fuji-hill-ai-blog.pages.dev/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:45:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 15:47:31 +0900</lastBuildDate>
     <atom:link href="https://fuji-hill-ai-blog.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ゴルビー翌日にSST20分×2。&lt;br&gt;2本目後半でゾーンに入った日</title>
+      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-07-02-sst-after-gorby.html</link>
+      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-07-02-sst-after-gorby.html</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <description>無酸素寄せゴルビー翌日に、ローラーでSST20分×2と高出力刺激を実施。2本目後半でリズムに入り、TSS95.5を積めた一方、汗とローラー落車もあった記録。</description>
+    </item>
     <item>
       <title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた</title>
       <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-07-01-hr70-sensor-battery-garmin.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-15-rest-day.html</guid>
       <pubDate>Mon, 15 Jun 2026 07:00:00 +0900</pubDate>
       <description>2026年6月15日、富士ヒルへ向けた練習の中で意図的にフルレスト寄りの日を作った記録。乗りたい気持ちはあったが、次に踏むために休むことも実験として扱う。</description>
-    </item>
-    <item>
-      <title>友人と渡良瀬CRへ。回復走でもTSS83</title>
-      <link>https://fuji-hill-ai-blog.pages.dev/articles/2026-06-14-watarase-friend-ride.html</link>
-      <guid isPermaLink="true">https://fuji-hill-ai-blog.pages.dev/articles/2026-06-14-watarase-friend-ride.html</guid>
-      <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
-      <description>2026年6月14日、友人Sと友人Dと渡良瀬サイクリングロードへ。回復走のつもりが、45.53km、NP194W、TSS83.6になった友人ライドの記録。</description>
     </item>
   </channel>
 </rss>
