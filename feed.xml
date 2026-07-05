@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 15:40:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:05:51 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40分走が気づけばSSTに。息苦しさが減ってきたローラー練</title>
+      <link>https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</guid>
+      <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月3日のローラー練。予定より長く40分走になり、後半はSST寄りまで自然に上がった。息苦しさが減ってきた感覚と、75kg基準のW/kgも軽く記録。</description>
+    </item>
     <item>
       <title>ゴルビー翌日にSST20分×2。&lt;br&gt;2本目後半でゾーンに入った日</title>
       <link>https://fujihillgold.com/articles/2026-07-02-sst-after-gorby.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-16-stemcap-wolftooth-mk0.html</guid>
       <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
       <description>Aethos2のステムキャップをWolfTooth MK0 ULTRALIGHT LOW PROFILE STEM CAPに交換。軽量化を狙ったら元の黒キャップも2.4gと軽く、MK0は2.5gでほぼ同重量。でも見た目は良い、という写真ありの短めカスタム日誌。</description>
-    </item>
-    <item>
-      <title>ロードバイクで強くなるために、休む日を作った</title>
-      <link>https://fujihillgold.com/articles/2026-06-15-rest-day.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-15-rest-day.html</guid>
-      <pubDate>Mon, 15 Jun 2026 07:00:00 +0900</pubDate>
-      <description>2026年6月15日、富士ヒルへ向けた練習の中で意図的にフルレスト寄りの日を作った記録。乗りたい気持ちはあったが、次に踏むために休むことも実験として扱う。</description>
     </item>
   </channel>
 </rss>
