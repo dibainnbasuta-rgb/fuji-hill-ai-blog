@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:05:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:30:04 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40分走のつもりが不発。気分が乗らない日でも回した</title>
+      <link>https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月5日のローラー練。40分走で245W前後を狙ったものの不発。それでも44分回して平均193W、NP208W、TSS42.4を積んだ低〜中強度の維持日。</description>
+    </item>
     <item>
       <title>40分走が気づけばSSTに。息苦しさが減ってきたローラー練</title>
       <link>https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-16-taihei-heart-rate-tss120.html</guid>
       <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
       <description>月曜レスト明けに太平方面でしっかり登った外ライド。腕バンド型の心拍計を10年ぶりに初投入。登る所は登り休む所は休む、でレスト明けでもTSS120.3。Lap7は310W、後半のLap13も306W。R×L装備の体感も軽く。2026/06/16。</description>
-    </item>
-    <item>
-      <title>Aethos2のステムキャップをWolfTooth MK0に交換。軽量化はなかったけどカッコいいからヨシ</title>
-      <link>https://fujihillgold.com/articles/2026-06-16-stemcap-wolftooth-mk0.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-16-stemcap-wolftooth-mk0.html</guid>
-      <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
-      <description>Aethos2のステムキャップをWolfTooth MK0 ULTRALIGHT LOW PROFILE STEM CAPに交換。軽量化を狙ったら元の黒キャップも2.4gと軽く、MK0は2.5gでほぼ同重量。でも見た目は良い、という写真ありの短めカスタム日誌。</description>
     </item>
   </channel>
 </rss>
