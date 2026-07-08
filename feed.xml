@@ -5,8 +5,22 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:30:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:12:26 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>唐沢ゴルビー翌日にSST20分×2。甘くせず雑にしない</title>
+      <link>https://fujihillgold.com/articles/2026-07-08-roller-sst-20x2-after-gorby.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-08-roller-sst-20x2-after-gorby.html</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月8日のローラー練習。前日の唐沢ゴルビー5分×5本の翌日に、SST20分×2相当を実施。255Wで2本そろえ、最後の1分刺激の入れ方も見直した記録。</description>
+    </item>
+    <item>
+      <title>唐沢ゴルビー5本完遂。5本目が一番踏めた日</title>
+      <link>https://fujihillgold.com/articles/2026-07-07-outdoor-gorby-5x5.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-07-outdoor-gorby-5x5.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月7日の外ライド。AIに出された唐沢ゴルビー風5分走を当初予定より増やして5本実施。全本330W以上、5本目340Wで一番踏めた日の記録。</description>
+    </item>
     <item>
       <title>40分走のつもりが不発。気分が乗らない日でも回した</title>
       <link>https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-17-igpsport-hr70-review.html</guid>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
       <description>胸ベルト式が苦手で10年以上心拍計から離れていたロードバイク乗りが、腕バンド型のiGPSPORT HR70（6,054円）を太平ライドで初投入。胸が苦しくない・装着が楽・Garminの評価が現実に近づいた・呼吸数まで見える。胸ベルト苦手な人向けの初回レビュー。2026/06/17。</description>
-    </item>
-    <item>
-      <title>Aethos2乗りが、富士ヒル目線でSL8と比べてみた</title>
-      <link>https://fujihillgold.com/articles/2026-06-17-aethos2-vs-tarmac-sl8.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-17-aethos2-vs-tarmac-sl8.html</guid>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
-      <description>普段のライド用に買ったAethos2を、富士ヒルゴールド目線でTarmac SL8と比べ直してみた。注ぐTarmac・寄り添うAethos、8%が分かれ目、快適性=出力減ではない話。ホイール(Alpinist vs Rapide)の迷いも。結論は「Aethos2で十分、買い替えない」。2026/06/17。</description>
-    </item>
-    <item>
-      <title>心拍計を付けて太平ライド。レスト明けでもTSS120</title>
-      <link>https://fujihillgold.com/articles/2026-06-16-taihei-heart-rate-tss120.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-16-taihei-heart-rate-tss120.html</guid>
-      <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
-      <description>月曜レスト明けに太平方面でしっかり登った外ライド。腕バンド型の心拍計を10年ぶりに初投入。登る所は登り休む所は休む、でレスト明けでもTSS120.3。Lap7は310W、後半のLap13も306W。R×L装備の体感も軽く。2026/06/16。</description>
     </item>
   </channel>
 </rss>
