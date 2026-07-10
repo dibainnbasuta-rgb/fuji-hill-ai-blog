@@ -5,8 +5,22 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:08:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:02:47 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>渡良瀬遊水地でアクティブレスト。膝に違和感が出たので少し慎重にする</title>
+      <link>https://fujihillgold.com/articles/2026-07-10-watarase-active-recovery-knee.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-10-watarase-active-recovery-knee.html</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 +0900</pubDate>
+      <description>外ゴルビー、ローラーSST、太平ライドの後に渡良瀬遊水地を低強度で走った記録。膝前側の軽い違和感を無視せず、3日ほど高出力を控えて様子を見ることにした。</description>
+    </item>
+    <item>
+      <title>外ゴルビー、SST、そして太平。3日目でも坂を踏めた日</title>
+      <link>https://fujihillgold.com/articles/2026-07-09-taihei-hill-on-after-sst.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-09-taihei-hill-on-after-sst.html</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月9日の太平ライド。外ゴルビー、ローラーSSTの翌日に、坂ON・下りOFF・それ以外テンポで走った記録。3日目でも太平山316W、帰りのストレート282Wを踏めた日。</description>
+    </item>
     <item>
       <title>唐沢ゴルビー翌日にSST20分×2。甘くせず雑にしない</title>
       <link>https://fujihillgold.com/articles/2026-07-08-roller-sst-20x2-after-gorby.html</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-17-karasawa-saddle-pain.html</guid>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
       <description>太平TSS120.3の翌日、唐沢ソロライドへ。距離28.65km・獲得472m・TSS83.8で登りは何本か入っているのに、サドル擦れの痛みで集中できず踏めなかった。左が痛く右に逃げたら右も痛い、帰宅後に皮むけ確認、ワセリン初購入まで。富士ヒルの前に、まず尻を守る話。2026/06/17。</description>
-    </item>
-    <item>
-      <title>尻が痛くて自転車休み。代わりにジョギングした日</title>
-      <link>https://fujihillgold.com/articles/2026-06-17-jog-instead-of-bike.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-17-jog-instead-of-bike.html</guid>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
-      <description>前日の唐沢ライドでサドル擦れが悪化し、自転車は休み。サドルに触れなければ痛みが出ないので、リュックを背負って買い物しながら6.16kmジョギングした日。富士ヒル練習なのにランニングシューズで運動量を確保した実験です。</description>
-    </item>
-    <item>
-      <title>iGPSPORT HR70レビュー。胸ベルトが苦手でも心拍が取れた</title>
-      <link>https://fujihillgold.com/articles/2026-06-17-igpsport-hr70-review.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-17-igpsport-hr70-review.html</guid>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
-      <description>胸ベルト式が苦手で10年以上心拍計から離れていたロードバイク乗りが、腕バンド型のiGPSPORT HR70（6,054円）を太平ライドで初投入。胸が苦しくない・装着が楽・Garminの評価が現実に近づいた・呼吸数まで見える。胸ベルト苦手な人向けの初回レビュー。2026/06/17。</description>
     </item>
   </channel>
 </rss>
