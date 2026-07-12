@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:36:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:37:10 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>梅雨の合間にMTB。昔はロード、今は山、それでも一緒に走っている</title>
+      <link>https://fujihillgold.com/articles/2026-07-12-mtb-longtime-friend.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-12-mtb-longtime-friend.html</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
+      <description>久しぶりにSpecialized Status 140で山へ。昔はロードで練習していた長年の友人と、今はMTBで走る。富士ヒルや家族の話をしながら会話ペースで走った日の記録。</description>
+    </item>
     <item>
       <title>友人と話しながら唐沢5本。高出力を控えて登った日</title>
       <link>https://fujihillgold.com/articles/2026-07-11-karasawa-5-easy-with-friend.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-19-rainy-roller-sst-heart-rate.html</guid>
       <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
       <description>雨の日にRNC7とGT-ROLLER Q1.1でSST20分×2を狙ったローラー練習記録。1本目は20分248W、2本目は15分254W。脚ではなく心拍と呼吸が先に来た日の実験ログ。</description>
-    </item>
-    <item>
-      <title>自転車とは別枠で始めた毎日筋トレが、登りに効いている気がしてきた</title>
-      <link>https://fujihillgold.com/articles/2026-06-19-daily-strength-training-fuji-hill.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-19-daily-strength-training-fuji-hill.html</guid>
-      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
-      <description>2025年6月に立ち上げた筋トレチャンネル「ちょいタフ筋トレ部」。健康と収益化の実験として始めた毎日20分の全身筋トレが、ロードバイクのダンシングや登りの安定感にも効いている気がしてきた話。</description>
     </item>
   </channel>
 </rss>
