@@ -5,7 +5,7 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:37:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:42:16 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>梅雨の合間にMTB。昔はロード、今は山、それでも一緒に走っている</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-12-mtb-longtime-friend.html</guid>
       <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
       <description>久しぶりにSpecialized Status 140で山へ。昔はロードで練習していた長年の友人と、今はMTBで走る。富士ヒルや家族の話をしながら会話ペースで走った日の記録。</description>
+    </item>
+    <item>
+      <title>スマートローラーを借りて試した。でも今後も4本ローラーでいく</title>
+      <link>https://fujihillgold.com/articles/2026-07-11-tacx-neo-smart-trial-return.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-11-tacx-neo-smart-trial-return.html</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
+      <description>借りたTacx NEO SmartをTacx Trainingアプリで試乗。自動負荷や石畳のロードフィールは面白かったが、今後の練習は慣れた4本ローラーを選び、借りた機材は返却することにした。</description>
     </item>
     <item>
       <title>友人と話しながら唐沢5本。高出力を控えて登った日</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-21-300w-not-enough-fuji.html</guid>
       <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
       <description>脳内サイクリング Rev.1で富士ヒルを300W、総重量82kgでシミュレーションしたら1:07:09。ゴールド目安の65分切りには届かなかったが、できないことが見えたから練習が面白くなった話。</description>
-    </item>
-    <item>
-      <title>雨なのでローラー。SST2本目で心拍が持たなかった日</title>
-      <link>https://fujihillgold.com/articles/2026-06-19-rainy-roller-sst-heart-rate.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-19-rainy-roller-sst-heart-rate.html</guid>
-      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
-      <description>雨の日にRNC7とGT-ROLLER Q1.1でSST20分×2を狙ったローラー練習記録。1本目は20分248W、2本目は15分254W。脚ではなく心拍と呼吸が先に来た日の実験ログ。</description>
     </item>
   </channel>
 </rss>
