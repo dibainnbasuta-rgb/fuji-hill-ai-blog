@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:42:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:05:13 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暑さで踏めないと思ったのに琴平309W。唐沢・琴平の高負荷ライド</title>
+      <link>https://fujihillgold.com/articles/2026-07-14-karasawa-kotohira-heat-high-load.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-14-karasawa-kotohira-heat-high-load.html</guid>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
+      <description>唐沢から琴平、最後のストレートまで高負荷で走った記録。暑さで踏めない感覚に反して琴平は平均309W。膝の違和感も出ず、TSS124.1を積めた。</description>
+    </item>
     <item>
       <title>梅雨の合間にMTB。昔はロード、今は山、それでも一緒に走っている</title>
       <link>https://fujihillgold.com/articles/2026-07-12-mtb-longtime-friend.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-21-vo2-roller-3minx4.html</guid>
       <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
       <description>雨の日にRNC7とGT-ROLLER Q1.1でVO2刺激の3分×4本を実施。1〜3本目は狙い通り、4本目は317Wまで落ちたが、その後9分240Wのテンポ走は踏めた日のローラー練習ログ。</description>
-    </item>
-    <item>
-      <title>300Wでも足りない。&lt;br&gt;だから練習が面白くなった</title>
-      <link>https://fujihillgold.com/articles/2026-06-21-300w-not-enough-fuji.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-21-300w-not-enough-fuji.html</guid>
-      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
-      <description>脳内サイクリング Rev.1で富士ヒルを300W、総重量82kgでシミュレーションしたら1:07:09。ゴールド目安の65分切りには届かなかったが、できないことが見えたから練習が面白くなった話。</description>
     </item>
   </channel>
 </rss>
