@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:05:13 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:00:49 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30℃の部屋でSST。脚は元気なのに息が先に終わった</title>
+      <link>https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月15日のローラー練習。室温30℃を超える環境でSST20分×2に挑み、1本目252Wを完遂したものの2本目は10分で終了。パワートレーニングと暑さへの適応を分けて考えた記録。</description>
+    </item>
     <item>
       <title>暑さで踏めないと思ったのに琴平309W。唐沢・琴平の高負荷ライド</title>
       <link>https://fujihillgold.com/articles/2026-07-14-karasawa-kotohira-heat-high-load.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-22-karasawa-kotohira-hard-ride.html</guid>
       <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
       <description>SSTとVO2のローラー練習を2日続けたあと、唐沢山と琴平峠へ。唐沢5分05秒337W、琴平12分19秒305W、ラストストレート16分57秒265Wで、ローラー後でも外なら踏めた日の実走ログ。</description>
-    </item>
-    <item>
-      <title>VO2ローラーで4本目に撃沈。&lt;br&gt;でも9分テンポは踏めた</title>
-      <link>https://fujihillgold.com/articles/2026-06-21-vo2-roller-3minx4.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-21-vo2-roller-3minx4.html</guid>
-      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
-      <description>雨の日にRNC7とGT-ROLLER Q1.1でVO2刺激の3分×4本を実施。1〜3本目は狙い通り、4本目は317Wまで落ちたが、その後9分240Wのテンポ走は踏めた日のローラー練習ログ。</description>
     </item>
   </channel>
 </rss>
