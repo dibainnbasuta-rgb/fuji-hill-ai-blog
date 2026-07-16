@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:00:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:06:25 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最高38℃の太平・琴平・唐沢。ボトル2本と水かけで夏ライドを耐えた日</title>
+      <link>https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月16日の外ライド。最高38℃の暑さで予定していた平坦走をやめ、太平・逆琴平・逆唐沢へ変更。ボトル2本と背中への水かけを試しながらTSS151.3を走った記録。</description>
+    </item>
     <item>
       <title>30℃の部屋でSST。脚は元気なのに息が先に終わった</title>
       <link>https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-23-belly-fat-stubborn.html</guid>
       <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
       <description>体重75kg時点のお腹まわり記録。酒も菓子もかなり減らし、ロードバイク練習も積んでいるのに下腹が残る。富士ヒルに向けて、練習の質と回復を守りながら少しずつ絞る方針を整理した。</description>
-    </item>
-    <item>
-      <title>唐沢5分337W、琴平12分305W。&lt;br&gt;ローラー後でも外なら踏めた</title>
-      <link>https://fujihillgold.com/articles/2026-06-22-karasawa-kotohira-hard-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-22-karasawa-kotohira-hard-ride.html</guid>
-      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
-      <description>SSTとVO2のローラー練習を2日続けたあと、唐沢山と琴平峠へ。唐沢5分05秒337W、琴平12分19秒305W、ラストストレート16分57秒265Wで、ローラー後でも外なら踏めた日の実走ログ。</description>
     </item>
   </channel>
 </rss>
