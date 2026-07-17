@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:06:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:00:02 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暑い室内でSST下限20分×2。243Wを揃えて見えたローラーの役割</title>
+      <link>https://fujihillgold.com/articles/2026-07-17-indoor-sst-lower-limit-20x2.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-17-indoor-sst-lower-limit-20x2.html</guid>
+      <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
+      <description>暑い室内でSST下限20分×2を実施。2本とも243Wで揃え、出力を9W下げることでSSTの合計時間を30分から40分へ伸ばせたローラー練習の記録。</description>
+    </item>
     <item>
       <title>最高38℃の太平・琴平・唐沢。ボトル2本と水かけで夏ライドを耐えた日</title>
       <link>https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-23-taihei-return-straight-280w.html</guid>
       <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
       <description>2026年6月23日の太平方面ライド。太平山は7分17秒317W、帰りのストレートは16分32秒280W。登りの数字以上に、力が逃げずに踏める感覚が収穫だった外ライド記録。</description>
-    </item>
-    <item>
-      <title>酒も菓子もやめたのに、&lt;br&gt;お腹だけ残る問題</title>
-      <link>https://fujihillgold.com/articles/2026-06-23-belly-fat-stubborn.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-23-belly-fat-stubborn.html</guid>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
-      <description>体重75kg時点のお腹まわり記録。酒も菓子もかなり減らし、ロードバイク練習も積んでいるのに下腹が残る。富士ヒルに向けて、練習の質と回復を守りながら少しずつ絞る方針を整理した。</description>
     </item>
   </channel>
 </rss>
