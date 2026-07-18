@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 10:00:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:20:33 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雨上がりの唐沢ゴルビー5本。パンク修理後も過去一番先まで走れた</title>
+      <link>https://fujihillgold.com/articles/2026-07-18-rainy-karasawa-gorby-with-friends.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-18-rainy-karasawa-gorby-with-friends.html</guid>
+      <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月18日、友人2人と雨上がりの唐沢でゴルビー5分×5本。1本目後のパンク修理を挟みながら5本平均342Wで完遂し、過去一番先まで走れた記録。</description>
+    </item>
     <item>
       <title>暑い室内でSST下限20分×2。243Wを揃えて見えたローラーの役割</title>
       <link>https://fujihillgold.com/articles/2026-07-17-indoor-sst-lower-limit-20x2.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-25-roller-sst-20min-x2.html</guid>
       <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
       <description>RNC7とGT-ROLLER Q1.1でSST20分×2。1本目255W、2本目253Wで出力差をほぼ作らず完遂できたローラー練習の記録。前回15分で終わった2本目からの進歩と、お尻の痛みがましだった理由も整理。</description>
-    </item>
-    <item>
-      <title>太平山317Wより、&lt;br&gt;帰りのストレート280Wが収穫だった日</title>
-      <link>https://fujihillgold.com/articles/2026-06-23-taihei-return-straight-280w.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-23-taihei-return-straight-280w.html</guid>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
-      <description>2026年6月23日の太平方面ライド。太平山は7分17秒317W、帰りのストレートは16分32秒280W。登りの数字以上に、力が逃げずに踏める感覚が収穫だった外ライド記録。</description>
     </item>
   </channel>
 </rss>
