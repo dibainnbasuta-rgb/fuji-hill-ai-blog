@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:17:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:18:24 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太平の後に278Wを17分半。275Wが「長く踏める数字」になってきた</title>
+      <link>https://fujihillgold.com/articles/2026-07-21-taihei-275w-progress-evade3.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-21-taihei-275w-progress-evade3.html</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月21日、湿度の高い早朝に太平を7分26秒・308W。その後も278Wを17分半維持し、FTP275W付近の持続力を確認した実走記録。</description>
+    </item>
     <item>
       <title>友人と話しながら唐沢5本。誰かと練習できるのが幸せと感じる</title>
       <link>https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-30-garmin-anaerobic-gorby-menu.html</guid>
       <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
       <description>唐沢・琴平方面を走ったあと、Garminの負荷バランスで無酸素運動不足と表示。高強度有酸素は足りている一方で330W以上の刺激が少ないと見て、AIと翌日の無酸素寄せゴルビーを組んだ記録。</description>
-    </item>
-    <item>
-      <title>3分のはずが4分。VO2ローラーを間違えて高難度にした日</title>
-      <link>https://fujihillgold.com/articles/2026-06-26-vo2-3min-mistaken-4min.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-26-vo2-3min-mistaken-4min.html</guid>
-      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
-      <description>VO2ローラー3分メニューのつもりが、4分メニューと勘違いして実施。完遂できなかったと思ったが、実際は3分想定の強度を4分近く維持していた日の記録。</description>
     </item>
   </channel>
 </rss>
