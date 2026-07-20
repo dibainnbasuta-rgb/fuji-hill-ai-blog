@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:20:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:17:09 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>友人と話しながら唐沢5本。誰かと練習できるのが幸せと感じる</title>
+      <link>https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</guid>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月20日、友人と会話しながら唐沢を低強度で5本。2時間、獲得標高660m、TSS62.2のベース走で改めて感じた、数字では測れない友人ライドの記録。</description>
+    </item>
     <item>
       <title>雨上がりの唐沢ゴルビー5本。パンク修理後も過去一番先まで走れた</title>
       <link>https://fujihillgold.com/articles/2026-07-18-rainy-karasawa-gorby-with-friends.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-26-vo2-3min-mistaken-4min.html</guid>
       <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
       <description>VO2ローラー3分メニューのつもりが、4分メニューと勘違いして実施。完遂できなかったと思ったが、実際は3分想定の強度を4分近く維持していた日の記録。</description>
-    </item>
-    <item>
-      <title>SST20分×2。ローラーで250W台を崩さず踏めた日</title>
-      <link>https://fujihillgold.com/articles/2026-06-25-roller-sst-20min-x2.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-06-25-roller-sst-20min-x2.html</guid>
-      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
-      <description>RNC7とGT-ROLLER Q1.1でSST20分×2。1本目255W、2本目253Wで出力差をほぼ作らず完遂できたローラー練習の記録。前回15分で終わった2本目からの進歩と、お尻の痛みがましだった理由も整理。</description>
     </item>
   </channel>
 </rss>
