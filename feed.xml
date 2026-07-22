@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 10:44:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:36:29 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初代Aresの内装が限界に。S-Works Ares 2へ履き替えてみた</title>
+      <link>https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</guid>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
+      <description>長く使った初代S-Works Aresから、同じサイズのS-Works Ares 2へ移行を開始。ERGON TP1でクリート位置を移し、ローラーで試した初回の感触と左足外側の違和感を記録する。</description>
+    </item>
     <item>
       <title>室温33℃・湿度70％のSST。1本目245W、2本目は踏めなかった</title>
       <link>https://fujihillgold.com/articles/2026-07-22-hottest-indoor-sst-adaptive-plan.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-01-hr70-sensor-battery-garmin.html</guid>
       <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
       <description>iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。</description>
-    </item>
-    <item>
-      <title>Garminに無酸素不足と言われたので、330W以上でゴルビーしてきた</title>
-      <link>https://fujihillgold.com/articles/2026-07-01-anaerobic-gorby-result.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-01-anaerobic-gorby-result.html</guid>
-      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
-      <description>Garminの無酸素運動不足を受けて、AIと相談して作った無酸素寄せゴルビーを外で実施。5分走を340W、341W、328W、318W、319Wでまとめ、前より辛くなかった体感も残った実走記録。</description>
     </item>
   </channel>
 </rss>
