@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:36:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 10:48:13 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2日休んだら身体が軽い。ラストSSTは5分でやめてもTSS114</title>
+      <link>https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
+      <description>2日間しっかり休んだ後の実走記録。身体は軽く、高強度を重ねても余裕があった一方、最後に追加したSSTは約5分で終了。TSS114になった一日から休養とメニュー設計を考えた。</description>
+    </item>
     <item>
       <title>初代Aresの内装が限界に。S-Works Ares 2へ履き替えてみた</title>
       <link>https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-02-sst-after-gorby.html</guid>
       <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
       <description>無酸素寄せゴルビー翌日に、ローラーでSST20分×2と高出力刺激を実施。2本目後半でリズムに入り、TSS95.5を積めた一方、汗とローラー落車もあった記録。</description>
-    </item>
-    <item>
-      <title>HR70のバッテリー残量をGarminに表示。Sensor Batteryを使ってみた</title>
-      <link>https://fujihillgold.com/articles/2026-07-01-hr70-sensor-battery-garmin.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-01-hr70-sensor-battery-garmin.html</guid>
-      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
-      <description>iGPSPORT HR70のバッテリー残量をGarmin Edge 530に表示するため、Connect IQのSensor Batteryを試した記録。Show Heart Rate設定、SRAM RED AXSシフター表示、再起動後の表示遅れもまとめます。</description>
     </item>
   </channel>
 </rss>
