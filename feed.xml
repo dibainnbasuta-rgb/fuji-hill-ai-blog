@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 10:48:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:53:30 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>朝5時集合の友人ライド。集団で走るのやっぱり楽しい！</title>
+      <link>https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <description>前日の高強度ライドから一夜明け、友人2人と朝5時集合で走った低強度ライド。平均135Wでも集団走行ならではの変化があり、楽しさと回復と運動量を無理なく両立できた。</description>
+    </item>
     <item>
       <title>2日休んだら身体が軽い。ラストSSTは5分でやめてもTSS114</title>
       <link>https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</guid>
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月3日のローラー練。予定より長く40分走になり、後半はSST寄りまで自然に上がった。息苦しさが減ってきた感覚と、75kg基準のW/kgも軽く記録。</description>
-    </item>
-    <item>
-      <title>ゴルビー翌日にSST20分×2。&lt;br&gt;2本目後半でゾーンに入った日</title>
-      <link>https://fujihillgold.com/articles/2026-07-02-sst-after-gorby.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-02-sst-after-gorby.html</guid>
-      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
-      <description>無酸素寄せゴルビー翌日に、ローラーでSST20分×2と高出力刺激を実施。2本目後半でリズムに入り、TSS95.5を積めた一方、汗とローラー落車もあった記録。</description>
     </item>
   </channel>
 </rss>
