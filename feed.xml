@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 15:53:30 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:16:50 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>調子が良すぎて逆に不安。SST25分×2を249W・254Wで完遂した日</title>
+      <link>https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</guid>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
+      <description>4本ローラーでSST25分×2を実施。1本目249W、2本目254Wで完遂できた好調日の記録と、シューズや回復など複数の要因を振り返る。</description>
+    </item>
     <item>
       <title>朝5時集合の友人ライド。集団で走るのやっぱり楽しい！</title>
       <link>https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</guid>
       <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月5日のローラー練。40分走で245W前後を狙ったものの不発。それでも44分回して平均193W、NP208W、TSS42.4を積んだ低〜中強度の維持日。</description>
-    </item>
-    <item>
-      <title>40分走が気づけばSSTに。息苦しさが減ってきたローラー練</title>
-      <link>https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-03-40min-tempo-sst-roller.html</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月3日のローラー練。予定より長く40分走になり、後半はSST寄りまで自然に上がった。息苦しさが減ってきた感覚と、75kg基準のW/kgも軽く記録。</description>
     </item>
   </channel>
 </rss>
