@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 19:16:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:19:56 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1本目348Wから5本目317Wへ。後半は垂れたけれど、外ゴルビーを最後まで完遂</title>
+      <link>https://fujihillgold.com/articles/2026-07-28-outdoor-gorby-five-reps-fade.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-28-outdoor-gorby-five-reps-fade.html</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0900</pubDate>
+      <description>唐沢で外ゴルビー5分×5を完遂。348Wから317Wへ出力が落ちた理由を、前日のSSTとペース配分から振り返る。</description>
+    </item>
     <item>
       <title>調子が良すぎて逆に不安。SST25分×2を249W・254Wで完遂した日</title>
       <link>https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-07-outdoor-gorby-5x5.html</guid>
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月7日の外ライド。AIに出された唐沢ゴルビー風5分走を当初予定より増やして5本実施。全本330W以上、5本目340Wで一番踏めた日の記録。</description>
-    </item>
-    <item>
-      <title>40分走のつもりが不発。気分が乗らない日でも回した</title>
-      <link>https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-05-40min-failed-but-kept-pedaling.html</guid>
-      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月5日のローラー練。40分走で245W前後を狙ったものの不発。それでも44分回して平均193W、NP208W、TSS42.4を積んだ低〜中強度の維持日。</description>
     </item>
   </channel>
 </rss>
