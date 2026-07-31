@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:06:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:01:37 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりに外で乗るRNC7。軽い唐沢でAethos2との差が見えた</title>
+      <link>https://fujihillgold.com/articles/2026-07-31-rnc7-recovery-karasawa-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-31-rnc7-recovery-karasawa-ride.html</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
+      <description>前日の高負荷ライド後、RNC7で唐沢まで約51分の軽い確認走。NP203Wでも体感は低強度。久しぶりの外走行でAethos2との重さ、反応、ハンドリングの違いを確かめた。</description>
+    </item>
     <item>
       <title>うどん効果だけではない。太平・琴平・唐沢で最後まで踏めた</title>
       <link>https://fujihillgold.com/articles/2026-07-30-taihei-kotohira-karasawa-strong-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-10-watarase-active-recovery-knee.html</guid>
       <pubDate>Fri, 10 Jul 2026 07:00:00 +0900</pubDate>
       <description>外ゴルビー、ローラーSST、太平ライドの後に渡良瀬遊水地を低強度で走った記録。膝前側の軽い違和感を無視せず、3日ほど高出力を控えて様子を見ることにした。</description>
-    </item>
-    <item>
-      <title>外ゴルビー、SST、そして太平。3日目でも坂を踏めた日</title>
-      <link>https://fujihillgold.com/articles/2026-07-09-taihei-hill-on-after-sst.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-09-taihei-hill-on-after-sst.html</guid>
-      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月9日の太平ライド。外ゴルビー、ローラーSSTの翌日に、坂ON・下りOFF・それ以外テンポで走った記録。3日目でも太平山316W、帰りのストレート282Wを踏めた日。</description>
     </item>
   </channel>
 </rss>
