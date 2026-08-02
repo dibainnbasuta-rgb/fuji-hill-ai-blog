@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 16:35:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:07:50 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>白石の翌日は、友人と会話しながら唐沢5本。</title>
+      <link>https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
+      <description>TSS205.9の白石ライド翌日に、友人と会話できるペースで唐沢を5本。平均心拍100bpm、IF0.574、TSS68.7となったアクティブレスト寄りの低強度ベース走を振り返る。</description>
+    </item>
     <item>
       <title>白石29分16秒で終わらない。定峰、裏白石、登り返しまで詰め込んだ真夏の一日</title>
       <link>https://fujihillgold.com/articles/2026-08-01-shiraishi-fureai-sadamine-summer-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-11-tacx-neo-smart-trial-return.html</guid>
       <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
       <description>借りたTacx NEO SmartをTacx Trainingアプリで試乗。自動負荷や石畳のロードフィールは面白かったが、今後の練習は慣れた4本ローラーを選び、借りた機材は返却することにした。</description>
-    </item>
-    <item>
-      <title>友人と話しながら唐沢5本。高出力を控えて登った日</title>
-      <link>https://fujihillgold.com/articles/2026-07-11-karasawa-5-easy-with-friend.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-11-karasawa-5-easy-with-friend.html</guid>
-      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
-      <description>膝前側の軽い違和感を見ながら、友人と会話ペースで唐沢を5本登った記録。平均100W、NP147Wの低強度で走り、半年以上続く唐沢ライドのありがたさを改めて感じた日。</description>
     </item>
   </channel>
 </rss>
