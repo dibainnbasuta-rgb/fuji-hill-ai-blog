@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 08:07:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:24:26 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>低ケイデンスで「腰で乗る」が少し分かった。なんとなく感覚をつかんだ日</title>
+      <link>https://fujihillgold.com/articles/2026-08-04-taihei-kotohira-karasawa-low-cadence.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-04-taihei-kotohira-karasawa-low-cadence.html</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
+      <description>太平323W、琴平291W、唐沢293W。NP246W・TSS161.1の高強度ライドで、骨盤を安定させて股関節から力を伝える低ケイデンスの感覚をつかんだ記録。</description>
+    </item>
     <item>
       <title>白石の翌日は、友人と会話しながら唐沢5本。</title>
       <link>https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-12-mtb-longtime-friend.html</guid>
       <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
       <description>久しぶりにSpecialized Status 140で山へ。昔はロードで練習していた長年の友人と、今はMTBで走る。富士ヒルや家族の話をしながら会話ペースで走った日の記録。</description>
-    </item>
-    <item>
-      <title>スマートローラーを借りて試した。でも今後も4本ローラーでいく</title>
-      <link>https://fujihillgold.com/articles/2026-07-11-tacx-neo-smart-trial-return.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-11-tacx-neo-smart-trial-return.html</guid>
-      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
-      <description>借りたTacx NEO SmartをTacx Trainingアプリで試乗。自動負荷や石畳のロードフィールは面白かったが、今後の練習は慣れた4本ローラーを選び、借りた機材は返却することにした。</description>
     </item>
   </channel>
 </rss>
