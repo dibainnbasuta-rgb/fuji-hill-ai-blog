@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:03:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:41:54 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30秒ON／30秒OFFはぬるかった。でも練習の方向は見えた</title>
+      <link>https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</guid>
+      <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
+      <description>唐沢で30秒ON／30秒OFFを実施。TSS101.4・IF0.904なのに体感はぬるい。パワーゾーン6以上が14分09秒あるのに心拍ゾーン5は0秒というズレから、60秒ON／60秒OFFへ変える理由と今後の練習3本柱を整理した記録。</description>
+    </item>
     <item>
       <title>前日TSS161の翌日にSST25分×2。Ares 2の違和感もようやく消えた</title>
       <link>https://fujihillgold.com/articles/2026-08-05-sst-25min-x2-ares2-fit.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</guid>
       <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月15日のローラー練習。室温30℃を超える環境でSST20分×2に挑み、1本目252Wを完遂したものの2本目は10分で終了。パワートレーニングと暑さへの適応を分けて考えた記録。</description>
-    </item>
-    <item>
-      <title>暑さで踏めないと思ったのに琴平309W。唐沢・琴平の高負荷ライド</title>
-      <link>https://fujihillgold.com/articles/2026-07-14-karasawa-kotohira-heat-high-load.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-14-karasawa-kotohira-heat-high-load.html</guid>
-      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
-      <description>唐沢から琴平、最後のストレートまで高負荷で走った記録。暑さで踏めない感覚に反して琴平は平均309W。膝の違和感も出ず、TSS124.1を積めた。</description>
     </item>
   </channel>
 </rss>
