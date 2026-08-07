@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:41:54 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:33:43 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>回復走のつもりが踏みすぎた。それでも明日のゴルビーはやる</title>
+      <link>https://fujihillgold.com/articles/2026-08-07-karasawa-base-ride-before-gorby.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-07-karasawa-base-ride-before-gorby.html</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
+      <description>ゴルビー前日に軽く整えるはずが、唐沢2本目265W、帰りのストレートで2分15秒371W。心拍ゾーン5は0秒なのにパワーゾーン5以上は8分37秒。体感と負荷のズレをどう見るかと、翌日の判断を整理した記録。</description>
+    </item>
     <item>
       <title>30秒ON／30秒OFFはぬるかった。でも練習の方向は見えた</title>
       <link>https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</guid>
       <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月16日の外ライド。最高38℃の暑さで予定していた平坦走をやめ、太平・逆琴平・逆唐沢へ変更。ボトル2本と背中への水かけを試しながらTSS151.3を走った記録。</description>
-    </item>
-    <item>
-      <title>30℃の部屋でSST。脚は元気なのに息が先に終わった</title>
-      <link>https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-15-hot-room-sst-heat-adaptation.html</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月15日のローラー練習。室温30℃を超える環境でSST20分×2に挑み、1本目252Wを完遂したものの2本目は10分で終了。パワートレーニングと暑さへの適応を分けて考えた記録。</description>
     </item>
   </channel>
 </rss>
