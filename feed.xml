@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:33:43 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:05:58 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ゴルビー5本を11W差で揃えた。耐えるだけの練習ではなくなってきた</title>
+      <link>https://fujihillgold.com/articles/2026-08-08-gorby-five-reps-aligned.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-08-gorby-five-reps-aligned.html</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0900</pubDate>
+      <description>友人2人と外ゴルビー5分×5本。323W・328W・328W・321W・332Wの11W差で揃い、5本目が最高値。前回31W落ちからの改善と、次に試す60秒ON／30秒OFFの狙いを整理した記録。</description>
+    </item>
     <item>
       <title>回復走のつもりが踏みすぎた。それでも明日のゴルビーはやる</title>
       <link>https://fujihillgold.com/articles/2026-08-07-karasawa-base-ride-before-gorby.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-17-indoor-sst-lower-limit-20x2.html</guid>
       <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
       <description>暑い室内でSST下限20分×2を実施。2本とも243Wで揃え、出力を9W下げることでSSTの合計時間を30分から40分へ伸ばせたローラー練習の記録。</description>
-    </item>
-    <item>
-      <title>最高38℃の太平・琴平・唐沢。ボトル2本と水かけで夏ライドを耐えた日</title>
-      <link>https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-16-taihei-reverse-kotohira-karasawa-heat.html</guid>
-      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月16日の外ライド。最高38℃の暑さで予定していた平坦走をやめ、太平・逆琴平・逆唐沢へ変更。ボトル2本と背中への水かけを試しながらTSS151.3を走った記録。</description>
     </item>
   </channel>
 </rss>
