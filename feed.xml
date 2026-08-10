@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 11:15:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:23:57 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ウエット路面で予定変更。低ケイデンスでも力まず踏める幅が増えてきた</title>
+      <link>https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</guid>
+      <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
+      <description>前日の雨で林道の路面が悪く、琴平・唐沢をカット。それでも西山田林道1分56秒402W、太平7分06秒319W。80rpm前後でも力まず高出力を出せた日と、Ares 2の実走デビューの記録。</description>
+    </item>
     <item>
       <title>回復走が物足りない。練習がゲームみたいになってきた</title>
       <link>https://fujihillgold.com/articles/2026-08-09-watarase-recovery-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</guid>
       <pubDate>Mon, 20 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月20日、友人と会話しながら唐沢を低強度で5本。2時間、獲得標高660m、TSS62.2のベース走で改めて感じた、数字では測れない友人ライドの記録。</description>
-    </item>
-    <item>
-      <title>雨上がりの唐沢ゴルビー5本。パンク修理後も過去一番先まで走れた</title>
-      <link>https://fujihillgold.com/articles/2026-07-18-rainy-karasawa-gorby-with-friends.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-18-rainy-karasawa-gorby-with-friends.html</guid>
-      <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月18日、友人2人と雨上がりの唐沢でゴルビー5分×5本。1本目後のパンク修理を挟みながら5本平均342Wで完遂し、過去一番先まで走れた記録。</description>
     </item>
   </channel>
 </rss>
