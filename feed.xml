@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:23:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:24:45 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>60秒ON／30秒OFF。2セット目からちゃんと苦しくなった</title>
+      <link>https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
+      <description>30/30がぬるかったので、唐沢で60秒ON／30秒OFFを初めて試した記録。ONは380〜390W台まで上振れしたが2セット完遂。1セット目は余裕、2セット目から明確にきつい。短時間反復の標準メニューが決まった日。</description>
+    </item>
     <item>
       <title>ウエット路面で予定変更。低ケイデンスでも力まず踏める幅が増えてきた</title>
       <link>https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-21-taihei-275w-progress-evade3.html</guid>
       <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
       <description>2026年7月21日、湿度の高い早朝に太平を7分26秒・308W。その後も278Wを17分半維持し、FTP275W付近の持続力を確認した実走記録。</description>
-    </item>
-    <item>
-      <title>友人と話しながら唐沢5本。誰かと練習できるのが幸せと感じる</title>
-      <link>https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-20-karasawa-five-friendship-ride.html</guid>
-      <pubDate>Mon, 20 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月20日、友人と会話しながら唐沢を低強度で5本。2時間、獲得標高660m、TSS62.2のベース走で改めて感じた、数字では測れない友人ライドの記録。</description>
     </item>
   </channel>
 </rss>
