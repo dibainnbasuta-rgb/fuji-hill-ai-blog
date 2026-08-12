@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:24:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:30:56 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSTは始める前がいちばん重い。259Wと254Wで揃った日</title>
+      <link>https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</guid>
+      <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
+      <description>ローラーでSST25分×2。1本目259W、2本目254Wの5W差で揃えられた。前日の60/30の翌日でも完遂できた点と、ケイデンスを落として出力を作る練習を始めた記録。</description>
+    </item>
     <item>
       <title>60秒ON／30秒OFF。2セット目からちゃんと苦しくなった</title>
       <link>https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-22-hottest-indoor-sst-adaptive-plan.html</guid>
       <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
       <description>室温約33℃・湿度70％の室内でSST25分×2に挑戦。1本目は245Wで完遂し、2本目は201Wへ落として21分継続。暑い日の可変メニューを考えたローラー練習記録。</description>
-    </item>
-    <item>
-      <title>太平の後に278Wを17分半。275Wが「長く踏める数字」になってきた</title>
-      <link>https://fujihillgold.com/articles/2026-07-21-taihei-275w-progress-evade3.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-21-taihei-275w-progress-evade3.html</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月21日、湿度の高い早朝に太平を7分26秒・308W。その後も278Wを17分半維持し、FTP275W付近の持続力を確認した実走記録。</description>
     </item>
   </channel>
 </rss>
