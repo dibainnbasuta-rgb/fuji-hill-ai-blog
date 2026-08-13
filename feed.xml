@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:30:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:33:21 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>強度は落としたのにきつい。10年目のパワーメーターも途切れ始めた</title>
+      <link>https://fujihillgold.com/articles/2026-08-13-tempo-ride-powermeter-dropout.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-13-tempo-ride-powermeter-dropout.html</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
+      <description>雨でローラーへ変更、テンポ〜SST下限の25分×2。240Wと237Wで平均206Wなのに体感はきつく、2本目は出力が下がって心拍が上がった。連日の疲労と、10年使ったパワーメーターの接続切れの記録。</description>
+    </item>
     <item>
       <title>SSTは始める前がいちばん重い。259Wと254Wで揃った日</title>
       <link>https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</guid>
       <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
       <description>長く使った初代S-Works Aresから、同じサイズのS-Works Ares 2へ移行を開始。ERGON TP1でクリート位置を移し、ローラーで試した初回の感触と左足外側の違和感を記録する。</description>
-    </item>
-    <item>
-      <title>室温33℃・湿度70％のSST。1本目245W、2本目は踏めなかった</title>
-      <link>https://fujihillgold.com/articles/2026-07-22-hottest-indoor-sst-adaptive-plan.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-22-hottest-indoor-sst-adaptive-plan.html</guid>
-      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
-      <description>室温約33℃・湿度70％の室内でSST25分×2に挑戦。1本目は245Wで完遂し、2本目は201Wへ落として21分継続。暑い日の可変メニューを考えたローラー練習記録。</description>
     </item>
   </channel>
 </rss>
