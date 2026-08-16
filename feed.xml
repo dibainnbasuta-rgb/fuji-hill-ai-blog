@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:33:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:33:51 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3時間走ってゾーン4はゼロ。写真も1枚も撮らなかったMTB</title>
+      <link>https://fujihillgold.com/articles/2026-08-16-mtb-long-base-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-16-mtb-long-base-ride.html</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <description>雨上がりの山を友人と3時間05分。42.28km、獲得589mでも平均心拍118bpm、ゾーン4以上はゼロ。高強度が続いた週の締めに長時間低強度で遊んだ日と、写真を撮り忘れた話。</description>
+    </item>
     <item>
       <title>強度は落としたのにきつい。10年目のパワーメーターも途切れ始めた</title>
       <link>https://fujihillgold.com/articles/2026-08-13-tempo-ride-powermeter-dropout.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</guid>
       <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
       <description>2日間しっかり休んだ後の実走記録。身体は軽く、高強度を重ねても余裕があった一方、最後に追加したSSTは約5分で終了。TSS114になった一日から休養とメニュー設計を考えた。</description>
-    </item>
-    <item>
-      <title>初代Aresの内装が限界に。S-Works Ares 2へ履き替えてみた</title>
-      <link>https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-22-sworks-ares2-first-impressions.html</guid>
-      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
-      <description>長く使った初代S-Works Aresから、同じサイズのS-Works Ares 2へ移行を開始。ERGON TP1でクリート位置を移し、ローラーで試した初回の感触と左足外側の違和感を記録する。</description>
     </item>
   </channel>
 </rss>
