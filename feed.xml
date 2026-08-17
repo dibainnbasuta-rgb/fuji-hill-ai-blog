@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 11:33:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:03:53 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太平でついに7分切り。6分58秒・330Wでも、きつさは別物にならなかった</title>
+      <link>https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</guid>
+      <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
+      <description>太平を6分58秒・330Wで登り、ついに7分切り。前回の7分06秒319Wから8秒短縮・11W増。路面の悪い林道でも351W、後半も280W台へ戻せた日と、新しい練習ウェアの話。</description>
+    </item>
     <item>
       <title>3時間走ってゾーン4はゼロ。写真も1枚も撮らなかったMTB</title>
       <link>https://fujihillgold.com/articles/2026-08-16-mtb-long-base-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</guid>
       <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
       <description>前日の高強度ライドから一夜明け、友人2人と朝5時集合で走った低強度ライド。平均135Wでも集団走行ならではの変化があり、楽しさと回復と運動量を無理なく両立できた。</description>
-    </item>
-    <item>
-      <title>2日休んだら身体が軽い。ラストSSTは5分でやめてもTSS114</title>
-      <link>https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-25-two-day-rest-high-intensity-ride.html</guid>
-      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
-      <description>2日間しっかり休んだ後の実走記録。身体は軽く、高強度を重ねても余裕があった一方、最後に追加したSSTは約5分で終了。TSS114になった一日から休養とメニュー設計を考えた。</description>
     </item>
   </channel>
 </rss>
