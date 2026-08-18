@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:29:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:36:41 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初の平地60/30。平坦でやったら、身体全体が重くなる疲れ方だった</title>
+      <link>https://fujihillgold.com/articles/2026-08-19-watarase-flat-60-30.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-19-watarase-flat-60-30.html</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
+      <description>渡良瀬遊水地で初めて平坦の60秒ON／30秒OFF。1セット目は平均374Wで振れ幅21W、2セット目は32Wに広がった。次の課題は出力を上げることではなく、狙った出力へ入る技術。</description>
+    </item>
     <item>
       <title>20分×3本。最後は高ケイデンスを捨てて246Wまで戻した</title>
       <link>https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-28-outdoor-gorby-five-reps-fade.html</guid>
       <pubDate>Tue, 28 Jul 2026 07:00:00 +0900</pubDate>
       <description>唐沢で外ゴルビー5分×5を完遂。348Wから317Wへ出力が落ちた理由を、前日のSSTとペース配分から振り返る。</description>
-    </item>
-    <item>
-      <title>調子が良すぎて逆に不安。SST25分×2を249W・254Wで完遂した日</title>
-      <link>https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</guid>
-      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
-      <description>4本ローラーでSST25分×2を実施。1本目249W、2本目254Wで完遂できた好調日の記録と、シューズや回復など複数の要因を振り返る。</description>
     </item>
   </channel>
 </rss>
