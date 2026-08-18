@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 11:03:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:29:47 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20分×3本。最後は高ケイデンスを捨てて246Wまで戻した</title>
+      <link>https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
+      <description>ローラーで20分×3本。244W・240W・246Wと揃ったが、3本目は高回転ではパワーが出ず70〜80rpmへ落として対応。疲労状態で使えるケイデンスは変わるという話。</description>
+    </item>
     <item>
       <title>太平でついに7分切り。6分58秒・330Wでも、きつさは別物にならなかった</title>
       <link>https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-27-indoor-sst-25x2-good-condition.html</guid>
       <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
       <description>4本ローラーでSST25分×2を実施。1本目249W、2本目254Wで完遂できた好調日の記録と、シューズや回復など複数の要因を振り返る。</description>
-    </item>
-    <item>
-      <title>朝5時集合の友人ライド。集団で走るのやっぱり楽しい！</title>
-      <link>https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-26-early-morning-group-ride.html</guid>
-      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
-      <description>前日の高強度ライドから一夜明け、友人2人と朝5時集合で走った低強度ライド。平均135Wでも集団走行ならではの変化があり、楽しさと回復と運動量を無理なく両立できた。</description>
     </item>
   </channel>
 </rss>
