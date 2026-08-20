@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:36:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:41:15 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりに唐沢をゆっくり。ANCHORだと同じ山が少し違って見える</title>
+      <link>https://fujihillgold.com/articles/2026-08-20-karasawa-easy-anchor-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-20-karasawa-easy-anchor-ride.html</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 +0900</pubDate>
+      <description>平坦60/30の翌日、ANCHOR RNC7で唐沢をゆっくり登った日。平均150W・平均心拍116bpmでTSS54.8。回復走というより軽め通常ライドだった記録と、ボトルケージの話。</description>
+    </item>
     <item>
       <title>初の平地60/30。平坦でやったら、身体全体が重くなる疲れ方だった</title>
       <link>https://fujihillgold.com/articles/2026-08-19-watarase-flat-60-30.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-29-aethos2-recovery-before-ares2-taihei.html</guid>
       <pubDate>Wed, 29 Jul 2026 07:00:00 +0900</pubDate>
       <description>外ゴルビー翌日にAethos2で40分の回復走。平均150W、TSS23で脚をほぐしながら、S-Works Ares 2を太平で実走確認する前の感触を整理した。</description>
-    </item>
-    <item>
-      <title>1本目348Wから5本目317Wへ。後半は垂れたけれど、外ゴルビーを最後まで完遂</title>
-      <link>https://fujihillgold.com/articles/2026-07-28-outdoor-gorby-five-reps-fade.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-28-outdoor-gorby-five-reps-fade.html</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 +0900</pubDate>
-      <description>唐沢で外ゴルビー5分×5を完遂。348Wから317Wへ出力が落ちた理由を、前日のSSTとペース配分から振り返る。</description>
     </item>
   </channel>
 </rss>
