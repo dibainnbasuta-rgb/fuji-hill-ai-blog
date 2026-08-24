@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:57:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:28:26 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脚は動く。心拍も普通。でも今日は続けたくなかった</title>
+      <link>https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
+      <description>ローラーでSST系のはずが50分で終了。20分246W、10分236Wで心拍ゾーン4は28秒だけ。身体ではなく気持ちが先に切れた日と、完全レストの翌日は入りが悪いのではという話。</description>
+    </item>
     <item>
       <title>ゴルビーは4本。でも最後は頂上まで踏んで332W</title>
       <link>https://fujihillgold.com/articles/2026-08-22-gorby4-karasawa2.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-31-rnc7-recovery-karasawa-ride.html</guid>
       <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
       <description>前日の高負荷ライド後、RNC7で唐沢まで約51分の軽い確認走。NP203Wでも体感は低強度。久しぶりの外走行でAethos2との重さ、反応、ハンドリングの違いを確かめた。</description>
-    </item>
-    <item>
-      <title>うどん効果だけではない。太平・琴平・唐沢で最後まで踏めた</title>
-      <link>https://fujihillgold.com/articles/2026-07-30-taihei-kotohira-karasawa-strong-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-30-taihei-kotohira-karasawa-strong-ride.html</guid>
-      <pubDate>Thu, 30 Jul 2026 07:00:00 +0900</pubDate>
-      <description>前日の回復走を経て、太平322W、琴平296W、唐沢316Wを記録。前夜のうどん、慣れた初代Ares、比較的低い気温など、好調を支えた条件を振り返る実走記録。</description>
     </item>
   </channel>
 </rss>
