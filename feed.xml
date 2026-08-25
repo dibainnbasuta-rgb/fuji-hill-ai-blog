@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:28:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:05:21 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>気分は乗らない。でも踏めば出た。太平は7分11秒・310W</title>
+      <link>https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 +0900</pubDate>
+      <description>昨日はローラーを途中でやめた。今日も気分は乗らなかったが、前半で410W、太平は310W、後半も253Wと281W。TSS112.7で走り切れた日と、感情と出力が一致しないという話。</description>
+    </item>
     <item>
       <title>脚は動く。心拍も普通。でも今日は続けたくなかった</title>
       <link>https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-01-shiraishi-fureai-sadamine-summer-ride.html</guid>
       <pubDate>Sat, 01 Aug 2026 07:00:00 +0900</pubDate>
       <description>白石峠を29分16秒・276Wで登った後、定峰272W、裏白石3本、友人との合流のための登り返しまで実施。68.10km、獲得1,738m、TSS205.9となった真夏の山岳ライドを振り返る。</description>
-    </item>
-    <item>
-      <title>久しぶりに外で乗るRNC7。軽い唐沢でAethos2との差が見えた</title>
-      <link>https://fujihillgold.com/articles/2026-07-31-rnc7-recovery-karasawa-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-07-31-rnc7-recovery-karasawa-ride.html</guid>
-      <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
-      <description>前日の高負荷ライド後、RNC7で唐沢まで約51分の軽い確認走。NP203Wでも体感は低強度。久しぶりの外走行でAethos2との重さ、反応、ハンドリングの違いを確かめた。</description>
     </item>
   </channel>
 </rss>
