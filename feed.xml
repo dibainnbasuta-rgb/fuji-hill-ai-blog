@@ -5,7 +5,7 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:24:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:49:25 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>空は秋、気温は夏。60/30の振れ幅が21Wから14Wへ縮んだ</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
       <description>渡良瀬で2回目の平坦60/30。狙いを出力ではなく安定に変えた結果、1セット目は359Wで振れ幅14W、2セット目は前回と逆に5W上がった。オーバーシュートとダンシングと本数管理の話。</description>
+    </item>
+    <item>
+      <title>初めて自分の登りを外から見た。思ったより軽そうで、思ったより派手</title>
+      <link>https://fujihillgold.com/articles/2026-08-26-third-person-view.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-third-person-view.html</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
+      <description>友人が撮ってくれた30秒の動画で、初めて自分の登りを後ろから見た。思ったより軽そうに乗っていて、緑のメットに赤いジャージがかなり目立つ。体感と外から見た印象は一致しないという話。</description>
     </item>
     <item>
       <title>気分は乗らない。でも踏めば出た。太平は7分11秒・310W</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-04-taihei-kotohira-karasawa-low-cadence.html</guid>
       <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
       <description>太平323W、琴平291W、唐沢293W。NP246W・TSS161.1の高強度ライドで、骨盤を安定させて股関節から力を伝える低ケイデンスの感覚をつかんだ記録。</description>
-    </item>
-    <item>
-      <title>白石の翌日は、友人と会話しながら唐沢5本。</title>
-      <link>https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</guid>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
-      <description>TSS205.9の白石ライド翌日に、友人と会話できるペースで唐沢を5本。平均心拍100bpm、IF0.574、TSS68.7となったアクティブレスト寄りの低強度ベース走を振り返る。</description>
     </item>
   </channel>
 </rss>
