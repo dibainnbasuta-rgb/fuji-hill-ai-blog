@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:05:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:24:33 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>空は秋、気温は夏。60/30の振れ幅が21Wから14Wへ縮んだ</title>
+      <link>https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
+      <description>渡良瀬で2回目の平坦60/30。狙いを出力ではなく安定に変えた結果、1セット目は359Wで振れ幅14W、2セット目は前回と逆に5W上がった。オーバーシュートとダンシングと本数管理の話。</description>
+    </item>
     <item>
       <title>気分は乗らない。でも踏めば出た。太平は7分11秒・310W</title>
       <link>https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-02-karasawa-five-recovery-repeats.html</guid>
       <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
       <description>TSS205.9の白石ライド翌日に、友人と会話できるペースで唐沢を5本。平均心拍100bpm、IF0.574、TSS68.7となったアクティブレスト寄りの低強度ベース走を振り返る。</description>
-    </item>
-    <item>
-      <title>白石29分16秒で終わらない。定峰、裏白石、登り返しまで詰め込んだ真夏の一日</title>
-      <link>https://fujihillgold.com/articles/2026-08-01-shiraishi-fureai-sadamine-summer-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-01-shiraishi-fureai-sadamine-summer-ride.html</guid>
-      <pubDate>Sat, 01 Aug 2026 07:00:00 +0900</pubDate>
-      <description>白石峠を29分16秒・276Wで登った後、定峰272W、裏白石3本、友人との合流のための登り返しまで実施。68.10km、獲得1,738m、TSS205.9となった真夏の山岳ライドを振り返る。</description>
     </item>
   </channel>
 </rss>
