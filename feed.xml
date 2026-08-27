@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:49:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:50:57 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>251Wと249W。差2Wは25分×2で一番揃った</title>
+      <link>https://fujihillgold.com/articles/2026-08-27-25min-x2-cadence-variation.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-27-25min-x2-cadence-variation.html</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 +0900</pubDate>
+      <description>ローラーで25分×2。最初の10分は1分ごとにギアを1枚上げ下げして、95rpmと80rpm台を行き来。結果は251Wと249Wで差2W。出力より揃い方を優先した日の記録。</description>
+    </item>
     <item>
       <title>空は秋、気温は夏。60/30の振れ幅が21Wから14Wへ縮んだ</title>
       <link>https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-05-sst-25min-x2-ares2-fit.html</guid>
       <pubDate>Wed, 05 Aug 2026 07:00:00 +0900</pubDate>
       <description>太平・琴平・唐沢でTSS161.1を踏んだ翌日、4本ローラーでSST25分×2。1本目は接続不良で数値が沈んだが2本目は247Wで完遂。クリート調整を続けたS-Works Ares 2でも痛みが出なかった記録。</description>
-    </item>
-    <item>
-      <title>低ケイデンスで「腰で乗る」が少し分かった。なんとなく感覚をつかんだ日</title>
-      <link>https://fujihillgold.com/articles/2026-08-04-taihei-kotohira-karasawa-low-cadence.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-04-taihei-kotohira-karasawa-low-cadence.html</guid>
-      <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
-      <description>太平323W、琴平291W、唐沢293W。NP246W・TSS161.1の高強度ライドで、骨盤を安定させて股関節から力を伝える低ケイデンスの感覚をつかんだ記録。</description>
     </item>
   </channel>
 </rss>
