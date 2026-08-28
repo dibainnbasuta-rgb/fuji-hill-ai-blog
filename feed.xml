@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:50:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:33:55 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>60/30でケイデンスを振った。85rpmと100rpmは同じ350Wでも別物</title>
+      <link>https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</guid>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
+      <description>渡良瀬で60秒ON／30秒OFFを6本×2セット。今回は出力を揃えるのではなく、あえてケイデンスを変えて高出力の出しやすさを比べた。100rpm超は400Wも簡単だが入りが高い。85rpmは350Wから重い。</description>
+    </item>
     <item>
       <title>251Wと249W。差2Wは25分×2で一番揃った</title>
       <link>https://fujihillgold.com/articles/2026-08-27-25min-x2-cadence-variation.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</guid>
       <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
       <description>唐沢で30秒ON／30秒OFFを実施。TSS101.4・IF0.904なのに体感はぬるい。パワーゾーン6以上が14分09秒あるのに心拍ゾーン5は0秒というズレから、60秒ON／60秒OFFへ変える理由と今後の練習3本柱を整理した記録。</description>
-    </item>
-    <item>
-      <title>前日TSS161の翌日にSST25分×2。Ares 2の違和感もようやく消えた</title>
-      <link>https://fujihillgold.com/articles/2026-08-05-sst-25min-x2-ares2-fit.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-05-sst-25min-x2-ares2-fit.html</guid>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 +0900</pubDate>
-      <description>太平・琴平・唐沢でTSS161.1を踏んだ翌日、4本ローラーでSST25分×2。1本目は接続不良で数値が沈んだが2本目は247Wで完遂。クリート調整を続けたS-Works Ares 2でも痛みが出なかった記録。</description>
     </item>
   </channel>
 </rss>
