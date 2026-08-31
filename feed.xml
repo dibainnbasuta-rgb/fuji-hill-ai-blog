@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:33:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:39:30 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同じ317Wで13秒速い。今さら自分の機体の使い方を覚えている</title>
+      <link>https://fujihillgold.com/articles/2026-08-31-taihei-machine-control.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-31-taihei-machine-control.html</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
+      <description>20分×3の翌日、脚は重かったのに太平は7分04秒・317W。2か月前の同じ317Wより13秒速い。条件差はあるが、身体の使い方が少し分かってきた感覚の記録。</description>
+    </item>
     <item>
       <title>60/30でケイデンスを振った。85rpmと100rpmは同じ350Wでも別物</title>
       <link>https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-07-karasawa-base-ride-before-gorby.html</guid>
       <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
       <description>ゴルビー前日に軽く整えるはずが、唐沢2本目265W、帰りのストレートで2分15秒371W。心拍ゾーン5は0秒なのにパワーゾーン5以上は8分37秒。体感と負荷のズレをどう見るかと、翌日の判断を整理した記録。</description>
-    </item>
-    <item>
-      <title>30秒ON／30秒OFFはぬるかった。でも練習の方向は見えた</title>
-      <link>https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-06-karasawa-30-30-training-direction.html</guid>
-      <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
-      <description>唐沢で30秒ON／30秒OFFを実施。TSS101.4・IF0.904なのに体感はぬるい。パワーゾーン6以上が14分09秒あるのに心拍ゾーン5は0秒というズレから、60秒ON／60秒OFFへ変える理由と今後の練習3本柱を整理した記録。</description>
     </item>
   </channel>
 </rss>
