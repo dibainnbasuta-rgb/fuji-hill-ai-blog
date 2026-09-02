@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:00:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:04:09 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>実走より揃う。でも後半は出ない。ローラーでやった60/30</title>
+      <link>https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</guid>
+      <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
+      <description>天候不良で60/30をローラーへ変更。1セット目は354Wで振れ幅14Wと実走のベスト並みに揃ったが、2セット目は339Wで15W落ちた。揃えやすい代わりに逃げ場がないという話。</description>
+    </item>
     <item>
       <title>回復走のつもりだったのに、インナーローでも重かった</title>
       <link>https://fujihillgold.com/articles/2026-09-01-active-recovery-anchor.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-09-watarase-recovery-ride.html</guid>
       <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
       <description>ゴルビー翌日、渡良瀬遊水地で回復走。IF0.705・平均心拍114bpm・心拍ゾーン4以上ゼロの低強度で、数字ではなく脱力とフォームを確認した日。最近の練習が楽しくなってきた理由も整理。</description>
-    </item>
-    <item>
-      <title>ゴルビー5本を11W差で揃えた。耐えるだけの練習ではなくなってきた</title>
-      <link>https://fujihillgold.com/articles/2026-08-08-gorby-five-reps-aligned.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-08-gorby-five-reps-aligned.html</guid>
-      <pubDate>Sat, 08 Aug 2026 07:00:00 +0900</pubDate>
-      <description>友人2人と外ゴルビー5分×5本。323W・328W・328W・321W・332Wの11W差で揃い、5本目が最高値。前回31W落ちからの改善と、次に試す60秒ON／30秒OFFの狙いを整理した記録。</description>
     </item>
   </channel>
 </rss>
