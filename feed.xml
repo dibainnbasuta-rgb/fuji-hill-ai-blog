@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:04:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:04:15 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>60/30で潰れた翌日、太平は7分00秒・324W</title>
+      <link>https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
+      <description>ローラーの60/30で後半潰れた翌日に太平山へ。7分00秒・324Wで、前回より4秒速く7W高い。太平のあとも275Wと301W。連日の負荷に耐えられるようになってきた話。</description>
+    </item>
     <item>
       <title>実走より揃う。でも後半は出ない。ローラーでやった60/30</title>
       <link>https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</guid>
       <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
       <description>前日の雨で林道の路面が悪く、琴平・唐沢をカット。それでも西山田林道1分56秒402W、太平7分06秒319W。80rpm前後でも力まず高出力を出せた日と、Ares 2の実走デビューの記録。</description>
-    </item>
-    <item>
-      <title>回復走が物足りない。練習がゲームみたいになってきた</title>
-      <link>https://fujihillgold.com/articles/2026-08-09-watarase-recovery-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-09-watarase-recovery-ride.html</guid>
-      <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
-      <description>ゴルビー翌日、渡良瀬遊水地で回復走。IF0.705・平均心拍114bpm・心拍ゾーン4以上ゼロの低強度で、数字ではなく脱力とフォームを確認した日。最近の練習が楽しくなってきた理由も整理。</description>
     </item>
   </channel>
 </rss>
