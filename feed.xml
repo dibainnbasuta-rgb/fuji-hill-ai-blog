@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:04:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:04:43 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脚は重い。でも山に入ったら踏めた。唐沢2本目は316W</title>
+      <link>https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
+      <description>走る前は脚が重くテンションも上がらなかったが、唐沢1本目277W、2本目316W。最後の確認区間は350W狙いで367W。外を走った直近3回とも、予想より踏めている。</description>
+    </item>
     <item>
       <title>60/30で潰れた翌日、太平は7分00秒・324W</title>
       <link>https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</guid>
       <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
       <description>30/30がぬるかったので、唐沢で60秒ON／30秒OFFを初めて試した記録。ONは380〜390W台まで上振れしたが2セット完遂。1セット目は余裕、2セット目から明確にきつい。短時間反復の標準メニューが決まった日。</description>
-    </item>
-    <item>
-      <title>ウエット路面で予定変更。低ケイデンスでも力まず踏める幅が増えてきた</title>
-      <link>https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-10-taihei-wet-road-low-cadence.html</guid>
-      <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
-      <description>前日の雨で林道の路面が悪く、琴平・唐沢をカット。それでも西山田林道1分56秒402W、太平7分06秒319W。80rpm前後でも力まず高出力を出せた日と、Ares 2の実走デビューの記録。</description>
     </item>
   </channel>
 </rss>
