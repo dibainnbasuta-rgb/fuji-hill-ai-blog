@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:04:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:45:15 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1か月ぶりに友人と唐沢5本。今日はパワーを追わない日</title>
+      <link>https://fujihillgold.com/articles/2026-09-06-karasawa-friend-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-06-karasawa-friend-ride.html</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0900</pubDate>
+      <description>友人と1か月ぶりの唐沢。会話できるペースで5本登って2時間06分、獲得673m。それでもTSSは67.1で、一昨日の54分より低い。山頂でシュウェップスを飲んで、猫にも会えた日。</description>
+    </item>
     <item>
       <title>脚は重い。でも山に入ったら踏めた。唐沢2本目は316W</title>
       <link>https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</guid>
       <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
       <description>ローラーでSST25分×2。1本目259W、2本目254Wの5W差で揃えられた。前日の60/30の翌日でも完遂できた点と、ケイデンスを落として出力を作る練習を始めた記録。</description>
-    </item>
-    <item>
-      <title>60秒ON／30秒OFF。2セット目からちゃんと苦しくなった</title>
-      <link>https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-11-karasawa-60-30-first-trial.html</guid>
-      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
-      <description>30/30がぬるかったので、唐沢で60秒ON／30秒OFFを初めて試した記録。ONは380〜390W台まで上振れしたが2セット完遂。1セット目は余裕、2セット目から明確にきつい。短時間反復の標準メニューが決まった日。</description>
     </item>
   </channel>
 </rss>
