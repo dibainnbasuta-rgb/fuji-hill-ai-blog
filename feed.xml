@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:45:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:04:54 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×3。相変わらず辛いが、息だけ少し楽だった気がする</title>
+      <link>https://fujihillgold.com/articles/2026-09-07-sst-20x3-breathing.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-07-sst-20x3-breathing.html</guid>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0900</pubDate>
+      <description>FTP275Wに対して250W・247W・252Wで20分×3を完遂。8月30日の255W台には届かないが、8月18日よりは上。呼吸が少し楽だった感覚が本物かどうかをAIに詰められた回。</description>
+    </item>
     <item>
       <title>1か月ぶりに友人と唐沢5本。今日はパワーを追わない日</title>
       <link>https://fujihillgold.com/articles/2026-09-06-karasawa-friend-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-13-tempo-ride-powermeter-dropout.html</guid>
       <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
       <description>雨でローラーへ変更、テンポ〜SST下限の25分×2。240Wと237Wで平均206Wなのに体感はきつく、2本目は出力が下がって心拍が上がった。連日の疲労と、10年使ったパワーメーターの接続切れの記録。</description>
-    </item>
-    <item>
-      <title>SSTは始める前がいちばん重い。259Wと254Wで揃った日</title>
-      <link>https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-12-sst-25min-x2-cadence-control.html</guid>
-      <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
-      <description>ローラーでSST25分×2。1本目259W、2本目254Wの5W差で揃えられた。前日の60/30の翌日でも完遂できた点と、ケイデンスを落として出力を作る練習を始めた記録。</description>
     </item>
   </channel>
 </rss>
