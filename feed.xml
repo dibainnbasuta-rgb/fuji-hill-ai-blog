@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:00:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:52:13 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>249W×40分。最初は楽だったのに、40分後には何も残っていなかった</title>
+      <link>https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <description>240〜250W狙いの40分連続走を平均249Wで完遂。TSSは前日の315W×5分×4本とほぼ同じ69.5だが、パワーZ5以上は16分35秒に対し14秒、心拍Z4は12分51秒に対し26分25秒。同じTSSでも中身は真逆だった。</description>
+    </item>
     <item>
       <title>315W×5分×4本。3本と3分で潰れた。完遂するまでこれでいく</title>
       <link>https://fujihillgold.com/articles/2026-09-08-roller-315w-5min-x4.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</guid>
       <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
       <description>太平を6分58秒・330Wで登り、ついに7分切り。前回の7分06秒319Wから8秒短縮・11W増。路面の悪い林道でも351W、後半も280W台へ戻せた日と、新しい練習ウェアの話。</description>
-    </item>
-    <item>
-      <title>3時間走ってゾーン4はゼロ。写真も1枚も撮らなかったMTB</title>
-      <link>https://fujihillgold.com/articles/2026-08-16-mtb-long-base-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-16-mtb-long-base-ride.html</guid>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
-      <description>雨上がりの山を友人と3時間05分。42.28km、獲得589mでも平均心拍118bpm、ゾーン4以上はゼロ。高強度が続いた週の締めに長時間低強度で遊んだ日と、写真を撮り忘れた話。</description>
     </item>
   </channel>
 </rss>
