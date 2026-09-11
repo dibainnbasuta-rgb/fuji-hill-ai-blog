@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:17:27 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×3。252・253・260Wで、最後が一番高かった</title>
+      <link>https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 +0900</pubDate>
+      <description>FTP275Wに対して252W・253W・260WでSST20分×3を完遂。3本平均は約255Wで9月7日の宿題の出力に届き、心拍は同じくらいで出力だけ上に乗った。ただし室温は今回も未記録で、AIの「本物」認定は保留。次の課題は315W×5分×4本。</description>
+    </item>
     <item>
       <title>249W×40分。最初は楽だったのに、40分後には何も残っていなかった</title>
       <link>https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</guid>
       <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
       <description>ローラーで20分×3本。244W・240W・246Wと揃ったが、3本目は高回転ではパワーが出ず70〜80rpmへ落として対応。疲労状態で使えるケイデンスは変わるという話。</description>
-    </item>
-    <item>
-      <title>太平でついに7分切り。6分58秒・330Wでも、きつさは別物にならなかった</title>
-      <link>https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-17-taihei-sub7-new-wear.html</guid>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
-      <description>太平を6分58秒・330Wで登り、ついに7分切り。前回の7分06秒319Wから8秒短縮・11W増。路面の悪い林道でも351W、後半も280W台へ戻せた日と、新しい練習ウェアの話。</description>
     </item>
   </channel>
 </rss>
