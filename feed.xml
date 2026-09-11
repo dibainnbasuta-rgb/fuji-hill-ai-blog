@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:17:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:59:45 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>315W×5分×4本、完遂。身構えていたのに、最後に上げる余裕まであった</title>
+      <link>https://fujihillgold.com/articles/2026-09-12-roller-315w-5min-x4-complete.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-12-roller-315w-5min-x4-complete.html</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
+      <description>前回3本と3分で潰れた315W×5分×4本を、316W・318W・317W・322Wで完遂。4本目はラスト1分半で意図的に上げた。ただ前回も今日も前日はTSS100超えのSSTで、「前回は疲れていただけ」では説明がつかない。次は315W×5本へ。</description>
+    </item>
     <item>
       <title>SST20分×3。252・253・260Wで、最後が一番高かった</title>
       <link>https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-19-watarase-flat-60-30.html</guid>
       <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
       <description>渡良瀬遊水地で初めて平坦の60秒ON／30秒OFF。1セット目は平均374Wで振れ幅21W、2セット目は32Wに広がった。次の課題は出力を上げることではなく、狙った出力へ入る技術。</description>
-    </item>
-    <item>
-      <title>20分×3本。最後は高ケイデンスを捨てて246Wまで戻した</title>
-      <link>https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-18-20min-x3-cadence-control.html</guid>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
-      <description>ローラーで20分×3本。244W・240W・246Wと揃ったが、3本目は高回転ではパワーが出ず70〜80rpmへ落として対応。疲労状態で使えるケイデンスは変わるという話。</description>
     </item>
   </channel>
 </rss>
