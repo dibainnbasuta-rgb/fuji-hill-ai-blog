@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:44:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:02:10 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太平山6分45秒・340W。最速を13秒更新、前ももが一瞬だけ噛み合った</title>
+      <link>https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <description>ツール・ド・大那の翌日、太平山で6分45秒・平均340W。これまでの最速6分58秒・330Wを13秒・10W更新した。太平山は普通に苦しかったが、それ以外の区間は呼吸に余裕があり、ペダリング中に一瞬だけ前ももが加わると妙によく進む感覚も。前日はIF0.520のポタリングで、耐久値の条件にはカウントされなかった。</description>
+    </item>
     <item>
       <title>ツール・ド・大那。今日は速く走らない日。走った記憶より食べた記憶が強い</title>
       <link>https://fujihillgold.com/articles/2026-09-13-tour-de-daina.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-22-gorby4-karasawa2.html</guid>
       <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
       <description>時間の都合でゴルビーは4本。328W・328W・323W・332Wの9W差で揃い、4本目は5分41秒まで延長してNP339W。そのあと友人と唐沢を2本追加し、夜は値引きシールだらけの宴会。</description>
-    </item>
-    <item>
-      <title>久しぶりに唐沢をゆっくり。ANCHORだと同じ山が少し違って見える</title>
-      <link>https://fujihillgold.com/articles/2026-08-20-karasawa-easy-anchor-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-20-karasawa-easy-anchor-ride.html</guid>
-      <pubDate>Thu, 20 Aug 2026 07:00:00 +0900</pubDate>
-      <description>平坦60/30の翌日、ANCHOR RNC7で唐沢をゆっくり登った日。平均150W・平均心拍116bpmでTSS54.8。回復走というより軽め通常ライドだった記録と、ボトルケージの話。</description>
     </item>
   </channel>
 </rss>
