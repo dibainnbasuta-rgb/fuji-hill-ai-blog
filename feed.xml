@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:02:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:15:04 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>315W×5分×5本、3本でやめた。脚ではなく気持ちが先に切れた</title>
+      <link>https://fujihillgold.com/articles/2026-09-16-roller-315w-5x5-quit3.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-16-roller-315w-5x5-quit3.html</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
+      <description>前回4本完遂した315W×5分を5本に増やして挑戦。316W・315W・317Wと3本は綺麗に揃ったが、脚でも呼吸でもなく気持ちが切れて4本目に入らなかった。最大心拍は160bpmで、身体の限界ではない。次回も315W×5本。</description>
+    </item>
     <item>
       <title>太平山6分45秒・340W。最速を13秒更新、前ももが一瞬だけ噛み合った</title>
       <link>https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</guid>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
       <description>ローラーでSST系のはずが50分で終了。20分246W、10分236Wで心拍ゾーン4は28秒だけ。身体ではなく気持ちが先に切れた日と、完全レストの翌日は入りが悪いのではという話。</description>
-    </item>
-    <item>
-      <title>ゴルビーは4本。でも最後は頂上まで踏んで332W</title>
-      <link>https://fujihillgold.com/articles/2026-08-22-gorby4-karasawa2.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-22-gorby4-karasawa2.html</guid>
-      <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
-      <description>時間の都合でゴルビーは4本。328W・328W・323W・332Wの9W差で揃い、4本目は5分41秒まで延長してNP339W。そのあと友人と唐沢を2本追加し、夜は値引きシールだらけの宴会。</description>
     </item>
   </channel>
 </rss>
