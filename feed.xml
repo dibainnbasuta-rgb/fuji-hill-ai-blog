@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:15:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:22:11 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×2本と6分。完遂できない日が続いても、0点にはしない</title>
+      <link>https://fujihillgold.com/articles/2026-09-17-sst-20x2-keep-floor.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-17-sst-20x2-keep-floor.html</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
+      <description>SST20分×3本の予定が、247W・258Wの2本と3本目6分・252Wで終了。前日の5分走に続き、2日連続で身体より気持ちが先に折れた。一方で重心のかけ方を変えたら、258Wでも最大心拍は143bpm。ペダリング効率の手応えはあるが、疲労との切り分けはこれから。秋は気分が揺れやすいので、しばらくは現状維持を最低ラインにする。</description>
+    </item>
     <item>
       <title>315W×5分×5本、3本でやめた。脚ではなく気持ちが先に切れた</title>
       <link>https://fujihillgold.com/articles/2026-09-16-roller-315w-5x5-quit3.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</guid>
       <pubDate>Tue, 25 Aug 2026 07:00:00 +0900</pubDate>
       <description>昨日はローラーを途中でやめた。今日も気分は乗らなかったが、前半で410W、太平は310W、後半も253Wと281W。TSS112.7で走り切れた日と、感情と出力が一致しないという話。</description>
-    </item>
-    <item>
-      <title>脚は動く。心拍も普通。でも今日は続けたくなかった</title>
-      <link>https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-24-sst-motivation-drop.html</guid>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
-      <description>ローラーでSST系のはずが50分で終了。20分246W、10分236Wで心拍ゾーン4は28秒だけ。身体ではなく気持ちが先に切れた日と、完全レストの翌日は入りが悪いのではという話。</description>
     </item>
   </channel>
 </rss>
