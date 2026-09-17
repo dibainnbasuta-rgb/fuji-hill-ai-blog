@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:22:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:54:10 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太平山6分49秒・333W。低心拍の答えは、たぶん一つじゃない</title>
+      <link>https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
+      <description>前日のSSTで258Wでも最大心拍143bpmだった件を、外で確認しに太平山へ。6分49.6秒・333Wで、心拍は平均147・最大162bpm。前回9/14より約5bpm低いが気温は7℃低く、最大163bpmまでは上がった。ただし体感は340Wだった前回の方が楽で、効率が上がったとも言い切れない。</description>
+    </item>
     <item>
       <title>SST20分×2本と6分。完遂できない日が続いても、0点にはしない</title>
       <link>https://fujihillgold.com/articles/2026-09-17-sst-20x2-keep-floor.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-third-person-view.html</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
       <description>友人が撮ってくれた30秒の動画で、初めて自分の登りを後ろから見た。思ったより軽そうに乗っていて、緑のメットに赤いジャージがかなり目立つ。体感と外から見た印象は一致しないという話。</description>
-    </item>
-    <item>
-      <title>気分は乗らない。でも踏めば出た。太平は7分11秒・310W</title>
-      <link>https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-25-taihei-mood-vs-output.html</guid>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 +0900</pubDate>
-      <description>昨日はローラーを途中でやめた。今日も気分は乗らなかったが、前半で410W、太平は310W、後半も253Wと281W。TSS112.7で走り切れた日と、感情と出力が一致しないという話。</description>
     </item>
   </channel>
 </rss>
