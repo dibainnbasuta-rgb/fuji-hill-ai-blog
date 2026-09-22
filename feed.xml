@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:54:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:01:49 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりの晴れ。太平山は31℃の中で6分56秒・325W</title>
+      <link>https://fujihillgold.com/articles/2026-09-22-taihei-325w-sunny-heat.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-22-taihei-325w-sunny-heat.html</guid>
+      <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>
+      <description>雨続きのあと、久しぶりの晴れで太平山へ。台風の名残で路面はびちゃびちゃ、平均気温は31.2℃。太平山は6分56.6秒・325Wで、心拍は平均152・最大167bpmまで普通に上がった。後半も17分・273W。自己ベストの日ではないが、暑い中でしっかり負荷を積めた。</description>
+    </item>
     <item>
       <title>太平山6分49秒・333W。低心拍の答えは、たぶん一つじゃない</title>
       <link>https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
       <description>渡良瀬で2回目の平坦60/30。狙いを出力ではなく安定に変えた結果、1セット目は359Wで振れ幅14W、2セット目は前回と逆に5W上がった。オーバーシュートとダンシングと本数管理の話。</description>
-    </item>
-    <item>
-      <title>初めて自分の登りを外から見た。思ったより軽そうで、思ったより派手</title>
-      <link>https://fujihillgold.com/articles/2026-08-26-third-person-view.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-third-person-view.html</guid>
-      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
-      <description>友人が撮ってくれた30秒の動画で、初めて自分の登りを後ろから見た。思ったより軽そうに乗っていて、緑のメットに赤いジャージがかなり目立つ。体感と外から見た印象は一致しないという話。</description>
     </item>
   </channel>
 </rss>
