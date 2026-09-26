@@ -5,8 +5,22 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:01:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:30:21 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>315W×5分×5本。4本目で心が折れかけたけど、ついに完遂</title>
+      <link>https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</guid>
+      <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
+      <description>9月16日に3本で気持ちが切れた315W×5分×5本に再挑戦。310W・317W・313W・311W・314Wで5本完遂。4本目で本気で「もう無理かも」と思ったが、やめなかった。余裕の313Wではなく、ギリギリ耐えた313W。しばらく320Wには上げず、このメニューを続ける。</description>
+    </item>
+    <item>
+      <title>同じ250Wでも心拍が低い。今日はかなり調子が良かった</title>
+      <link>https://fujihillgold.com/articles/2026-09-24-sst-20x3-273w-low-hr.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-24-sst-20x3-273w-low-hr.html</guid>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
+      <description>SST20分×3を250W・252W・273Wで完遂。1本目は9月7日と同じ250Wで平均心拍が8bpm低く、それでいて余裕があり、3本目はほぼFTPの273Wまで上げられた。9月17日の低心拍とは違う、良い方向の低心拍。高気圧のおかげかもしれないが断定せず、天気・気圧・気分・睡眠・心拍をメモしていく。</description>
+    </item>
     <item>
       <title>久しぶりの晴れ。太平山は31℃の中で6分56秒・325W</title>
       <link>https://fujihillgold.com/articles/2026-09-22-taihei-325w-sunny-heat.html</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</guid>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
       <description>渡良瀬で60秒ON／30秒OFFを6本×2セット。今回は出力を揃えるのではなく、あえてケイデンスを変えて高出力の出しやすさを比べた。100rpm超は400Wも簡単だが入りが高い。85rpmは350Wから重い。</description>
-    </item>
-    <item>
-      <title>251Wと249W。差2Wは25分×2で一番揃った</title>
-      <link>https://fujihillgold.com/articles/2026-08-27-25min-x2-cadence-variation.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-27-25min-x2-cadence-variation.html</guid>
-      <pubDate>Thu, 27 Aug 2026 07:00:00 +0900</pubDate>
-      <description>ローラーで25分×2。最初の10分は1分ごとにギアを1枚上げ下げして、95rpmと80rpm台を行き来。結果は251Wと249Wで差2W。出力より揃い方を優先した日の記録。</description>
-    </item>
-    <item>
-      <title>空は秋、気温は夏。60/30の振れ幅が21Wから14Wへ縮んだ</title>
-      <link>https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-26-watarase-60-30-stability.html</guid>
-      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
-      <description>渡良瀬で2回目の平坦60/30。狙いを出力ではなく安定に変えた結果、1セット目は359Wで振れ幅14W、2セット目は前回と逆に5W上がった。オーバーシュートとダンシングと本数管理の話。</description>
     </item>
   </channel>
 </rss>
