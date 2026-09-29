@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:30:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:43:15 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20分×3のつもりが、30分×2へ。持続力が一段上がってきたかもしれない</title>
+      <link>https://fujihillgold.com/articles/2026-09-28-sst-30x2-endurance.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-28-sst-30x2-endurance.html</guid>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
+      <description>SST20分×3の予定を、1本目の途中で30分×2に変更。256W・257Wで2本完遂し、FTP比約93%を合計60分維持した。2本目は10分過ぎからきつかったが、5分走の4本目を思えば耐えられた。心拍は横ばいで、伸びたのは時間と出力の方。</description>
+    </item>
     <item>
       <title>315W×5分×5本。4本目で心が折れかけたけど、ついに完遂</title>
       <link>https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-31-taihei-machine-control.html</guid>
       <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
       <description>20分×3の翌日、脚は重かったのに太平は7分04秒・317W。2か月前の同じ317Wより13秒速い。条件差はあるが、身体の使い方が少し分かってきた感覚の記録。</description>
-    </item>
-    <item>
-      <title>60/30でケイデンスを振った。85rpmと100rpmは同じ350Wでも別物</title>
-      <link>https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-28-watarase-60-30-cadence-test.html</guid>
-      <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
-      <description>渡良瀬で60秒ON／30秒OFFを6本×2セット。今回は出力を揃えるのではなく、あえてケイデンスを変えて高出力の出しやすさを比べた。100rpm超は400Wも簡単だが入りが高い。85rpmは350Wから重い。</description>
     </item>
   </channel>
 </rss>
