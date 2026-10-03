@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 09:43:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:43:36 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>膝の違和感から復帰途中。唐沢を気持ちよく走れた日</title>
+      <link>https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <description>数日前から膝の前側に違和感があり、高強度を控えて唐沢を様子見で走った。走行中は膝の痛みも違和感もほぼなし。ただ全開で踏むのはまだ怖く、しばらく高強度は控える。青空の下で気持ちよく登れて、唐沢では友人にも偶然会えた。「トレーニングできた」より「楽しかった」が先に来た日。</description>
+    </item>
     <item>
       <title>20分×3のつもりが、30分×2へ。持続力が一段上がってきたかもしれない</title>
       <link>https://fujihillgold.com/articles/2026-09-28-sst-30x2-endurance.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-01-active-recovery-anchor.html</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
       <description>ANCHORでアクティブレスト。のはずが山へ行き、2本目の登りはインナーローでも重くて66rpm・248W。それでも心拍は125bpm。2週間前のほぼ同じ回復走と比べたら平均心拍が10bpm低かった。</description>
-    </item>
-    <item>
-      <title>同じ317Wで13秒速い。今さら自分の機体の使い方を覚えている</title>
-      <link>https://fujihillgold.com/articles/2026-08-31-taihei-machine-control.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-08-31-taihei-machine-control.html</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
-      <description>20分×3の翌日、脚は重かったのに太平は7分04秒・317W。2か月前の同じ317Wより13秒速い。条件差はあるが、身体の使い方が少し分かってきた感覚の記録。</description>
     </item>
   </channel>
 </rss>
