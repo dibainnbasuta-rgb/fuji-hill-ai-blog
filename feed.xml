@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:43:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:38:13 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりの3人ライド。近沢峠まで行ってきた</title>
+      <link>https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
+      <description>膝の違和感で高強度を控える中、3人で近沢峠へ。63.22km・IF0.699のゆるいライドでも、2時間40分乗ってTSS130.2。近沢峠本体はラップを切り忘れ、帰りの下りは前の背中についていくのが楽しかった。膝は今日も問題なし。膝のことを忘れる時間が多かった日。</description>
+    </item>
     <item>
       <title>膝の違和感から復帰途中。唐沢を気持ちよく走れた日</title>
       <link>https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</guid>
       <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
       <description>天候不良で60/30をローラーへ変更。1セット目は354Wで振れ幅14Wと実走のベスト並みに揃ったが、2セット目は339Wで15W落ちた。揃えやすい代わりに逃げ場がないという話。</description>
-    </item>
-    <item>
-      <title>回復走のつもりだったのに、インナーローでも重かった</title>
-      <link>https://fujihillgold.com/articles/2026-09-01-active-recovery-anchor.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-01-active-recovery-anchor.html</guid>
-      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
-      <description>ANCHORでアクティブレスト。のはずが山へ行き、2本目の登りはインナーローでも重くて66rpm・248W。それでも心拍は125bpm。2週間前のほぼ同じ回復走と比べたら平均心拍が10bpm低かった。</description>
     </item>
   </channel>
 </rss>
