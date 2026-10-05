@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:38:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:26:12 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>膝の様子を見ながら、唐沢と琴平へ。思ったより普通に踏めた日</title>
+      <link>https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
+      <description>膝の前側の違和感で最高出力の練習は控えたまま、唐沢と琴平へ。唐沢302W・琴平287Wと思ったより普通に踏めて、膝の痛みは出なかった。それでも「治った」とはまだ言わない。外で自然に250〜300Wまで上がる、でも限界まで追い込まない。今はその範囲を少しずつ広げる時期。</description>
+    </item>
     <item>
       <title>久しぶりの3人ライド。近沢峠まで行ってきた</title>
       <link>https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</guid>
       <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
       <description>ローラーの60/30で後半潰れた翌日に太平山へ。7分00秒・324Wで、前回より4秒速く7W高い。太平のあとも275Wと301W。連日の負荷に耐えられるようになってきた話。</description>
-    </item>
-    <item>
-      <title>実走より揃う。でも後半は出ない。ローラーでやった60/30</title>
-      <link>https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-02-roller-60-30.html</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
-      <description>天候不良で60/30をローラーへ変更。1セット目は354Wで振れ幅14Wと実走のベスト並みに揃ったが、2セット目は339Wで15W落ちた。揃えやすい代わりに逃げ場がないという話。</description>
     </item>
   </channel>
 </rss>
