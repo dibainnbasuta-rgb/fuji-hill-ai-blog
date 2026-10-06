@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:26:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:59:27 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前半は抑えて、後半の琴平でしっかり踏む。太平反時計回り</title>
+      <link>https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
+      <description>新しい定番ルート「太平反時計回り」の初回。名もなき峠から唐沢山まで、前半は最大の8割に抑えて、後半の琴平峠で292Wを15分維持した。短い登りは結局300W台が出ていたが、全部で出し切らずに「どこで使うか」を決めて走った。膝は今日も違和感なし。</description>
+    </item>
     <item>
       <title>膝の様子を見ながら、唐沢と琴平へ。思ったより普通に踏めた日</title>
       <link>https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</guid>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
       <description>走る前は脚が重くテンションも上がらなかったが、唐沢1本目277W、2本目316W。最後の確認区間は350W狙いで367W。外を走った直近3回とも、予想より踏めている。</description>
-    </item>
-    <item>
-      <title>60/30で潰れた翌日、太平は7分00秒・324W</title>
-      <link>https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-03-taihei-after-60-30.html</guid>
-      <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
-      <description>ローラーの60/30で後半潰れた翌日に太平山へ。7分00秒・324Wで、前回より4秒速く7W高い。太平のあとも275Wと301W。連日の負荷に耐えられるようになってきた話。</description>
     </item>
   </channel>
 </rss>
