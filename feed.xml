@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:59:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:27:36 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脚は軽い。でも睡眠が悪かったので抑える。唐沢山3本の回復寄りライド</title>
+      <link>https://fujihillgold.com/articles/2026-10-07-karasawa-3x-sleep.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-07-karasawa-3x-sleep.html</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
+      <description>前日の太平反時計回り（TSS152.8）の翌日。脚は意外なほど軽かったが、睡眠の質が落ちていたので出力を抑え、唐沢山を3回登ってTSS71.8に収めた。前日のほぼ半分。休むのではなく「抑えて積む」日。ただし登りではパワーゾーン5以上に約10分いて、AIには総量しか抑えていないと突っ込まれた。</description>
+    </item>
     <item>
       <title>前半は抑えて、後半の琴平でしっかり踏む。太平反時計回り</title>
       <link>https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-06-karasawa-friend-ride.html</guid>
       <pubDate>Sun, 06 Sep 2026 07:00:00 +0900</pubDate>
       <description>友人と1か月ぶりの唐沢。会話できるペースで5本登って2時間06分、獲得673m。それでもTSSは67.1で、一昨日の54分より低い。山頂でシュウェップスを飲んで、猫にも会えた日。</description>
-    </item>
-    <item>
-      <title>脚は重い。でも山に入ったら踏めた。唐沢2本目は316W</title>
-      <link>https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-04-karasawa-legs-heavy.html</guid>
-      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
-      <description>走る前は脚が重くテンションも上がらなかったが、唐沢1本目277W、2本目316W。最後の確認区間は350W狙いで367W。外を走った直近3回とも、予想より踏めている。</description>
     </item>
   </channel>
 </rss>
