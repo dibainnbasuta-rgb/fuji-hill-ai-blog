@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:38:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:25:58 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりのローラー。250W×20分×3本のつもりが、最後が一番強かった</title>
+      <link>https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
+      <description>久しぶりのローラーで250W×20分×3本。1本目はわざと240Wから入り、252W、262Wと上げて、3本で約60分・平均251W。2本目は9月24日とほぼ同じ252W・心拍139で、連日の外練習の翌日でも後半は崩れなかった。業務用扇風機で膝が冷えたので、3本目から長いビブに替えたのが今日いちばん実用的な発見。</description>
+    </item>
     <item>
       <title>同じ太平山反時計回りを、今日は「回す」意識で走る</title>
       <link>https://fujihillgold.com/articles/2026-10-09-taihei-counterclockwise-spin.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</guid>
       <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
       <description>240〜250W狙いの40分連続走を平均249Wで完遂。TSSは前日の315W×5分×4本とほぼ同じ69.5だが、パワーZ5以上は16分35秒に対し14秒、心拍Z4は12分51秒に対し26分25秒。同じTSSでも中身は真逆だった。</description>
-    </item>
-    <item>
-      <title>315W×5分×4本。3本と3分で潰れた。完遂するまでこれでいく</title>
-      <link>https://fujihillgold.com/articles/2026-09-08-roller-315w-5min-x4.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-08-roller-315w-5min-x4.html</guid>
-      <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
-      <description>ローラーで315W×5分×4本に挑戦。313W・315W・309Wと3本は走れたが4本目は3分で終了。久しぶりにえづいた。実走のゴルビーでは325W×5本できているので、差はローラー側の伸びしろ。</description>
     </item>
   </channel>
 </rss>
