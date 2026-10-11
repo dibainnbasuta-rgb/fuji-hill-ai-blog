@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 10:25:58 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:55:53 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4日目は追い込まず、久しぶりのMTBで友人2人と遊ぶ</title>
+      <link>https://fujihillgold.com/articles/2026-10-11-mtb-three-friends.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-11-mtb-three-friends.html</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
+      <description>3日連続でしっかり負荷を積んだあと、4日目は友人2人と久しぶりのMTBへ。3時間半近く乗っても平均心拍99bpm・運動負荷21と心肺はほぼ休ませつつ、路面に合わせて身体は使った。久しぶりでも転倒ゼロ。トレーニングより「自転車で遊んだ日」。</description>
+    </item>
     <item>
       <title>久しぶりのローラー。250W×20分×3本のつもりが、最後が一番強かった</title>
       <link>https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</guid>
       <pubDate>Fri, 11 Sep 2026 07:00:00 +0900</pubDate>
       <description>FTP275Wに対して252W・253W・260WでSST20分×3を完遂。3本平均は約255Wで9月7日の宿題の出力に届き、心拍は同じくらいで出力だけ上に乗った。ただし室温は今回も未記録で、AIの「本物」認定は保留。次の課題は315W×5分×4本。</description>
-    </item>
-    <item>
-      <title>249W×40分。最初は楽だったのに、40分後には何も残っていなかった</title>
-      <link>https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-09-roller-250w-40min.html</guid>
-      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
-      <description>240〜250W狙いの40分連続走を平均249Wで完遂。TSSは前日の315W×5分×4本とほぼ同じ69.5だが、パワーZ5以上は16分35秒に対し14秒、心拍Z4は12分51秒に対し26分25秒。同じTSSでも中身は真逆だった。</description>
     </item>
   </channel>
 </rss>
