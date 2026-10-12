@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:55:53 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:21:32 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太平山反時計回りの「基準」が、だんだん見えてきた</title>
+      <link>https://fujihillgold.com/articles/2026-10-12-taihei-counterclockwise-baseline.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-12-taihei-counterclockwise-baseline.html</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <description>太平山反時計回りの4回目。太平山は7分02秒・319W、琴平峠は297W、最後の唐沢山は5分24秒・354Wで反時計回りの最速。同じコースを繰り返して、太平山は7分前後、琴平は300W前後、唐沢は最後に約5分全力、という自分なりの基準ができてきた。</description>
+    </item>
     <item>
       <title>4日目は追い込まず、久しぶりのMTBで友人2人と遊ぶ</title>
       <link>https://fujihillgold.com/articles/2026-10-11-mtb-three-friends.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-12-roller-315w-5min-x4-complete.html</guid>
       <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
       <description>前回3本と3分で潰れた315W×5分×4本を、316W・318W・317W・322Wで完遂。4本目はラスト1分半で意図的に上げた。ただ前回も今日も前日はTSS100超えのSSTで、「前回は疲れていただけ」では説明がつかない。次は315W×5本へ。</description>
-    </item>
-    <item>
-      <title>SST20分×3。252・253・260Wで、最後が一番高かった</title>
-      <link>https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-11-sst-20x3-255w.html</guid>
-      <pubDate>Fri, 11 Sep 2026 07:00:00 +0900</pubDate>
-      <description>FTP275Wに対して252W・253W・260WでSST20分×3を完遂。3本平均は約255Wで9月7日の宿題の出力に届き、心拍は同じくらいで出力だけ上に乗った。ただし室温は今回も未記録で、AIの「本物」認定は保留。次の課題は315W×5分×4本。</description>
     </item>
   </channel>
 </rss>
