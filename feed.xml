@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:31:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:58:32 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>特に事件はない。でも、こういう日を淡々と積み重ねたい</title>
+      <link>https://fujihillgold.com/articles/2026-10-15-taihei-counterclockwise-quiet.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-15-taihei-counterclockwise-quiet.html</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
+      <description>レスト明けの太平山反時計回り。太平山は7分切りの332W、琴平峠は約14分・314W、最後の唐沢山は約5分半・359W。特に事件はないが、目安にしている基準を淡々とこなし、ゾーン6の時間も前回より約5分増えた。涼しさも込みで、少しずつ前に進んでいる。</description>
+    </item>
     <item>
       <title>唐沢ゴルビー。前より余裕はあった。でも最後の1本は普通に地獄だった</title>
       <link>https://fujihillgold.com/articles/2026-10-13-karasawa-gorby-5x5.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</guid>
       <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
       <description>ツール・ド・大那の翌日、太平山で6分45秒・平均340W。これまでの最速6分58秒・330Wを13秒・10W更新した。太平山は普通に苦しかったが、それ以外の区間は呼吸に余裕があり、ペダリング中に一瞬だけ前ももが加わると妙によく進む感覚も。前日はIF0.520のポタリングで、耐久値の条件にはカウントされなかった。</description>
-    </item>
-    <item>
-      <title>ツール・ド・大那。今日は速く走らない日。走った記憶より食べた記憶が強い</title>
-      <link>https://fujihillgold.com/articles/2026-09-13-tour-de-daina.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-13-tour-de-daina.html</guid>
-      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
-      <description>友人とツール・ド・大那（DAINA71）へ。74.13km・獲得620m・IF0.520の完全なポタリング。スタート1.5kmで第1エイド、ジェラート、大福、そば、ゴール後にはカレーと牛乳。それでもTSSは92.0で、前日の5分走より高かった。曇りで油断して日焼けも。</description>
     </item>
   </channel>
 </rss>
