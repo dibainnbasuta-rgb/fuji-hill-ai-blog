@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:58:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:29:06 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久しぶりにANCHORで高強度。数字より先に、機材の違いを感じた</title>
+      <link>https://fujihillgold.com/articles/2026-10-16-anchor-gorby-5x5.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-16-anchor-gorby-5x5.html</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <description>Aethos2がパンク中なので、ANCHOR RNC7で唐沢ゴルビー5本。2〜4本目は328・325・330Wで前回のAethos2とほぼ同じだったが、変速の「ガゴッ」、ギアの刻み、2kg近い車重は追い込んだときほど効いた。ANCHORが悪いのではなく、ハイエンドは余裕がなくなったときほど違いが分かる。</description>
+    </item>
     <item>
       <title>特に事件はない。でも、こういう日を淡々と積み重ねたい</title>
       <link>https://fujihillgold.com/articles/2026-10-15-taihei-counterclockwise-quiet.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-16-roller-315w-5x5-quit3.html</guid>
       <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
       <description>前回4本完遂した315W×5分を5本に増やして挑戦。316W・315W・317Wと3本は綺麗に揃ったが、脚でも呼吸でもなく気持ちが切れて4本目に入らなかった。最大心拍は160bpmで、身体の限界ではない。次回も315W×5本。</description>
-    </item>
-    <item>
-      <title>太平山6分45秒・340W。最速を13秒更新、前ももが一瞬だけ噛み合った</title>
-      <link>https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-14-taihei-340w-pedaling.html</guid>
-      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
-      <description>ツール・ド・大那の翌日、太平山で6分45秒・平均340W。これまでの最速6分58秒・330Wを13秒・10W更新した。太平山は普通に苦しかったが、それ以外の区間は呼吸に余裕があり、ペダリング中に一瞬だけ前ももが加わると妙によく進む感覚も。前日はIF0.520のポタリングで、耐久値の条件にはカウントされなかった。</description>
     </item>
   </channel>
 </rss>
