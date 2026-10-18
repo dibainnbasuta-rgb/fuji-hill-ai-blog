@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:17:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:46:32 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>近沢ライド。20分だけ頑張って、あとはベース練習</title>
+      <link>https://fujihillgold.com/articles/2026-10-18-chikasawa-ride-20min.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-18-chikasawa-ride-20min.html</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
+      <description>前日のローラーSSTに続いて、ANCHORで近沢ライド。しっかり踏んだのは20分・295Wだけで、それ以外は余裕を持って走ったベース練習。20分も出し切ってはいない。平均気温13.8℃と涼しかったので効率向上とは決めつけないが、主観として余裕があったことは大きい。</description>
+    </item>
     <item>
       <title>ローラーSST。前より楽に出せたけど、今日は調子に乗らず終わる</title>
       <link>https://fujihillgold.com/articles/2026-10-17-sst-20x2-263-268w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</guid>
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
       <description>前日のSSTで258Wでも最大心拍143bpmだった件を、外で確認しに太平山へ。6分49.6秒・333Wで、心拍は平均147・最大162bpm。前回9/14より約5bpm低いが気温は7℃低く、最大163bpmまでは上がった。ただし体感は340Wだった前回の方が楽で、効率が上がったとも言い切れない。</description>
-    </item>
-    <item>
-      <title>SST20分×2本と6分。完遂できない日が続いても、0点にはしない</title>
-      <link>https://fujihillgold.com/articles/2026-09-17-sst-20x2-keep-floor.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-17-sst-20x2-keep-floor.html</guid>
-      <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
-      <description>SST20分×3本の予定が、247W・258Wの2本と3本目6分・252Wで終了。前日の5分走に続き、2日連続で身体より気持ちが先に折れた。一方で重心のかけ方を変えたら、258Wでも最大心拍は143bpm。ペダリング効率の手応えはあるが、疲労との切り分けはこれから。秋は気分が揺れやすいので、しばらくは現状維持を最低ラインにする。</description>
     </item>
   </channel>
 </rss>
