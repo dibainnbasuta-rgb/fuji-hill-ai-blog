@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:46:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:50:09 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>古峰ヶ原前日。太平山反時計回りでしっかりON</title>
+      <link>https://fujihillgold.com/articles/2026-10-22-taihei-counterclockwise-before-kobu.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-22-taihei-counterclockwise-before-kobu.html</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0900</pubDate>
+      <description>明日は古峰ヶ原。疲れを抜いて体が軽かったので、前日なのに太平山反時計回りでしっかりON日に。太平山は7分切りの330Wで3回目、琴平峠も301W、唐沢山は5分台・329W。明日は過去の数字を最初から追わず、前半は様子を見て入る。</description>
+    </item>
     <item>
       <title>近沢ライド。20分だけ頑張って、あとはベース練習</title>
       <link>https://fujihillgold.com/articles/2026-10-18-chikasawa-ride-20min.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-22-taihei-325w-sunny-heat.html</guid>
       <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>
       <description>雨続きのあと、久しぶりの晴れで太平山へ。台風の名残で路面はびちゃびちゃ、平均気温は31.2℃。太平山は6分56.6秒・325Wで、心拍は平均152・最大167bpmまで普通に上がった。後半も17分・273W。自己ベストの日ではないが、暑い中でしっかり負荷を積めた。</description>
-    </item>
-    <item>
-      <title>太平山6分49秒・333W。低心拍の答えは、たぶん一つじゃない</title>
-      <link>https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-18-taihei-333w-low-hr-check.html</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
-      <description>前日のSSTで258Wでも最大心拍143bpmだった件を、外で確認しに太平山へ。6分49.6秒・333Wで、心拍は平均147・最大162bpm。前回9/14より約5bpm低いが気温は7℃低く、最大163bpmまでは上がった。ただし体感は340Wだった前回の方が楽で、効率が上がったとも言い切れない。</description>
     </item>
   </channel>
 </rss>
