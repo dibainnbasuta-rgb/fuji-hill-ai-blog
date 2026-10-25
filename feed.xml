@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:21:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:32:20 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSTの中に高トルク区間を入れてみた。古峰ヶ原の辛い区間が少し脳裏をよぎった</title>
+      <link>https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix.html</guid>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 +0900</pubDate>
+      <description>ローラーSST20分×3本の中に、75〜79rpmの短い高トルク区間を差し込んでみた。1本目277W・2本目274W。2本目で腰にじわじわ疲れが来て、古峰ヶ原後半の辛さがよぎった。3本目は初めての刺激なので意図的に242Wへ。当面はこの形で20分×3本の完遂を目指す。</description>
+    </item>
     <item>
       <title>古峰ヶ原でFTP更新。68分289W、そして今後の課題も見えた</title>
       <link>https://fujihillgold.com/articles/2026-10-23-kobugahara-ftp-289w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</guid>
       <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
       <description>9月16日に3本で気持ちが切れた315W×5分×5本に再挑戦。310W・317W・313W・311W・314Wで5本完遂。4本目で本気で「もう無理かも」と思ったが、やめなかった。余裕の313Wではなく、ギリギリ耐えた313W。しばらく320Wには上げず、このメニューを続ける。</description>
-    </item>
-    <item>
-      <title>同じ250Wでも心拍が低い。今日はかなり調子が良かった</title>
-      <link>https://fujihillgold.com/articles/2026-09-24-sst-20x3-273w-low-hr.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-24-sst-20x3-273w-low-hr.html</guid>
-      <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
-      <description>SST20分×3を250W・252W・273Wで完遂。1本目は9月7日と同じ250Wで平均心拍が8bpm低く、それでいて余裕があり、3本目はほぼFTPの273Wまで上げられた。9月17日の低心拍とは違う、良い方向の低心拍。高気圧のおかげかもしれないが断定せず、天気・気圧・気分・睡眠・心拍をメモしていく。</description>
     </item>
   </channel>
 </rss>
