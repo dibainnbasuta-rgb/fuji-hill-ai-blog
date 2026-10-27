@@ -5,8 +5,22 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:32:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:10:33 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×3本。3本目まで完遂したら、終わった後の疲労がデカい！</title>
+      <link>https://fujihillgold.com/articles/2026-10-27-sst-20x3-270w-complete.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-27-sst-20x3-270w-complete.html</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0900</pubDate>
+      <description>前回3本目を落としたSST20分×3本のリベンジ。1本目270W、2本目はリンク切れで表示267Wだが実質270W前後、3本目は257Wに落ちたものの20分を完遂。終わった後の大きな疲労は、高めの出力を長く保つ力が足りていない証拠で、ここが今の伸びしろ。</description>
+    </item>
+    <item>
+      <title>初めてちゃんとベース走をやったら、1時間300Wが急に高い壁に見えた</title>
+      <link>https://fujihillgold.com/articles/2026-10-26-roller-base-60min-212w.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-26-roller-base-60min-212w.html</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0900</pubDate>
+      <description>SST翌日に、ローラーで初めてベース走として60分・212Wを一定で回した。脚は残っているのに、逃げ場のない一定出力が「なんかきつい」。回復走ではなく、ちゃんとベーストレーニングだった。212Wでも長い60分に、1時間300Wの壁の高さを体で感じた。</description>
+    </item>
     <item>
       <title>SSTの中に高トルク区間を入れてみた。古峰ヶ原の辛い区間が少し脳裏をよぎった</title>
       <link>https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix.html</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</guid>
       <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
       <description>数日前から膝の前側に違和感があり、高強度を控えて唐沢を様子見で走った。走行中は膝の痛みも違和感もほぼなし。ただ全開で踏むのはまだ怖く、しばらく高強度は控える。青空の下で気持ちよく登れて、唐沢では友人にも偶然会えた。「トレーニングできた」より「楽しかった」が先に来た日。</description>
-    </item>
-    <item>
-      <title>20分×3のつもりが、30分×2へ。持続力が一段上がってきたかもしれない</title>
-      <link>https://fujihillgold.com/articles/2026-09-28-sst-30x2-endurance.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-28-sst-30x2-endurance.html</guid>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
-      <description>SST20分×3の予定を、1本目の途中で30分×2に変更。256W・257Wで2本完遂し、FTP比約93%を合計60分維持した。2本目は10分過ぎからきつかったが、5分走の4本目を思えば耐えられた。心拍は横ばいで、伸びたのは時間と出力の方。</description>
-    </item>
-    <item>
-      <title>315W×5分×5本。4本目で心が折れかけたけど、ついに完遂</title>
-      <link>https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-09-26-roller-315w-5x5-complete.html</guid>
-      <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
-      <description>9月16日に3本で気持ちが切れた315W×5分×5本に再挑戦。310W・317W・313W・311W・314Wで5本完遂。4本目で本気で「もう無理かも」と思ったが、やめなかった。余裕の313Wではなく、ギリギリ耐えた313W。しばらく320Wには上げず、このメニューを続ける。</description>
     </item>
   </channel>
 </rss>
