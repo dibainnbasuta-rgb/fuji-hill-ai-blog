@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:11:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:08:51 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年6月まとめ。1時間300Wの目標、お尻の痛み、心拍計</title>
+      <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-06.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-06.html</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <description>ブログを始めた2026年6月の月まとめ。23回・約754km・約28時間（外14回・ローラー9回）。ローラーで1時間300Wという目標ができ、お尻の痛みで練習が止まり、心拍計HR70で練習の中身を数字で見られるようになった。7月は無酸素寄せゴルビーとSSTの延長へ。</description>
+    </item>
     <item>
       <title>唐沢ゴルビー。古峰ヶ原で覚えた「重いギアで踏む感覚」が少し生きている気がする</title>
       <link>https://fujihillgold.com/articles/2026-10-29-karasawa-gorby-cold-start.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</guid>
       <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
       <description>膝の前側の違和感で最高出力の練習は控えたまま、唐沢と琴平へ。唐沢302W・琴平287Wと思ったより普通に踏めて、膝の痛みは出なかった。それでも「治った」とはまだ言わない。外で自然に250〜300Wまで上がる、でも限界まで追い込まない。今はその範囲を少しずつ広げる時期。</description>
-    </item>
-    <item>
-      <title>久しぶりの3人ライド。近沢峠まで行ってきた</title>
-      <link>https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</guid>
-      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
-      <description>膝の違和感で高強度を控える中、3人で近沢峠へ。63.22km・IF0.699のゆるいライドでも、2時間40分乗ってTSS130.2。近沢峠本体はラップを切り忘れ、帰りの下りは前の背中についていくのが楽しかった。膝は今日も問題なし。膝のことを忘れる時間が多かった日。</description>
     </item>
   </channel>
 </rss>
