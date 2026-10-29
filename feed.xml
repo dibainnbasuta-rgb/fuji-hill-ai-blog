@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:08:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:06:13 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年7月まとめ。唐沢ゴルビーの定番化、外で275W、膝の違和感</title>
+      <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-07.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-07.html</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <description>2026年7月の月まとめ。29回・約973km・約40時間（外17回・ローラー12回）。唐沢ゴルビーを4回とも5本完遂して定番になり、外では275Wを長く踏めるようになってきた。膝の違和感は止めずに強度だけ落として4日で戻った。8月はゴルビーの揃え方とSST25分×2の安定へ。</description>
+    </item>
     <item>
       <title>2026年6月まとめ。1時間300Wの目標、お尻の痛み、心拍計</title>
       <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-06.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</guid>
       <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
       <description>新しい定番ルート「太平山反時計回り」の初回。名もなき峠から唐沢山まで、前半は最大の8割に抑えて、後半の琴平峠で292Wを15分維持した。短い登りは結局300W台が出ていたが、全部で出し切らずに「どこで使うか」を決めて走った。膝は今日も違和感なし。</description>
-    </item>
-    <item>
-      <title>膝の様子を見ながら、唐沢と琴平へ。思ったより普通に踏めた日</title>
-      <link>https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-05-karasawa-kotohira-knee-check.html</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
-      <description>膝の前側の違和感で最高出力の練習は控えたまま、唐沢と琴平へ。唐沢302W・琴平287Wと思ったより普通に踏めて、膝の痛みは出なかった。それでも「治った」とはまだ言わない。外で自然に250〜300Wまで上がる、でも限界まで追い込まない。今はその範囲を少しずつ広げる時期。</description>
     </item>
   </channel>
 </rss>
