@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:10:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:11:16 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>唐沢ゴルビー。古峰ヶ原で覚えた「重いギアで踏む感覚」が少し生きている気がする</title>
+      <link>https://fujihillgold.com/articles/2026-10-29-karasawa-gorby-cold-start.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-karasawa-gorby-cold-start.html</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <description>平均12.9℃の唐沢でゴルビー5本。寒いので1本目は321Wで抑えて入り、332・337・335W、頂上までの5本目は341W。古峰ヶ原で覚えた「重いギアをしっかり踏む」感覚が、最近の練習に少し生きている気がする。冬用ビブで下半身を温めて走った。</description>
+    </item>
     <item>
       <title>SST20分×3本。3本目まで完遂したら、終わった後の疲労がデカい！</title>
       <link>https://fujihillgold.com/articles/2026-10-27-sst-20x3-270w-complete.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-04-chikasawa-group-ride.html</guid>
       <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
       <description>膝の違和感で高強度を控える中、3人で近沢峠へ。63.22km・IF0.699のゆるいライドでも、2時間40分乗ってTSS130.2。近沢峠本体はラップを切り忘れ、帰りの下りは前の背中についていくのが楽しかった。膝は今日も問題なし。膝のことを忘れる時間が多かった日。</description>
-    </item>
-    <item>
-      <title>膝の違和感から復帰途中。唐沢を気持ちよく走れた日</title>
-      <link>https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-03-karasawa-knee-recovery.html</guid>
-      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
-      <description>数日前から膝の前側に違和感があり、高強度を控えて唐沢を様子見で走った。走行中は膝の痛みも違和感もほぼなし。ただ全開で踏むのはまだ怖く、しばらく高強度は控える。青空の下で気持ちよく登れて、唐沢では友人にも偶然会えた。「トレーニングできた」より「楽しかった」が先に来た日。</description>
     </item>
   </channel>
 </rss>
