@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fuji-hill-ai-blog.pages.dev/sitemap.xml
+Sitemap: https://fujihillgold.com/sitemap.xml
 
