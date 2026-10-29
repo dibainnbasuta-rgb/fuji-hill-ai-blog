@@ -820,6 +820,51 @@ h1{
 .home-post-list{
   gap:0;
 }
+.monthly-review-section{
+  background:linear-gradient(180deg,#fff 0%,#f6f6f1 100%);
+}
+.monthly-review-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:18px;
+}
+.monthly-review-card{
+  overflow:hidden;
+  border:1px solid var(--line);
+  border-radius:8px;
+  background:#fff;
+  transition:transform .15s ease,box-shadow .15s ease;
+}
+.monthly-review-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 8px 24px rgba(0,0,0,.08);
+}
+.monthly-review-card img{
+  width:100%;
+  aspect-ratio:16 / 9;
+  object-fit:cover;
+  border-bottom:1px solid var(--line);
+}
+.monthly-review-card div{
+  padding:16px 18px 18px;
+}
+.monthly-review-card span{
+  color:var(--acid-dark);
+  font-size:12px;
+  font-weight:900;
+}
+.monthly-review-card h3{
+  margin:7px 0 0;
+  font-size:20px;
+  line-height:1.55;
+}
+.monthly-review-more{
+  display:inline-flex;
+  margin-top:18px;
+  color:var(--acid-dark);
+  font-size:14px;
+  font-weight:900;
+}
 /* 左カラムをサイドバーの高さまで伸ばし、空欄を「すべての記事」導線で埋める */
 .top-blog-layout .blog-main{
   display:flex;
@@ -1908,6 +1953,7 @@ h1{
     margin-top:6px;
   }
   .status-grid,
+  .monthly-review-grid,
   .category-grid,
   .recommend-grid,
   .article-card-grid,
