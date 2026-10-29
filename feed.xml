@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:06:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:15:52 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年8月まとめ。太平で7分切り、低ケイデンスと「腰で乗る」</title>
+      <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-08.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-08.html</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <description>2026年8月の月まとめ。30回・約1,084km・約43時間（外20回・ローラー10回）で、初めて月1,000kmを超えた。太平（時計回り）で6分58秒・330Wと7分を切り、低ケイデンスで「腰で乗る」感覚をつかんで回転数を使い分け始めた。9月は太平の再現と60/30の安定へ。</description>
+    </item>
     <item>
       <title>2026年7月まとめ。唐沢ゴルビーの定番化、外で275W、膝の違和感</title>
       <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-07.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-07-karasawa-3x-sleep.html</guid>
       <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
       <description>前日の太平山反時計回り（TSS152.8）の翌日。脚は意外なほど軽かったが、睡眠の質が落ちていたので出力を抑え、唐沢山を3回登ってTSS71.8に収めた。前日のほぼ半分。休むのではなく「抑えて積む」日。ただし登りではパワーゾーン5以上に約10分いて、AIには総量しか抑えていないと突っ込まれた。</description>
-    </item>
-    <item>
-      <title>前半は抑えて、後半の琴平でしっかり踏む。太平山反時計回り</title>
-      <link>https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-06-taihei-counterclockwise.html</guid>
-      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
-      <description>新しい定番ルート「太平山反時計回り」の初回。名もなき峠から唐沢山まで、前半は最大の8割に抑えて、後半の琴平峠で292Wを15分維持した。短い登りは結局300W台が出ていたが、全部で出し切らずに「どこで使うか」を決めて走った。膝は今日も違和感なし。</description>
     </item>
   </channel>
 </rss>
