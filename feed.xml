@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:37:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:09:07 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×3本。270ｗ出そろった！</title>
+      <link>https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w.html</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 +0900</pubDate>
+      <description>唐沢ゴルビーの翌日、太平山は路面濡れで中止にしてローラーでSST20分×3本。前回3本目257Wまで落ちたメニューを270・271・274Wで揃えた。メニュー中はめちゃくちゃきつかったが、終わった後のダメージは前より少ない。次は上げずに再現を狙う。</description>
+    </item>
     <item>
       <title>2026年9月まとめ。315W×5本を完遂、太平は最速更新</title>
       <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-09.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-09-taihei-counterclockwise-spin.html</guid>
       <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
       <description>前日に続いて太平山反時計回りの3回目。昨日の「重いギアで踏む」から、今日は出力を一段抑えて「少し軽いギアで回す」へ。6つの登りすべてでケイデンスが3〜10rpm上がった。遅くなったのではなく、昨日とは違う踏み方で走った日。ただし出力も同時に落としたので、心拍が下がった理由は切り分けられない。</description>
-    </item>
-    <item>
-      <title>昨日抑えた分、今日は脚が軽かった。太平山反時計回りで成長を少し実感</title>
-      <link>https://fujihillgold.com/articles/2026-10-08-taihei-counterclockwise-2.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-08-taihei-counterclockwise-2.html</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
-      <description>太平山反時計回りの2回目。前日にTSS71.8まで負荷を落とした翌日、6区間すべてで前回より速く、太平山は6分57秒・321W、琴平峠は心拍がほぼ同じまま17W上がって309W。唐沢山でも331W。単発のパワーより、登り返しのあとも後半まで脚が残ることに成長を感じた日。</description>
     </item>
   </channel>
 </rss>
