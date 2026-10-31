@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:09:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:26:59 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8分×4本に初挑戦して撃沈。でも冬の主力にしたいと思った話</title>
+      <link>https://fujihillgold.com/articles/2026-10-31-8min-x4-first-try.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-31-8min-x4-first-try.html</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0900</pubDate>
+      <description>唐沢ゴルビー、SST20分×3本に続いて8分×4本へ初挑戦。1本目は296Wで走り切ったが、2本目は285Wで約1分半で中断した。原因はまだ切り分けられない。それでもメニューは気に入ったので、凍結で山に行けない冬の室内高強度の主力候補として再挑戦する。</description>
+    </item>
     <item>
       <title>SST20分×3本。270ｗ出そろった！</title>
       <link>https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</guid>
       <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
       <description>久しぶりのローラーで250W×20分×3本。1本目はわざと240Wから入り、252W、262Wと上げて、3本で約60分・平均251W。2本目は9月24日とほぼ同じ252W・心拍139で、連日の外練習の翌日でも後半は崩れなかった。業務用扇風機で膝が冷えたので、3本目から長いビブに替えたのが今日いちばん実用的な発見。</description>
-    </item>
-    <item>
-      <title>同じ太平山反時計回りを、今日は「回す」意識で走る</title>
-      <link>https://fujihillgold.com/articles/2026-10-09-taihei-counterclockwise-spin.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-09-taihei-counterclockwise-spin.html</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
-      <description>前日に続いて太平山反時計回りの3回目。昨日の「重いギアで踏む」から、今日は出力を一段抑えて「少し軽いギアで回す」へ。6つの登りすべてでケイデンスが3〜10rpm上がった。遅くなったのではなく、昨日とは違う踏み方で走った日。ただし出力も同時に落としたので、心拍が下がった理由は切り分けられない。</description>
     </item>
   </channel>
 </rss>
