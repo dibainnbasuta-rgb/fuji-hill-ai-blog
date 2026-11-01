@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:26:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:43:12 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>高強度を3日続けた後、青空の下でアクティブレスト。脚が軽かった日</title>
+      <link>https://fujihillgold.com/articles/2026-11-01-active-rest-blue-sky.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-01-active-rest-blue-sky.html</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0900</pubDate>
+      <description>唐沢ゴルビー、SST20分×3本、8分×4本の撃沈と続いた翌日は、外でアクティブレスト。約30km・平均150W・TSS42。短い高出力はあったので純粋な回復走とは言えず、疲労が抜けた証拠もない。それでも天気は最高で、走り終えた脚は軽かった。</description>
+    </item>
     <item>
       <title>8分×4本に初挑戦して撃沈。でも冬の主力にしたいと思った話</title>
       <link>https://fujihillgold.com/articles/2026-10-31-8min-x4-first-try.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-11-mtb-three-friends.html</guid>
       <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
       <description>3日連続でしっかり負荷を積んだあと、4日目は友人2人と久しぶりのMTBへ。3時間半近く乗っても平均心拍99bpm・運動負荷21と心肺はほぼ休ませつつ、路面に合わせて身体は使った。久しぶりでも転倒ゼロ。トレーニングより「自転車で遊んだ日」。</description>
-    </item>
-    <item>
-      <title>久しぶりのローラー。250W×20分×3本のつもりが、最後が一番強かった</title>
-      <link>https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-10-roller-250w-buildup.html</guid>
-      <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
-      <description>久しぶりのローラーで250W×20分×3本。1本目はわざと240Wから入り、252W、262Wと上げて、3本で約60分・平均251W。2本目は9月24日とほぼ同じ252W・心拍139で、連日の外練習の翌日でも後半は崩れなかった。業務用扇風機で膝が冷えたので、3本目から長いビブに替えたのが今日いちばん実用的な発見。</description>
     </item>
   </channel>
 </rss>
