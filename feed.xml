@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:56:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:11:03 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SST20分×3本。それでも前より楽だった――SSTが少し変わってきた日</title>
+      <link>https://fujihillgold.com/articles/2026-11-02-sst-20x3-274-280-280w.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-02-sst-20x3-274-280-280w.html</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 +0900</pubDate>
+      <description>ローラーでSST20分×3本。270W台の維持を狙ったら274・280・280W。10月27日や30日より出力が高いのに、メニュー中の余裕は大きく、終わった後のダメージも少なかった。前日の軽いライドや慣れの可能性はあるが、理由は言い切らず、280W前後の再現性を見ていく。</description>
+    </item>
     <item>
       <title>2026年10月まとめ。古峰ヶ原でFTP289W、太平山反時計回りが基準に</title>
       <link>https://fujihillgold.com/articles/2026-11-01-monthly-review-2026-10.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-13-karasawa-gorby-5x5.html</guid>
       <pubDate>Tue, 13 Oct 2026 07:00:00 +0900</pubDate>
       <description>唐沢山で5分×5本のゴルビー。316・325・324・334Wと前半を抑えて上げていき、5本目は頂上まで351W。4本目までは以前より少しコントロールできた感覚があったが、5本目は最大心拍169bpmで本当につらかった。平均出力では7月の回に届かず、上がったのは出力ではなく配分。</description>
-    </item>
-    <item>
-      <title>太平山反時計回りの「基準」が、だんだん見えてきた</title>
-      <link>https://fujihillgold.com/articles/2026-10-12-taihei-counterclockwise-baseline.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-12-taihei-counterclockwise-baseline.html</guid>
-      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
-      <description>太平山反時計回りの4回目。太平山は7分02秒・319W、琴平峠は297W、最後の唐沢山は5分24秒・354Wで反時計回りの最速。同じコースを繰り返して、太平山は7分前後、琴平は300W前後、唐沢は最後に約5分全力、という自分なりの基準ができてきた。</description>
     </item>
   </channel>
 </rss>
