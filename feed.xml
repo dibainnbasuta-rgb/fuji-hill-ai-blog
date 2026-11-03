@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:26:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:35:40 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>高強度の翌日は、友人と渡良瀬遊水地へ。数字を追わない38km</title>
+      <link>https://fujihillgold.com/articles/2026-11-03-watarase-friend-recovery.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-03-watarase-friend-recovery.html</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 +0900</pubDate>
+      <description>SST20分×3本の翌日は、友人と渡良瀬遊水地へ回復走。約38km・平均94W・TSS25で、パワーのゾーン1が89％。近況や仕事の話をしながら、数字を追わずに走った。回復したかはTSSでは判定できないが、速く走らない日も自転車は楽しい。</description>
+    </item>
     <item>
       <title>SST20分×3本。それでも前より楽だった――SSTが少し変わってきた日</title>
       <link>https://fujihillgold.com/articles/2026-11-02-sst-20x3-274-280-280w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-15-taihei-counterclockwise-quiet.html</guid>
       <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
       <description>レスト明けの太平山反時計回り。太平山は7分切りの332W、琴平峠は約14分・314W、最後の唐沢山は約5分半・359W。特に事件はないが、目安にしている基準を淡々とこなし、ゾーン6の時間も前回より約5分増えた。涼しさも込みで、少しずつ前に進んでいる。</description>
-    </item>
-    <item>
-      <title>唐沢ゴルビー。前より余裕はあった。でも最後の1本は普通に地獄だった</title>
-      <link>https://fujihillgold.com/articles/2026-10-13-karasawa-gorby-5x5.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-13-karasawa-gorby-5x5.html</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 +0900</pubDate>
-      <description>唐沢山で5分×5本のゴルビー。316・325・324・334Wと前半を抑えて上げていき、5本目は頂上まで351W。4本目までは以前より少しコントロールできた感覚があったが、5本目は最大心拍169bpmで本当につらかった。平均出力では7月の回に届かず、上がったのは出力ではなく配分。</description>
     </item>
   </channel>
 </rss>
