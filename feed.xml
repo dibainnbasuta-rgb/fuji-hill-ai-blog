@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:07:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:26:33 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>週500TSSは下限なのか。数字に振り回されず、でも練習をぬるくしないために</title>
+      <link>https://fujihillgold.com/articles/2026-11-07-training-policy-weekly-tss.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-07-training-policy-weekly-tss.html</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 +0900</pubDate>
+      <description>AIがすぐ回復走を勧めてくるので、自分の練習の積み上げ方を言語化した。今週は11月7日までで504.9TSS。週間TSSの目安、各メニューの狙い、室内と実走のパワーの扱いをまとめた自分用の方針メモ。</description>
+    </item>
     <item>
       <title>日の出が遅くなった朝、今日は友人とMTBでのんびり走る</title>
       <link>https://fujihillgold.com/articles/2026-11-07-mtb-friends-slow-morning.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-23-kobugahara-ftp-289w.html</guid>
       <pubDate>Fri, 23 Oct 2026 07:00:00 +0900</pubDate>
       <description>古峰ヶ原を約1時間8分・平均約289Wで登った。GarminのFTPは275Wから281Wに更新されたが、トレーニング設定はFTP289Wに。後半の激坂は好みだったが、35×33のインナーローでもギリギリ。機材は変えず、70〜75rpmの高トルク練習を少し足していく。</description>
-    </item>
-    <item>
-      <title>古峰ヶ原前日。太平山反時計回りでしっかりON</title>
-      <link>https://fujihillgold.com/articles/2026-10-22-taihei-counterclockwise-before-kobu.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-22-taihei-counterclockwise-before-kobu.html</guid>
-      <pubDate>Thu, 22 Oct 2026 07:00:00 +0900</pubDate>
-      <description>明日は古峰ヶ原。疲れを抜いて体が軽かったので、前日なのに太平山反時計回りでしっかりON日に。太平山は7分切りの330Wで3回目、琴平峠も301W、唐沢山は5分台・329W。明日は過去の数字を最初から追わず、前半は様子を見て入る。</description>
     </item>
   </channel>
 </rss>
