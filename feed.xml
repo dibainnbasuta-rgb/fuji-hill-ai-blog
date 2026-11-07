@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:09:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:07:31 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日の出が遅くなった朝、今日は友人とMTBでのんびり走る</title>
+      <link>https://fujihillgold.com/articles/2026-11-07-mtb-friends-slow-morning.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-07-mtb-friends-slow-morning.html</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 +0900</pubDate>
+      <description>8分×4本の翌日は、友人とMTB。登りは会話できるペース、下りはMTBらしく楽しんだ。心拍平均113bpm、ゾーン4以上は0分。推定TSS40の、数字を稼がない一日。</description>
+    </item>
     <item>
       <title>4本目に入りたくなかった8分走。290Wの壁と実走との差</title>
       <link>https://fujihillgold.com/articles/2026-11-06-roller-8min-x4-292w.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-22-taihei-counterclockwise-before-kobu.html</guid>
       <pubDate>Thu, 22 Oct 2026 07:00:00 +0900</pubDate>
       <description>明日は古峰ヶ原。疲れを抜いて体が軽かったので、前日なのに太平山反時計回りでしっかりON日に。太平山は7分切りの330Wで3回目、琴平峠も301W、唐沢山は5分台・329W。明日は過去の数字を最初から追わず、前半は様子を見て入る。</description>
-    </item>
-    <item>
-      <title>近沢ライド。20分だけ頑張って、あとはベース練習</title>
-      <link>https://fujihillgold.com/articles/2026-10-18-chikasawa-ride-20min.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-18-chikasawa-ride-20min.html</guid>
-      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
-      <description>前日のローラーSSTに続いて、ANCHORで近沢ライド。しっかり踏んだのは20分・295Wだけで、それ以外は余裕を持って走ったベース練習。20分も出し切ってはいない。平均気温13.8℃と涼しかったので効率向上とは決めつけないが、主観として余裕があったことは大きい。</description>
     </item>
   </channel>
 </rss>
