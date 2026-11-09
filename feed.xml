@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:26:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:35:38 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脚は残っていた。でも、3本目をやめた。――完全レスト明けのSST</title>
+      <link>https://fujihillgold.com/articles/2026-11-09-sst-20x3-stopped-third.html</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-09-sst-20x3-stopped-third.html</guid>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 +0900</pubDate>
+      <description>日曜を完全レストにした翌日、ローラーでSST20分×3本。283W・282Wと前半は順調だったが、脚の限界ではなく気持ちが続かず、3本目を約6分でやめた。</description>
+    </item>
     <item>
       <title>週500TSSは下限なのか。数字に振り回されず、でも練習をぬるくしないために</title>
       <link>https://fujihillgold.com/articles/2026-11-07-training-policy-weekly-tss.html</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix.html</guid>
       <pubDate>Sun, 25 Oct 2026 07:00:00 +0900</pubDate>
       <description>ローラーSST20分×3本の中に、75〜79rpmの短い高トルク区間を差し込んでみた。1本目277W・2本目274W。2本目で腰にじわじわ疲れが来て、古峰ヶ原後半の辛さがよぎった。3本目は初めての刺激なので意図的に242Wへ。当面はこの形で20分×3本の完遂を目指す。</description>
-    </item>
-    <item>
-      <title>古峰ヶ原でFTP更新。68分289W、そして今後の課題も見えた</title>
-      <link>https://fujihillgold.com/articles/2026-10-23-kobugahara-ftp-289w.html</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-23-kobugahara-ftp-289w.html</guid>
-      <pubDate>Fri, 23 Oct 2026 07:00:00 +0900</pubDate>
-      <description>古峰ヶ原を約1時間8分・平均約289Wで登った。GarminのFTPは275Wから281Wに更新されたが、トレーニング設定はFTP289Wに。後半の激坂は好みだったが、35×33のインナーローでもギリギリ。機材は変えず、70〜75rpmの高トルク練習を少し足していく。</description>
     </item>
   </channel>
 </rss>
