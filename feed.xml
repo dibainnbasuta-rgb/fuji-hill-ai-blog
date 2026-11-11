@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:40:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:35:52 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冬の唐沢で5分走×5本。寒さに震えながらも、脚は思った以上に好調だった</title>
+      <link>https://fujihillgold.com/articles/2026-11-11-karasawa-gorby-5x5-winter</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-11-karasawa-gorby-5x5-winter</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0900</pubDate>
+      <description>最低気温4℃の唐沢で5分走×5本。318〜334Wで平均327W、5本目は約5分50秒まで334Wを維持。脚はそこまで辛くなく、なぜか心拍も上がらなかった。</description>
+    </item>
     <item>
       <title>脚は残っていた。でも、3本目をやめた。――完全レスト明けのSST</title>
       <link>https://fujihillgold.com/articles/2026-11-09-sst-20x3-stopped-third</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-26-roller-base-60min-212w</guid>
       <pubDate>Mon, 26 Oct 2026 07:00:00 +0900</pubDate>
       <description>SST翌日に、ローラーで初めてベース走として60分・212Wを一定で回した。脚は残っているのに、逃げ場のない一定出力が「なんかきつい」。回復走ではなく、ちゃんとベーストレーニングだった。212Wでも長い60分に、1時間300Wの壁の高さを体で感じた。</description>
-    </item>
-    <item>
-      <title>SSTの中に高トルク区間を入れてみた。古峰ヶ原の辛い区間が少し脳裏をよぎった</title>
-      <link>https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-25-sst-high-torque-mix</guid>
-      <pubDate>Sun, 25 Oct 2026 07:00:00 +0900</pubDate>
-      <description>ローラーSST20分×3本の中に、75〜79rpmの短い高トルク区間を差し込んでみた。1本目277W・2本目274W。2本目で腰にじわじわ疲れが来て、古峰ヶ原後半の辛さがよぎった。3本目は初めての刺激なので意図的に242Wへ。当面はこの形で20分×3本の完遂を目指す。</description>
     </item>
   </channel>
 </rss>
