@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:35:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:59:41 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>唐沢5分走の翌日、ローラーで220Wを1時間。いつものベース走を淡々と</title>
+      <link>https://fujihillgold.com/articles/2026-11-12-roller-base-60min-220w</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-12-roller-base-60min-220w</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 +0900</pubDate>
+      <description>唐沢5分×5本の翌日は、ローラーでいつものベース走。60分を平均220W・NP221Wでほぼ一定に。AIは「180〜200Wで十分」と慎重だったが、220Wは私の以前からのベースだ。</description>
+    </item>
     <item>
       <title>冬の唐沢で5分走×5本。寒さに震えながらも、脚は思った以上に好調だった</title>
       <link>https://fujihillgold.com/articles/2026-11-11-karasawa-gorby-5x5-winter</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-27-sst-20x3-270w-complete</guid>
       <pubDate>Tue, 27 Oct 2026 07:00:00 +0900</pubDate>
       <description>前回3本目を落としたSST20分×3本のリベンジ。1本目270W、2本目はリンク切れで表示267Wだが実質270W前後、3本目は257Wに落ちたものの20分を完遂。終わった後の大きな疲労は、高めの出力を長く保つ力が足りていない証拠で、ここが今の伸びしろ。</description>
-    </item>
-    <item>
-      <title>初めてちゃんとベース走をやったら、1時間300Wが急に高い壁に見えた</title>
-      <link>https://fujihillgold.com/articles/2026-10-26-roller-base-60min-212w</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-26-roller-base-60min-212w</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 +0900</pubDate>
-      <description>SST翌日に、ローラーで初めてベース走として60分・212Wを一定で回した。脚は残っているのに、逃げ場のない一定出力が「なんかきつい」。回復走ではなく、ちゃんとベーストレーニングだった。212Wでも長い60分に、1時間300Wの壁の高さを体で感じた。</description>
     </item>
   </channel>
 </rss>
