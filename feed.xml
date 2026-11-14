@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:57:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:56:33 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>220Wを70分。苦手な高ケイデンスにも挑戦してみた</title>
+      <link>https://fujihillgold.com/articles/2026-11-14-roller-220w-70min-high-cadence</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-14-roller-220w-70min-high-cadence</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0900</pubDate>
+      <description>太平山反時計回りの翌日、ローラーのベース走を60分から70分に延長。平均219W・NP219Wでほぼ狙いどおり。前半30分は苦手な高ケイデンスも試してメイン平均80rpm。前回より長いのに少し楽に感じた一方、心拍は4bpm高かった。</description>
+    </item>
     <item>
       <title>体調はいいのに踏めない？ 太平・琴平・唐沢で数字と感覚が食い違った日</title>
       <link>https://fujihillgold.com/articles/2026-11-13-taihei-counterclockwise-feel-vs-numbers</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-06</guid>
       <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
       <description>ブログを始めた2026年6月の月まとめ。23回・約754km・約28時間（外14回・ローラー9回）。ローラーで1時間300Wという目標ができ、お尻の痛みで練習が止まり、心拍計HR70で練習の中身を数字で見られるようになった。7月は無酸素寄せゴルビーとSSTの延長へ。</description>
-    </item>
-    <item>
-      <title>唐沢ゴルビー。古峰ヶ原で覚えた「重いギアで踏む感覚」が少し生きている気がする</title>
-      <link>https://fujihillgold.com/articles/2026-10-29-karasawa-gorby-cold-start</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-karasawa-gorby-cold-start</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
-      <description>平均12.9℃の唐沢でゴルビー5本。寒いので1本目は321Wで抑えて入り、332・337・335W、頂上までの5本目は341W。古峰ヶ原で覚えた「重いギアをしっかり踏む」感覚が、最近の練習に少し生きている気がする。冬用ビブで下半身を温めて走った。</description>
     </item>
   </channel>
 </rss>
