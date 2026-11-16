@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:30:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:28:09 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15分の予定が20分×3本に。SSTで見つけた「尾てい骨から回す」感覚</title>
+      <link>https://fujihillgold.com/articles/2026-11-16-sst-20x3-267-270-278w</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-16-sst-20x3-267-270-278w</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 +0900</pubDate>
+      <description>AIの提案は265W前後で15分×3本。脚が踏めそうだったので自分で20分×3本に変更し、267・270・278Wと後半ほど上げて完遂。平均約272Wは10月30日と同水準。尾てい骨あたりから回す、後輪を回すイメージという言葉にしにくい感覚も見つかった。</description>
+    </item>
     <item>
       <title>&lt;span&gt;2026年、第4回ツール・ド・奥佐野。&lt;/span&gt;パワーばかり見ていた私が、久しぶりに景色を楽しんだ日。</title>
       <link>https://fujihillgold.com/articles/2026-11-15-tour-de-okusano-guide-rider</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-08</guid>
       <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
       <description>2026年8月の月まとめ。30回・約1,084km・約43時間（外20回・ローラー10回）で、初めて月1,000kmを超えた。太平（時計回り）で6分58秒・330Wと7分を切り、低ケイデンスで「腰で乗る」感覚をつかんで回転数を使い分け始めた。9月は太平の再現と60/30の安定へ。</description>
-    </item>
-    <item>
-      <title>2026年7月まとめ。唐沢ゴルビーの定番化、外で275W、膝の違和感</title>
-      <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-07</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-07</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
-      <description>2026年7月の月まとめ。29回・約973km・約40時間（外17回・ローラー12回）。唐沢ゴルビーを4回とも5本完遂して定番になり、外では275Wを長く踏めるようになってきた。膝の違和感は止めずに強度だけ落として4日で戻った。8月はゴルビーの揃え方とSST25分×2の安定へ。</description>
     </item>
   </channel>
 </rss>
