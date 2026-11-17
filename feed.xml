@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:34:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:24:58 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIに練習が緩いと文句を言った翌日、35分で練習を投げ出した私</title>
+      <link>https://fujihillgold.com/articles/2026-11-18-roller-base-quit-35min</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-18-roller-base-quit-35min</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 +0900</pubDate>
+      <description>AIの提案は220W×60分のベース走。自分から時間を延ばしたのに、平均216Wで約35分走ったところで投げ出した。SSTより苦手な中途半端な強度。11月10日から9日間で計測できたTSSは810.5、完全休養日なし。疲れていないと思っていたのは自分だけだったのかもしれない。</description>
+    </item>
     <item>
       <title>琴平峠305W、3つの山で4日前を上回れた日</title>
       <link>https://fujihillgold.com/articles/2026-11-17-taihei-counterclockwise-after-sst</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w</guid>
       <pubDate>Fri, 30 Oct 2026 07:00:00 +0900</pubDate>
       <description>唐沢ゴルビーの翌日、太平山は路面濡れで中止にしてローラーでSST20分×3本。前回3本目257Wまで落ちたメニューを270・271・274Wで揃えた。メニュー中はめちゃくちゃきつかったが、終わった後のダメージは前より少ない。次は上げずに再現を狙う。</description>
-    </item>
-    <item>
-      <title>2026年9月まとめ。315W×5本を完遂、太平は最速更新</title>
-      <link>https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-09</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-29-monthly-review-2026-09</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
-      <description>2026年9月の月まとめ。29回・約884km・約33時間で、雨続きのため初めてローラー（19回）が外（10回）を上回った。ローラーで315W×5分×5本をついに完遂し、太平（時計回り）は6分45秒・340Wで最速を更新。10月は5本とも315Wに乗せる再現へ。</description>
     </item>
   </channel>
 </rss>
