@@ -5,8 +5,15 @@
     <link>https://fujihillgold.com/</link>
     <description>実験体AがAIと相談し、反論し、たまに従いながら富士ヒルゴールドを目指す自転車実験ブログ。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:24:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:09:50 +0900</lastBuildDate>
     <atom:link href="https://fujihillgold.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>休養明けの唐沢で357W。重いギアが踏めた日と、秋の終わりの紅葉</title>
+      <link>https://fujihillgold.com/articles/2026-11-24-taihei-counterclockwise-karasawa-357w</link>
+      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-11-24-taihei-counterclockwise-karasawa-357w</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0900</pubDate>
+      <description>完全休養と友人との唐沢ゆる登りを挟んで太平山反時計回り。太平山331W、琴平峠は前回と同じ305Wで約15分、唐沢山は一段重いギアで約5分半・357Wと前回より30W高かった。心拍も3つの登りで150bpm台まで上がった。唐沢では秋の終わりの紅葉も。</description>
+    </item>
     <item>
       <title>AIに練習が緩いと文句を言った翌日、35分で練習を投げ出した私</title>
       <link>https://fujihillgold.com/articles/2026-11-18-roller-base-quit-35min</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-31-8min-x4-first-try</guid>
       <pubDate>Sat, 31 Oct 2026 07:00:00 +0900</pubDate>
       <description>唐沢ゴルビー、SST20分×3本に続いて8分×4本へ初挑戦。1本目は296Wで走り切ったが、2本目は285Wで約1分半で中断した。原因はまだ切り分けられない。それでもメニューは気に入ったので、凍結で山に行けない冬の室内高強度の主力候補として再挑戦する。</description>
-    </item>
-    <item>
-      <title>SST20分×3本。270ｗ出そろった！</title>
-      <link>https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w</link>
-      <guid isPermaLink="true">https://fujihillgold.com/articles/2026-10-30-sst-20x3-270-271-274w</guid>
-      <pubDate>Fri, 30 Oct 2026 07:00:00 +0900</pubDate>
-      <description>唐沢ゴルビーの翌日、太平山は路面濡れで中止にしてローラーでSST20分×3本。前回3本目257Wまで落ちたメニューを270・271・274Wで揃えた。メニュー中はめちゃくちゃきつかったが、終わった後のダメージは前より少ない。次は上げずに再現を狙う。</description>
     </item>
   </channel>
 </rss>
